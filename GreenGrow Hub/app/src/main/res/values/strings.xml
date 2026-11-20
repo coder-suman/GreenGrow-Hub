@@ -1,0 +1,3107 @@
+<resources>
+    <string name="app_name">Krishi Culture</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crop_care_title">Corp Care</string>
+
+    <!--    Laws-->
+    <string name="Law_Intro">Paddy farming in India is governed by various laws and policies that regulate agriculture, land use, water resources, and the procurement of rice. Here are some key laws and policies related to paddy farming in India:</string>
+    <string name="Laws1">1.Land Use and Ownership Laws</string>
+    <string name="Laws1_details">
+        &#8226;<b>Land Ownership Rights:</b> These laws dictate how land is owned, transferred, leased, or rented. It includes provisions about inheritance, land reforms, and tenant rights.\n\n
+        &#8226;<b>Zoning and Land Use:</b> Some regions have zoning laws that specify what type of farming can occur on certain lands.
+    </string>
+    <string name="Laws2">2.Agricultural Subsidies and Support</string>
+    <string name="Laws2_details">
+        &#8226;Subsidies for Crop Production: Governments often provide financial assistance to farmers in the form of subsidies for crop production, including for paddy cultivation. These laws determine the eligibility for subsidies and the criteria for receiving them.\n\n
+        &#8226;Support for Fertilizer and Pesticide Use: Regulations on the distribution, use, and subsidies for fertilizers and pesticides in crop farming.
+    </string>
+
+    <string name="Laws3">3.Water Management Laws</string>
+    <string name="Laws3_details">
+        &#8226;Irrigation Laws: Paddy farming often requires significant water resources. Water management laws regulate water distribution, rights to water, and irrigation methods.\n\n
+        &#8226; Water Conservation Laws: Regulations focused on the efficient use and conservation of water, especially in water-scarce regions.
+    </string>
+
+    <string name="Laws4">4.Environmental Protection and Sustainability Laws</string>
+    <string name="Laws4_details">
+        &#8226;Sustainable Farming Regulations: Laws that promote sustainable agricultural practices, including soil preservation, water conservation, and pest management.\n\n
+        &#8226; Biodiversity Conservation: Laws that protect surrounding ecosystems from agricultural activities, including crop farming, that might harm native species.
+    </string>
+
+    <string name="Laws5">5.Crop Protection and Disease Management</string>
+    <string name="Laws5_details">
+        &#8226;Pest and Disease Control: Laws regulating the use of pesticides, herbicides, and fungicides, particularly in paddy and other crop farming, to ensure safe usage and minimize environmental impact.\n\n
+        &#8226;Farming Standards for Disease-Free Crops: Regulations that aim to ensure that crops grown for market are free from disease and pests.
+    </string>
+
+    <string name="Laws6">6.Labor Laws in Agriculture</string>
+    <string name="Laws6_details">
+        &#8226;Worker Rights and Safety: These laws protect farm workers\' rights, including fair wages, working hours, and working conditions. Specific laws also apply to workers in paddy and crop farming to ensure safety while using farming equipment or handling pesticides.
+    </string>
+
+    <string name="Laws7">7.Market Regulations</string>
+    <string name="Laws7_details">
+        &#8226;Price Control and Procurement: Some laws regulate the prices of agricultural products, including paddy, to ensure that farmers receive a fair price for their crops. These regulations may include minimum support prices (MSP).\n\n
+        &#8226;Export/Import Laws: Laws governing the export and import of agricultural products, including rice (for paddy farming), affecting the global market for paddy and other crops.
+    </string>
+
+    <string name="Laws8">8.Agricultural Financing and Credit Laws</string>
+    <string name="Laws8_details">
+        &#8226;Farm Credit Laws*: Laws related to financing and providing loans for farmers to buy seeds, fertilizers, equipment, and other essential items for farming.
+    </string>
+
+    <string name="Laws9">9.Food Safety and Labeling Laws</string>
+    <string name="Laws9_details">
+        &#8226;Food Safety Standards: Laws that govern the safety and quality of food crops, including paddy and other grains. These laws regulate how food is processed, stored, and sold to the public.\n\n
+        &#8226;Labelling Requirements: These laws regulate how agricultural products are labeled, including nutritional content and any pesticide residues.
+    </string>
+
+
+    <string name="Other">&#8226;Specific Laws in India </string>
+    <string name="Act_Details">
+        &#8226;1.The Agricultural Produce Market Act (APMC) (1961): Regulates the marketing of agricultural products, including paddy, to ensure fair prices for farmers.\n\n
+
+        &#8226;2.The National Food Security Act (2013): Focuses on providing food security through public distribution systems and fair price shops, including rice (from paddy farming).\n\n
+
+        &#8226;3.The Fertilizer Control Order (1985): Regulates the distribution and use of fertilizers in farming.\n\n
+
+        &#8226;4.The Water (Prevention and Control of Pollution) Act (1974): Governs water pollution and its prevention, which is especially relevant for water-intensive farming practices like paddy cultivation.\n\n
+
+        &#8226;5.The Indian Forest Act (1927): Governs the use of forest lands, which may include agricultural activities, although paddy farming is mostly conducted on non-forest land.\n\n
+
+        &#8226;6.The Insecticides Act (1968): Regulates the import, manufacture, and use of insecticides in farming to ensure they are safe and effective.\n\n
+</string>
+
+
+    <!--    Paddy Section-->
+
+    <string name="AUS_PADDY"></string>
+    <string name="ausPrenursery">
+        1.Seed Selection:\n
+            &#8226;Use early-maturing and drought-tolerant varieties suitable for Aus season. Examples include IR-36, BRRI dhan42, BRRI dhan43, and local upland rice varieties.\n\n
+            2.Seed Treatment:\n
+            &#8226;Soak seeds in clean water for 24 hours.\n
+            &#8226;Incubate for 48 hours to ensure proper sprouting.\n\n
+            3.Seedbed Preparation:\n
+            &#8226;Prepare well-drained raised beds to avoid water stagnation during unexpected rains.\n
+            &#8226;Enrich the soil with organic matter or compost to improve seed germination.\n\n
+            4.Area Requirement:\n
+            Prepare a pre-nursery seedbed of about 0.03–0.05 hectares for 1 hectare of the main field.\n\n
+                    5.Land Preparation:\n
+            &#8226;Nursery beds should be well-tilled, weed-free, and slightly raised (5–7 cm) to prevent waterlogging.\n\n
+            6.Seed Rate:\n
+            &#8226;Use 25–30 kg of seeds for 1 hectare.\n\n
+            7.Water Management:\n
+            &#8226;Maintain a light water layer (1–2 cm) during seedling growth.\n
+            &#8226;Avoid complete drying out or waterlogging.\n\n
+            8.Nutrient Management:\n
+            &#8226;Apply 1–2 tons of well-decomposed organic manure per hectare.\n
+            &#8226;Supplement with light doses of NPK fertilizers for optimal seedling growth.\n\n
+            9.Time Frame:\n
+            The nursery stage lasts for 20–25 days.\n\n
+
+        In Bengali:\n\n
+
+            ১. বীজ নির্বাচন:\n
+            \t\t• অউস মৌসুমের জন্য উপযুক্ত দ্রুত-পাকা এবং খরাপ্রতিরোধী জাত ব্যবহার করুন। উদাহরণস্বরূপ, IR-36, BRRI ধান৪২, BRRI ধান৪৩ এবং স্থানীয় উচ্চভূমির ধানের জাত।\n
+
+            ২. বীজ প্রক্রিয়াকরণ:\n
+            \t\t• বীজ পরিষ্কার পানিতে ২৪ ঘণ্টা ভিজিয়ে রাখুন।\n
+            \t\t• সঠিক অঙ্কুরোদগম নিশ্চিত করতে ৪৮ ঘণ্টা ইনকিউবেট করুন।\n\n
+
+            ৩. বীজতলা প্রস্তুতি:\n
+            \t\t• আকস্মিক বৃষ্টিতে জল জমে না এমনভাবে ভালভাবে নিষ্কাশনযুক্ত উঁচু বীজতলা তৈরি করুন।\n
+            \t\t• বীজের অঙ্কুরোদগম উন্নত করতে মাটিতে জৈব পদার্থ বা কম্পোস্ট মেশান।\n\n
+
+            ৪. জমির প্রয়োজনীয়তা:\n
+            \t\tপ্রধান জমির ১ হেক্টরের জন্য প্রায় ০.০৩–০.০৫ হেক্টর প্রাক-বীজতলা জমি প্রস্তুত করুন।\n\n
+
+            ৫. জমি প্রস্তুতি:\n
+            \t\t• বীজতলা উঁচু (৫–৭ সেমি), আগাছামুক্ত এবং ভালভাবে চাষকৃত হতে হবে যাতে জলাবদ্ধতা না ঘটে।\n\n
+
+            ৬. বীজ হার:\n
+            \t\t• ১ হেক্টরের জন্য ২৫–৩০ কেজি বীজ ব্যবহার করুন।\n\n
+
+            ৭. পানি ব্যবস্থাপনা:\n
+            \t\t• চারা বৃদ্ধির সময় হালকা পানি স্তর (১–২ সেমি) বজায় রাখুন।\n
+            \t\t• পুরোপুরি শুকিয়ে যাওয়া বা জলাবদ্ধতা এড়িয়ে চলুন।\n\n
+
+            ৮. পুষ্টি ব্যবস্থাপনা:\n
+            \t\t• প্রতি হেক্টরে ১–২ টন ভাল পচানো জৈব সার প্রয়োগ করুন।\n
+            \t\t• চারা বৃদ্ধির জন্য হালকা মাত্রায় NPK সারের পরিপূরক প্রয়োগ করুন।\n\n
+
+            ৯. সময়কাল:\n
+            \t\tবীজতলার পর্যায় ২০–২৫ দিন স্থায়ী হয়।\n
+    </string>
+
+
+    <string name="ausNPKfertilizer">
+        1.Soil Type:\n
+            &#8226;Suitable for sandy loam to loamy soils with moderate water retention capacity.\n\n
+            2.Soil pH:\n
+            &#8226;Optimal pH range is 5.5–6.5. Lime application is recommended for acidic soils.\n\n
+            3.Fertilizer Application:\n
+            &#8226;Organic Manure: Apply 5–7 tons/ha during plowing.\n\n
+            &#8226;Chemical Fertilizers:\n
+            \t\t\t&#8226;Nitrogen (Urea): 40–50 kg/ha in split doses.\n
+            \t\t\t&#8226;Phosphorus (P₂O₅): 20–30 kg/ha.\n
+            \t\t\t&#8226;Potassium (K₂O): 20–30 kg/ha.\n
+            \t\t\t&#8226;Zinc (ZnSO₄): 8–10 kg/ha to prevent zinc deficiency.\n\n
+
+        In Bengali:\n\n
+            ১. মাটির ধরন:\n
+            • বেলে-দোঁআশ থেকে দোঁআশ মাটি, যার মধ্যে মাঝারি পানি ধরে রাখার ক্ষমতা রয়েছে, উপযুক্ত।\n\n
+
+            ২. মাটির পিএইচ:\n
+            • আদর্শ পিএইচ পরিসর ৫.৫–৬.৫। অম্লীয় মাটির ক্ষেত্রে চুন প্রয়োগ সুপারিশ করা হয়।\n\n
+
+            ৩. সার প্রয়োগ:\n
+            \t\t• জৈব সার: জমি চাষের সময় ৫–৭ টন/হেক্টর প্রয়োগ করুন।\n\n
+
+            \t\t\t\t• রাসায়নিক সার:\n
+            \t\t\t\t• নাইট্রোজেন (ইউরিয়া): ৪০–৫০ কেজি/হেক্টর, বিভক্ত ডোজে প্রয়োগ করুন।\n
+            \t\t\t\t• ফসফরাস (P₂O₅): ২০–৩০ কেজি/হেক্টর।\n
+            \t\t\t\t• পটাশিয়াম (K₂O): ২০–৩০ কেজি/হেক্টর।\n
+            \t\t\t\t• জিঙ্ক (ZnSO₄): জিঙ্কের অভাব প্রতিরোধে ৮–১০ কেজি/হেক্টর প্রয়োগ করুন।\n
+    </string>
+    <string name="ausGrowingpaddy">
+        1.Transplanting Age:\n
+            &#8226;Transplant seedlings at 20–25 days old.\n\n
+            2.Spacing:\n
+            &#8226;Row spacing: 20 × 15 cm.\n
+            &#8226;Transplant 2 seedlings per hill.\n\n
+            3.Depth:\n
+            &#8226;Plant seedlings shallowly (2–3 cm deep) to ensure good tillering.\n\n
+            4.Irrigation Management:\n
+            &#8226;Maintain a light water layer (3–4 cm) during early growth stages.\n
+            &#8226;Avoid excess water during the flowering stage to prevent lodging.\n\n
+            5.Critical Water Stages:\n
+            &#8226;Early vegetative growth.\n
+            &#8226;Panicle initiation and flowering stages.\n\n
+
+        In Bengali:\n\n
+            ১. রোপণের বয়স:\n
+                \t\t• ২০–২৫ দিন বয়সী চারাগুলো রোপণ করুন।\n\n
+
+                ২. দূরত্ব:\n
+                \t\t• সারি দূরত্ব: ২০ × ১৫ সেমি।\n
+                \t\t• প্রতি গর্তে ২টি চারা রোপণ করুন।\n\n
+
+                ৩. গভীরতা:\n
+                \t\t• চারা অগভীরভাবে (২–৩ সেমি গভীর) রোপণ করুন যাতে ভালো কুশি গজায়।\n\n
+
+                ৪. সেচ ব্যবস্থাপনা:\n
+                \t\t• প্রাথমিক বৃদ্ধির পর্যায়ে হালকা পানির স্তর (৩–৪ সেমি) বজায় রাখুন।\n
+                \t\t• ফুল ফোটার সময় অতিরিক্ত পানি এড়িয়ে চলুন যাতে গাছ পড়ে না যায়।\n\n
+
+                ৫. গুরুত্বপূর্ণ সেচের সময়:\n
+                \t\t• প্রাথমিক শাক-সবজি বৃদ্ধির পর্যায়।\n
+                \t\t• শীষ গজানো এবং ফুল ফোটার পর্যায়।\n
+    </string>
+    <string name="ausOthers">
+        1.Weather Considerations:\n
+            &#8226;Season: Grown during the pre-monsoon season (March to July).\n\n
+            &#8226;Temperature Requirements:\n
+            \t\t\t&#8226;Germination: 20–30°C.\n
+            \t\t\t&#8226;Vegetative Growth: 25–30°C.\n
+            \t\t\t&#8226;Ripening: 30–35°C.\n\n
+            &#8226;Rainfall: Requires moderate rainfall during vegetative growth but thrives under supplemental irrigation in dry spells.\n\n
+            2.Pest and Disease Management:\n
+            &#8226;Weeds:\n
+            \t\t\t&#8226;Use pre-emergence herbicides like Pendimethalin or manual weeding at 15–20 days after transplanting.\n\n
+            &#8226;Pests: Manage stem borers and leaf hoppers with insecticides such as Chlorpyrifos or Imidacloprid.\n\n
+            &#8226;Diseases:\n
+            \t\t\t&#8226;Use Carbendazim for blast control (1 g/liter).\n
+            \t\t\t&#8226;Apply Propiconazole for sheath rot.\n\n
+            3.Harvesting:\n
+            &#8226;Timing: Harvest when 80–85% of grains are golden yellow.\n\n
+            &#8226;Moisture Content: Grains should have 20–22% moisture during harvest.\n\n
+            &#8226;Post-Harvest Practices:\n
+            \t\t\t&#8226;Dry grains to 12–14% moisture for safe storage.\n
+            \t\t\t&#8226;Use mechanical threshers and store grains in moisture-proof containers.\n\n
+            4.Popular Varieties:\n
+            &#8226;IR-36, BRRI dhan42, BRRI dhan43, NERICA (upland varieties), Jaya, Ratna, and Mahsuri.\n\n
+
+        In Bengali:\n\n
+            ১. আবহাওয়ার বিবেচনা:\n
+            \t\t• মৌসুম: প্রাক-বর্ষা মৌসুমে (মার্চ থেকে জুলাই) চাষ করা হয়।\n
+            \t\t• তাপমাত্রার প্রয়োজনীয়তা:\n
+            \t\t• অঙ্কুরোদগম: ২০–৩০°C।\n
+            \t\t• শাক-সবজি বৃদ্ধির জন্য: ২৫–৩০°C।\n
+            \t\t• পাকানোর জন্য: ৩০–৩৫°C।\n
+            \t\t• বৃষ্টিপাত: শাক-সবজি বৃদ্ধির সময় মাঝারি বৃষ্টিপাত প্রয়োজন হয় তবে শুকনো আবহাওয়ায় অতিরিক্ত সেচের ব্যবস্থা ভালো ফলন নিশ্চিত করে।\n\n
+
+            ২. পোকা এবং রোগ ব্যবস্থাপনা:\n
+            \t\t• আগাছা:\n
+            \t\t• পেন্ডিমেথালিনের মতো প্রি-ইমারজেন্স হার্বিসাইড ব্যবহার করুন অথবা রোপণের ১৫–২০ দিন পর হাত দিয়ে আগাছা পরিষ্কার করুন।\n
+            \t\t• পোকামাকড়:\n
+            \t\t• ডাঁটা ছিদ্রকারী পোকা এবং পাতার হপার দমন করতে ক্লোরপাইরিফস বা ইমিডাক্লোপ্রিডের মতো কীটনাশক ব্যবহার করুন।\n
+            \t\t• রোগ:\n
+            \t\t• ব্লাস্ট রোগ নিয়ন্ত্রণের জন্য কারবেন্ডাজিম (১ গ্রাম/লিটার) ব্যবহার করুন।\n
+            \t\t• শীথ রটের জন্য প্রোপিকোনাজল প্রয়োগ করুন।\n\n
+
+            ৩. ফসল কাটা:\n
+            \t\t• সময়: ধানের ৮০–৮৫% শীষ সোনালী হলুদ রঙের হলে কাটুন।\n
+            \t\t• আর্দ্রতা সামগ্রী: কাটার সময় ধানের আর্দ্রতা ২০–২২% হওয়া উচিত।\n
+            \t\t• কাটা পরবর্তী প্রক্রিয়া:\n
+            \t\t• সুরক্ষিত সংরক্ষণের জন্য ধান ১২–১৪% আর্দ্রতায় শুকিয়ে নিন।\n
+            \t\t• যান্ত্রিক থ্রেশার ব্যবহার করুন এবং ধান আর্দ্রতাপ্রতিরোধী পাত্রে সংরক্ষণ করুন।\n\n
+
+            ৪. জনপ্রিয় জাত:\n
+            \t\t• IR-36, BRRI ধান৪২, BRRI ধান৪৩, NERICA (উঁচু জমির জাত), জয়া, রত্না এবং মহসুরী।
+    </string>
+
+
+    <string name="AMON_PADDY"></string>
+    <string name="amonPrenursery">
+          1.Seed Selection:\n
+            &#8226;Use high-yielding and disease-resistant varieties suitable for Aman season. Examples include Swarna, MTU-7029, IR-64, and CR-1018.\n\n
+            2.Seed Treatment:\n
+            &#8226;Soak seeds in clean water for 24 hours.\n
+            &#8226;Incubate for 48 hours to ensure proper sprouting.\n
+            3.Seedbed Preparation:\n
+            &#8226;Prepare raised beds to prevent waterlogging during heavy rains.\n
+            &#8226;Use well-drained soil enriched with organic matter.\n
+            &#8226;Add a thin layer of compost or farmyard manure to improve germination.\n\n
+            4.Area Requirement:\n
+            Prepare a pre-nursery seedbed of about 0.04–0.06 hectares for 1 hectare of the main field.\n\n
+                    5.Land Preparation:\n
+            &#8226;Nursery beds should be well-plowed, level, and free of weeds. Beds are raised 5–8 cm above the ground to avoid waterlogging.\n\n
+            6.Seed Rate:\n
+            &#8226;Use 30–40 kg of seeds for 1 hectare.\n
+            7.Water Management:\n
+            &#8226;Maintain 2–3 cm of standing water during seedling growth.\n
+            &#8226;Avoid water stagnation during early germination.\n\n
+            8.Nutrient Management:\n
+            &#8226;Apply 2–5 tons of well-decomposed organic manure per hectare.\n
+            &#8226;Supplement with balanced doses of NPK fertilizers.\n\n
+            9.Time Frame:\n
+            The nursery stage lasts for 25–30 days.
+
+        In Bengali:\n\n
+            ১. বীজ নির্বাচন:\n
+            \t\t• আমন মৌসুমের জন্য উপযুক্ত উচ্চফলনশীল এবং রোগপ্রতিরোধী জাত ব্যবহার করুন। উদাহরণস্বরূপ, স্বর্ণা, MTU-7029, IR-64, এবং CR-1018।
+
+            ২. বীজ প্রক্রিয়াকরণ:\n
+            \t\t• বীজ পরিষ্কার পানিতে ২৪ ঘণ্টা ভিজিয়ে রাখুন।\n
+            \t\t• সঠিক অঙ্কুরোদগম নিশ্চিত করতে ৪৮ ঘণ্টা ইনকিউবেট করুন।\n\n
+
+            ৩. বীজতলা প্রস্তুতি:\n
+            \t\t• ভারী বৃষ্টির সময় জলাবদ্ধতা প্রতিরোধে উঁচু বীজতলা তৈরি করুন।\n
+            \t\t• জৈব পদার্থ সমৃদ্ধ ভালো নিষ্কাশনযুক্ত মাটি ব্যবহার করুন।\n
+            \t\t• অঙ্কুরোদগম উন্নত করতে কম্পোস্ট বা গোবর সার পাতলা স্তরে প্রয়োগ করুন।\n\n
+
+            ৪. জমির প্রয়োজনীয়তা:\n
+            \t\tপ্রধান ক্ষেত্রের ১ হেক্টরের জন্য প্রায় ০.০৪–০.০৬ হেক্টর প্রাক-বীজতলা জমি প্রস্তুত করুন।\n\n
+
+            ৫. জমি প্রস্তুতি:\n
+            \t\t• বীজতলা ভালোভাবে চাষ, সমান এবং আগাছামুক্ত হতে হবে। জলাবদ্ধতা এড়াতে বীজতলা জমি থেকে ৫–৮ সেমি উঁচুতে তৈরি করুন।
+
+            ৬. বীজ হার:\n
+            \t\t• ১ হেক্টরের জন্য ৩০–৪০ কেজি বীজ ব্যবহার করুন।
+
+            ৭. পানি ব্যবস্থাপনা:\n
+            \t\t• চারা বৃদ্ধির সময় ২–৩ সেমি পানি স্তর বজায় রাখুন।\n
+            \t\t• প্রাথমিক অঙ্কুরোদগমের সময় পানি জমে থাকা এড়িয়ে চলুন।\n\n
+
+            ৮. পুষ্টি ব্যবস্থাপনা:\n
+            \t\t• প্রতি হেক্টরে ২–৫ টন ভালভাবে পচানো জৈব সার প্রয়োগ করুন।\n
+            \t\t• সুষম মাত্রায় NPK সার প্রয়োগ করুন।\n\n
+
+            ৯. সময়কাল:\n
+            \t\tবীজতলার পর্যায় ২৫–৩০ দিন স্থায়ী হয়।\n
+    </string>
+    <string name="amonNPKfertilizer">
+         1.Soil Type:\n
+                &#8226;Prefers clay loam soils with good water retention capacity.\n\n
+                2.Soil pH:\n
+                &#8226;Optimal pH range is 5.5–6.5. Lime application is recommended for acidic soils.\n\n
+                3.Fertilizer Application:\n
+                &#8226;Organic Manure: Apply 5–10 tons/ha during plowing.\n
+                &#8226;Chemical Fertilizers:\n
+                \t\t\t&#8226;Nitrogen (Urea): 60–70 kg/ha in split applications.\n
+                \t\t\t&#8226;Phosphorus (P₂O₅): 30–40 kg/ha.\n
+                \t\t\t&#8226;Potassium (K₂O): 30–40 kg/ha.\n
+                \t\t\t&#8226;Zinc (ZnSO₄): 10 kg/ha to address zinc deficiency.\n
+
+        In Bengali:\n\n
+                ১. মাটির ধরন:\n
+                \t\t• ভালো পানি ধারণ ক্ষমতাসম্পন্ন দোঁআশ মাটি সবচেয়ে উপযুক্ত।\n\n
+
+                ২. মাটির পিএইচ:\n
+                \t\t• আদর্শ পিএইচ পরিসর ৫.৫–৬.৫। অম্লীয় মাটির জন্য চুন প্রয়োগ সুপারিশ করা হয়।\n\n
+
+                ৩. সার প্রয়োগ:\n
+                \t\t• জৈব সার: চাষের সময় প্রতি হেক্টরে ৫–১০ টন প্রয়োগ করুন।\n
+                \t\t• রাসায়নিক সার:\n
+                \t\t\t\t• নাইট্রোজেন (ইউরিয়া): ৬০–৭০ কেজি/হেক্টর, বিভক্ত পর্যায়ে প্রয়োগ করুন।\n
+                \t\t\t\t• ফসফরাস (P₂O₅): ৩০–৪০ কেজি/হেক্টর।\n
+                \t\t\t\t• পটাশিয়াম (K₂O): ৩০–৪০ কেজি/হেক্টর।\n
+                \t\t\t\t• জিঙ্ক (ZnSO₄): ১০ কেজি/হেক্টর জিঙ্কের ঘাটতি পূরণে প্রয়োগ করুন।\n
+    </string>
+    <string name="amonGrowingpaddy">
+        1.Transplanting Age:\n
+                &#8226;Transplant seedlings at 20–25 days old.\n\n
+                2.Spacing:\n
+                &#8226;Row spacing: 20 × 15 cm or 20 × 20 cm.\n
+                &#8226;Transplant 2–3 seedlings per hill.\n\n
+                3.Depth:\n
+                &#8226;Plant seedlings shallowly (2–3 cm deep) to encourage better tillering.\n\n
+                4.Irrigation Management:\n
+                &#8226;Maintain 5–7 cm of standing water during the crop cycle.\n
+                &#8226;Reduce water levels during ripening to prevent lodging.\n\n
+                5.Critical Water Stages:\n
+                &#8226;Panicle initiation.\n
+                &#8226;Flowering and grain filling stages.
+
+        In Bengali:\n\n
+                ১. রোপণের বয়স:\n
+                \t\t• ২০–২৫ দিন বয়সী চারা রোপণ করুন।\n\n
+
+                ২. দূরত্ব:\n
+                \t\t• সারি দূরত্ব: ২০ × ১৫ সেমি বা ২০ × ২০ সেমি।\n
+                \t\t• প্রতি গর্তে ২–৩টি চারা রোপণ করুন।\n\n
+
+                ৩. গভীরতা:\n
+                \t\t• চারা অগভীরভাবে (২–৩ সেমি গভীর) রোপণ করুন যাতে কুশি বৃদ্ধির উন্নতি হয়।\n\n
+
+                ৪. সেচ ব্যবস্থাপনা:\n
+                \t\t• ফসলের চক্রের সময় ৫–৭ সেমি পানি স্তর বজায় রাখুন।\n
+                \t\t• ফসল পাকানোর সময় পানি স্তর কমিয়ে দিন যাতে গাছ পড়ে যাওয়া এড়ানো যায়।\n\n
+
+                ৫. গুরুত্বপূর্ণ সেচের সময়:\n
+                \t\t• শীষ গজানোর সময়।\n
+                \t\t• ফুল ফোটার এবং শস্য পূরণের পর্যায়।\n\n
+    </string>
+    <string name="amonOthers">
+         1.Weather Considerations:\n
+            &#8226;Season: Grown during the monsoon season (June to November).\n\n
+            &#8226;Temperature Requirements:\n
+            \t\t\t&#8226;Germination: 20–30°C.\n
+            \t\t\t&#8226;Tillering: 25–30°C.\n
+            \t\t\t&#8226;Ripening: 30–35°C.\n\n
+            &#8226;Rainfall: Requires consistent rainfall during the early stages of growth.\n\n
+            2.Pest and Disease Management:\n
+            &#8226;Weeds:\n
+            \t\t\t&#8226;Apply pre-emergence herbicides like Pendimethalin within 2–3 days of transplanting.\n
+            \t\t\t&#8226;Manual weeding at 20–25 days after transplanting.\n\n
+            &#8226;Pests: Use insecticides such as Chlorpyrifos or Carbofuran to manage leaf folders, stem borers, and gall midge.\n\n
+            &#8226;Diseases:\n
+            \t\t\t&#8226;Use Carbendazim for blast control (1 g/liter).\n
+            \t\t\t&#8226;Use Hexaconazole for sheath blight.\n\n
+            3.Harvesting:\n
+            &#8226;Timing: Harvest when 85–90% of grains turn golden yellow.\n\n
+            &#8226;Moisture Content: Grains should have 20–22% moisture during harvest.\n\n
+            &#8226;Post-Harvest Practices:\n
+            \t\t\t&#8226;Dry grains to 12–14% moisture for safe storage.\n
+            \t\t\t&#8226;Use mechanical threshers and store grains in moisture-proof containers.\n\n
+            4.Popular Varieties:\n
+            &#8226;Swarna, MTU-7029, CR-1018, IR-64, Pusa Basmati-1, Jaya, Naveen, Ratna, Sita, and Sabita.
+
+        In Bengali:\n\n
+
+            ১. আবহাওয়ার বিবেচনা:\n
+            \t\t• মৌসুম: বর্ষা মৌসুমে (জুন থেকে নভেম্বর) চাষ করা হয়।\n
+            \t\t• তাপমাত্রার প্রয়োজনীয়তা:\n
+            \t\t• অঙ্কুরোদগম: ২০–৩০°C।\n
+            \t\t• কুশি বৃদ্ধির জন্য: ২৫–৩০°C।\n
+            \t\t• পাকানোর জন্য: ৩০–৩৫°C।\n
+            \t\t• বৃষ্টিপাত: শুরুর দিকে সঠিক পরিমাণ বৃষ্টিপাত প্রয়োজন হয়।\n\n
+
+            ২. পোকা এবং রোগ ব্যবস্থাপনা:\n
+            \t\t• আগাছা:\n
+            \t\t• রোপণের ২–৩ দিনের মধ্যে পেন্ডিমেথালিনের মতো প্রি-ইমারজেন্স হার্বিসাইড প্রয়োগ করুন।\n
+            \t\t• রোপণের ২০–২৫ দিন পর হাতে আগাছা পরিষ্কার করুন।\n
+            \t\t• পোকামাকড়:\n
+            \t\t• পাতা মোচড়ানো পোকা, ডাঁটা ছিদ্রকারী পোকা এবং গ্যাল মিজ নিয়ন্ত্রণে ক্লোরপাইরিফস বা কার্বোফুরান ব্যবহার করুন।\n
+            \t\t• রোগ:\n
+            \t\t• ব্লাস্ট নিয়ন্ত্রণের জন্য কারবেন্ডাজিম (১ গ্রাম/লিটার) ব্যবহার করুন।\n
+            \t\t• শীথ ব্লাইটের জন্য হেক্সাকোনাজল ব্যবহার করুন।\n\n
+
+            ৩. ফসল কাটা:\n
+            \t\t• সময়: ধানের ৮৫–৯০% শীষ সোনালী হলুদ রঙ ধারণ করলে কাটুন।\n
+            \t\t• আর্দ্রতা সামগ্রী: কাটার সময় ধানের আর্দ্রতা ২০–২২% হওয়া উচিত।\n
+            \t\t• কাটা পরবর্তী প্রক্রিয়া:\n
+            \t\t• সুরক্ষিত সংরক্ষণের জন্য ধান ১২–১৪% আর্দ্রতায় শুকিয়ে নিন।\n
+            \t\t• যান্ত্রিক থ্রেশার ব্যবহার করুন এবং ধান আর্দ্রতাপ্রতিরোধী পাত্রে সংরক্ষণ করুন।\n\n
+
+            ৪. জনপ্রিয় জাত:\n
+            \t\t• স্বর্ণা, MTU-7029, CR-1018, IR-64, পূসা বাসমতী-১, জয়া, নবীন, রত্না, সীতা এবং সাবিতা।\n\n
+    </string>
+
+
+    <string name="BORO_PADDY"></string>
+
+    <string name="boroPrenursery">
+        1.Seed Selection:\n
+        Use high-yielding and disease-resistant varieties suitable for Boro season. Examples include BRRI dhan28, BRRI dhan29, and local hybrids.\n\n
+        2.Seed Treatment:\n
+        &#8226;Soak seeds in clean water for 24 hours.\n
+        &#8226;Incubate for 48 hours to ensure proper sprouting.\n\n
+        3.Seedbed Preparation:\n
+        &#8226;Prepare raised beds to prevent waterlogging.\n
+        &#8226;Use well-drained soil with sufficient organic matter.\n
+        &#8226;Add a thin layer of compost to improve germination.\n\n
+        4.Area Requirement:\n
+        Prepare a pre-nursery seedbed of about 0.03–0.05 hectares for 1 hectare of the main field.\n\n
+        5.Land Preparation:\n
+        Nursery beds should be well-plowed, level, and free of weeds. Beds are raised about 5–10 cm above the ground.\n\n
+        6.Seed Rate:\n
+        Use 30–40 kg of seeds for 1 hectare.\n\n
+        7.Water Management:\n
+        &#8226;Maintain 2–3 cm of standing water during seedling growth.\n
+        &#8226;Avoid water stagnation during early germination.\n\n
+        8.Nutrient Management:\n
+        Apply well-decomposed organic manure (2–5 tons/ha). Additionally, use nitrogen (N), phosphorus (P), and potassium (K) fertilizers in appropriate doses.\n\n
+        9.Time Frame:
+        The nursery stage lasts for 30–40 days.
+
+        In Bengali:\n\n
+
+        ১. বীজ নির্বাচন:\n
+        \t\tবোরো মৌসুমের জন্য উপযুক্ত উচ্চফলনশীল এবং রোগ প্রতিরোধী জাত ব্যবহার করুন। উদাহরণস্বরূপ, BRRI dhan২৮, BRRI dhan২৯, এবং স্থানীয় হাইব্রিড।
+
+        ২. বীজ প্রক্রিয়াকরণ:\n
+        \t\t• বীজগুলি ২৪ ঘণ্টা পরিষ্কার পানিতে ভিজিয়ে রাখুন।\n
+        \t\t• সঠিক অঙ্কুরোদগম নিশ্চিত করতে ৪৮ ঘণ্টা ইনকিউবেট করুন।\n\n
+
+        ৩. বীজবেড প্রস্তুতি:\n
+        \t\t• পানি জমে না যাওয়ার জন্য উঁচু বেড প্রস্তুত করুন।\n
+        \t\t• ভালোভাবে সিক্ত মাটি ব্যবহার করুন যাতে যথেষ্ট জৈব উপাদান থাকে।\n
+        \t\t• অঙ্কুরোদগম উন্নত করার জন্য এক স্তর কম্পোস্ট যোগ করুন।\n\n
+
+        ৪. এলাকা প্রয়োজন:\n
+        \t\t১ হেক্টর প্রধান ক্ষেত্রের জন্য প্রাক-নাস্তা বীজবেড প্রস্তুত করুন, যার আকার প্রায় ০.০৩–০.০৫ হেক্টর।\n\n
+
+        ৫. জমি প্রস্তুতি:\n
+        \t\tনার্সারি বেডগুলি ভালোভাবে চাষ করা, সমতল এবং আগাছামুক্ত হওয়া উচিত। বেডগুলি প্রায় ৫–১০ সেমি উঁচু করা হয়।\n\n
+
+        ৬. বীজের পরিমাণ:\n
+        \t\t১ হেক্টর জমির জন্য ৩০–৪০ কেজি বীজ ব্যবহার করুন।\n\n
+
+        ৭. পানি ব্যবস্থাপনা:\n
+        \t\t• বীজপতঙ্গ বৃদ্ধি চলাকালীন ২–৩ সেমি পানি জমে থাকতে দিন।\n
+        \t\t• অঙ্কুরোদগমের প্রাথমিক সময়ে পানি জমে না যাওয়া নিশ্চিত করুন।\n\n
+
+        ৮. পুষ্টির ব্যবস্থাপনা:\n
+        \t\tভালভাবে পচে যাওয়া জৈব সার (২–৫ টন/হেক্টর) প্রয়োগ করুন। এছাড়া, যথাযথ পরিমাণে নাইট্রোজেন (N), ফসফরাস (P), এবং পটাসিয়াম (K) সার ব্যবহার করুন।\n\n
+
+        ৯. সময়সীমা:\n
+        \t\tনার্সারি পর্যায়টি ৩০–৪০ দিন স্থায়ী হয়।\n
+</string>
+    <string name="boroNPKfertilizer">
+        1.Soil Type:\n
+            Prefers clayey loam to loamy soils with good water retention capacity.\n\n
+
+            2.Soil pH:\n
+            Optimal pH range is 5.5–6.5. Lime is applied for acidic soils.\n\n
+
+            3.Fertilizer Application:\n
+            • Organic Manure: Apply 5–10 tons/ha before plowing.\n\n
+            • Chemical Fertilizers:\n
+            • Nitrogen (Urea): 60–70 kg/ha in split applications.\n
+            • Phosphorus (P₂O₅): 30–40 kg/ha.\n
+            • Potassium (K₂O): 30–40 kg/ha.\n
+            • Zinc (ZnSO₄): 10 kg/ha to prevent zinc deficiency.\n\n
+
+        In Bengali:\n\n
+            ১. মাটি প্রকার:\n
+            \t\tমাটি হওয়া উচিত লোনা মাটি থেকে লোমি মাটির মধ্যে, যা ভালো জল ধারণ ক্ষমতা রাখে।\n
+
+            ২. মাটি pH:\n
+            \t\tআদর্শ pH পরিসীমা ৫.৫–৬.৫। অ্যাসিডিক মাটির জন্য চুন ব্যবহার করা হয়।\n\n
+
+            ৩. সার প্রয়োগ:\n
+            \t\t• জৈব সার: চাষ করার আগে ৫–১০ টন/হেক্টর প্রয়োগ করুন।\n
+            \t\t• রসায়নিক সার:\n
+            \t\t\t\t• নাইট্রোজেন (ইউরিয়া): ৬০–৭০ কেজি/হেক্টর ভাগে ভাগে প্রয়োগ করুন।\n
+            \t\t\t\t• ফসফরাস (P₂O₅): ৩০–৪০ কেজি/হেক্টর।\n
+            \t\t\t\t• পটাসিয়াম (K₂O): ৩০–৪০ কেজি/হেক্টর।\n
+            \t\t\t\t• জিঙ্ক (ZnSO₄): জিঙ্কের অভাব প্রতিরোধ করতে ১০ কেজি/হেক্টর।\n
+    </string>
+    <string name="boroGrowingpaddy">
+        1.Transplanting Age:\n
+            Seedlings are transplanted at 30–40 days old.\n\n
+            2.Spacing:\n
+            \t\t\t&#8226;Row spacing: 20 × 15 cm or 20 × 20 cm.\n
+            \t\t\t&#8226;Transplant 2–3 seedlings per hill.\n\n
+            3.Depth:\n
+            Ensure seedlings are planted shallowly (2–3 cm deep), as deep planting can reduce tillering.\n\n
+            4.Irrigation Management:\n
+            \t\t\t&#8226;Maintain 5–7 cm of standing water during the crop cycle.\n
+            \t\t\t&#8226;Reduce water levels during ripening to prevent lodging.\n\n
+            5.Critical Water Stages:\n
+            \t\t\t&#8226;Panicle initiation.\n
+            \t\t\t&#8226;Flowering and grain filling stages.\n
+
+        In Bengali:\n\n
+            ১. প্রতিস্থাপন বয়স:\n
+            \t\t৩০–৪০ দিনের বয়সী চারা প্রতিস্থাপন করা হয়।\n\n
+
+            ২. ব্যবধান:\n
+            \t\t• সারি ব্যবধান: ২০ × ১৫ সেমি বা ২০ × ২০ সেমি।\n
+            \t\t• প্রতি হিলে ২–৩টি চারা প্রতিস্থাপন করুন।\n\n
+
+            ৩. গভীরতা:\n
+            \t\tচারা গুলি সেঁধানো ভাবে (২–৩ সেমি গভীরে) রোপণ করতে হবে, কারণ গভীরভাবে রোপণ করলে টিলারিং কম হতে পারে।\n\n
+
+            ৪. সেচ ব্যবস্থাপনা:\n
+            \t\t• ফসলের চক্র চলাকালীন ৫–৭ সেমি পানি দাঁড়িয়ে থাকতে দিন।\n
+            \t\t• পরিপক্বতার সময় পানি স্তর কমিয়ে দিন যাতে ফসল হেলে না পড়ে।\n\n
+
+            ৫. সমালোচনামূলক পানি পর্যায়:\n
+            \t\t• প্যানিকল উৎপত্তি।\n
+            \t\t• ফুল এবং দানাপূর্ণতার পর্যায়।\n\n
+    </string>
+    <string name="boroOthers">
+        1.Weather Considerations:\n
+            &#8226;Season: Grown from November to May during the dry season.\n
+            &#8226;Temperature Requirements:\n
+            \t\t\t&#8226;Germination: 18–25°C.\n
+            \t\t\t&#8226;Tillering: 20–25°C.\n
+            \t\t\t&#8226;Ripening: 25–30°C.\n
+            &#8226;Sunlight: Requires adequate sunlight throughout growth stages.\n\n
+            2.Pest and Disease Management:\n
+            &#8226;Weeds:\n
+            \t\t\t&#8226;Apply pre-emergence herbicides like Butachlor within 2–3 days of transplanting.\n
+            \t\t\t&#8226;Manual weeding at 20–25 days after transplanting.\n
+            &#8226;Pests: Use insecticides such as Chlorpyrifos or Imidacloprid to manage stem borers and brown plant hoppers.\n
+            &#8226;Diseases:\n
+            \t\t\t&#8226;Use Tricyclazole for blast control (0.6 g/liter).\n
+            \t\t\t&#8226;Use Propiconazole for sheath blight.\n\n
+            3.Harvesting:\n
+            &#8226;Timing: Harvest when 80–85% of grains are mature and golden yellow.\n
+            &#8226;Moisture Content: Grains should have 20–22% moisture during harvest.\n
+            &#8226;Post-Harvest Practices:\n
+            \t\t\t&#8226;Dry grains to 12–14% moisture for safe storage.\n
+            \t\t\t&#8226;Use mechanical threshers and store in moisture-proof containers.\n\n
+            4.Popular Varieties:\n
+            &#8226;Swarna Sub-1, MTU-1010, CR 1014, Pusa Sugandh-5, BRRI dhan 28, BRRI dhan 29, Prabhat, Jaya, Sita, Naveen, BPT 5204 (Samba Mahsuri).
+
+        In Bengali:\n\n
+            ১. আবহাওয়ার বিবেচনা:\n
+            \t\t• মৌসুম: শুকনো মৌসুমে নভেম্বর থেকে মে পর্যন্ত চাষ করা হয়।\n
+            \t\t• তাপমাত্রার চাহিদা:\n
+            \t\t• অঙ্কুরোদগম: ১৮–২৫°C।\n
+            \t\t• টিলারিং: ২০–২৫°C।\n
+            \t\t• পরিপক্বতা: ২৫–৩০°C।\n
+            \t\t• রোদ: গাছের বৃদ্ধির সমস্ত পর্যায়ে যথেষ্ট রোদ প্রয়োজন।\n\n
+
+            ২. পোকামাকড় এবং রোগ নিয়ন্ত্রণ:\n
+            \t\t• আগাছা:\n
+            \t\t• প্রতিস্থাপনের ২–৩ দিনের মধ্যে পূর্ববর্তী ঔষধ যেমন বুটাচ্লর প্রয়োগ করুন।\n
+            \t\t• ২০–২৫ দিন পর ম্যানুয়াল আগাছা পরিষ্কার করুন।\n
+            \t\t• পোকামাকড়: স্টেম বোরার এবং বাদামী উদ্ভিদ হপার নিয়ন্ত্রণের জন্য ক্লোরপিরিফোস বা ইমিডাক্লোপ্রিড মতো কীটনাশক ব্যবহার করুন।\n
+            \t\t• রোগ:\n
+            \t\t• ব্লাস্ট নিয়ন্ত্রণের জন্য ট্রাইক্লাজল ব্যবহার করুন (০.৬ গ্রাম/লিটার)।\n
+            \t\t• শীথ ব্লাইটের জন্য প্রোপিকোনাজল ব্যবহার করুন।\n\n
+
+            ৩. কাটার সময়:\n
+            \t\t• সময়: ৮০–৮৫% শস্য পরিপক্ব এবং সোনালী হলুদ হওয়ার পরে কাটা হয়।\n
+            \t\t• আর্দ্রতা কন্টেন্ট: কাটার সময় শস্যের আর্দ্রতা ২০–২২% থাকা উচিত।\n
+            \t\t• পরবর্তী ফসলের প্রস্তুতি:\n
+            \t\t• শস্য শুকিয়ে ১২–১৪% আর্দ্রতা রাখুন নিরাপদ সংরক্ষণ জন্য।\n
+            \t\t• যান্ত্রিক থ্রেশার ব্যবহার করুন এবং আর্দ্রতাবিহীন কনটেইনারে সংরক্ষণ করুন।\n\n
+
+            ৪. জনপ্রিয় জাত:\n
+            \t\t• স্বর্ণা সাব-১, এমটিইউ-১০১০, সিআর ১০১৪, পুসা সুগন্ধ-৫, ব্রRI dhan 28, ব্রRI dhan 29, প্রভাত, জয়া, সীতা, নবীন, BPT 5204 (সাম্বা মহসুরি)।\n
+    </string>
+
+
+    <string name="detailsHeader">Detailed Product</string>
+    <string name="ammoniumNitrate">Ammonium Nitrate</string>
+
+    <!--    Fertilizer name-->
+    <string-array name="fertilizer_names">
+        <item>Ammonium Nitrate</item>
+        <item>Ammonium Sulfate</item>
+        <item>Bone Meal</item>
+        <item>Chemical NPK Fertilizer</item>
+        <item>Di ammonium Phosphate</item>
+        <item>Green Gold Calcium Ammonium Nitrate</item>
+        <item>Gypsum</item>
+        <item>Iron Chelate</item>
+        <item>Magnesium Sulphate</item>
+        <item>Manure Organic</item>
+        <item>Mono Ammonium Phosphate</item>
+        <item>Muriate Of Potash</item>
+        <item>Organic Compost</item>
+        <item>Potassium Nitrate KNO3</item>
+        <item>Sansar Agro NPK</item>
+        <item>Single Super Phosphate</item>
+        <item>Sulfate Of Potash</item>
+        <item>Super Phosphate</item>
+        <item>Triple Super phosphate</item>
+        <item>Urea</item>
+        <item>Zinc Sulfate</item>
+    </string-array>
+
+    <!-- Fertilizer details (to be fetched dynamically in Java) -->
+    <string-array name="fertilizer_descriptions">
+        <item>@string/fertilizer_details_ammonium_nitrate</item>
+        <item>@string/fertilizer_details_ammonium_sulfate</item>
+        <item>@string/fertilizer_details_bone_meal</item>
+        <item>@string/fertilizer_details_chemical_npk_fertilizer</item>
+        <item>@string/fertilizer_details_di_ammonium_phosphate</item>
+        <item>@string/fertilizer_details_green_gold_calcium_ammonium_nitrate</item>
+        <item>@string/fertilizer_details_gypsum</item>
+        <item>@string/fertilizer_details_iron_chelate</item>
+        <item>@string/fertilizer_details_magnesium_sulphate</item>
+        <item>@string/fertilizer_details_manure_organic</item>
+        <item>@string/fertilizer_details_mono_ammonium_phosphate</item>
+        <item>@string/fertilizer_details_muriate_of_potash</item>
+        <item>@string/fertilizer_details_organic_compost</item>
+        <item>@string/fertilizer_details_potassium_nitrate_kno3</item>
+        <item>@string/fertilizer_details_sansar_agro_NPK</item>
+        <item>@string/fertilizer_details_single_super_phosphate</item>
+        <item>@string/fertilizer_details_sulfate_of_potash</item>
+        <item>@string/fertilizer_details_super_phosphate</item>
+        <item>@string/fertilizer_details_triple_super_phosphate</item>
+        <item>@string/fertilizer_details_urea</item>
+        <item>@string/fertilizer_details_zinc_sulfate</item>
+    </string-array>
+
+    <!--    Individual string-->
+
+    <string name="fertilizer_details_ammonium_nitrate">
+        1. Why use?\n\n
+           \t\t- Provides essential nitrogen for plant growth and increased yields.\n\n
+
+        2. Market price?\n\n
+           \t\t- ₹30 to ₹50 per kg.\n\n
+
+        3. Weather resistance?\n\n
+           \t\t- Best in rainy season; avoid humid and cold conditions.\n\n
+
+        4. Uses in Aus, Boro, Amon paddy?\n\n
+           \t\t- Boro: 50-100 kg/acre, Amon: 30-50 kg/acre, Aus: 20-30 kg/acre.\n\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- উদ্ভিদের বৃদ্ধির জন্য প্রয়োজনীয় নাইট্রোজেন সরবরাহ করে এবং ফলন বাড়ায়।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹30 থেকে ₹50 প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- বর্ষাকালে সবচেয়ে ভালো; আর্দ্র এবং ঠান্ডা অবস্থায় ব্যবহার থেকে বিরত থাকুন।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- বোরো: ৫০-১০০ কেজি/একর, আমন: ৩০-৫০ কেজি/একর, আউস: ২০-৩০ কেজি/একর।\n\n
+    </string>
+
+    <string name="fertilizer_details_ammonium_sulfate">
+         1. Why use?\n\n
+           \t\t- Provides nitrogen and sulfur, essential for plant growth, especially for crops like cereals, legumes, and vegetables.\n\n
+
+        2. Market price?\n\n
+           \t\t- ₹20 to ₹40 per kg (price may vary by region and quantity).\n\n
+
+        3. Weather resistance?\n\n
+           \t\t- Effective in both wet and dry seasons; best applied when soil moisture is adequate.\n\n
+
+        4. Uses in Aus, Boro, Amon paddy?\n\n
+           \t\t- Boro: 40-60 kg/acre; Amon and Aus: 20-40 kg/acre, depending on soil and crop requirements.\n\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- নাইট্রোজেন এবং সালফার সরবরাহ করে, যা উদ্ভিদের বৃদ্ধির জন্য প্রয়োজনীয়, বিশেষত শস্য, ডাল এবং সবজি জাতীয় ফসলের জন্য।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹২০ থেকে ₹৪০ প্রতি কেজি (মূল্য অঞ্চল এবং পরিমাণ অনুযায়ী পরিবর্তিত হতে পারে)।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- ভিজে এবং শুকনো উভয় মৌসুমেই কার্যকর; মাটিতে যথেষ্ট আর্দ্রতা থাকলে এটি সবচেয়ে ভালোভাবে প্রয়োগ করা হয়।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- বোরো: ৪০-৬০ কেজি/একর; আমন এবং আউস: ২০-৪০ কেজি/একর, মাটি এবং ফসলের প্রয়োজনীয়তার ওপর নির্ভর করে।\n\n
+    </string>
+
+    <string name="fertilizer_details_bone_meal">
+        1. Why use?\n\n
+           \t\t- Promotes root growth and flowering with high phosphorus and calcium content.\n\n
+
+        2. Market price?\n\n
+           \t\t- ₹25-₹50 per kg.\n\n
+
+        3. Weather resistance?\n\n
+           \t\t- Effective in all weather conditions.\n\n
+
+        4. Uses in Aus, Boro, Amon paddy?\n\n
+           \t\t- Used for root growth, apply 10-20 kg/acre.\n\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- উচ্চ ফসফরাস এবং ক্যালসিয়াম উপাদানসহ মূলোৎপাদন এবং ফুল ফোটানোর জন্য সহায়ক।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹২৫-₹৫০ প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- সকল আবহাওয়া পরিস্থিতিতেই কার্যকর।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- মূলোৎপাদন বাড়ানোর জন্য ব্যবহৃত, ১০-২০ কেজি/একর প্রয়োগ করুন।\n\n
+    </string>
+
+    <string name="fertilizer_details_chemical_npk_fertilizer">
+        1. Why use?\n\n
+           \t\t- Provides essential nutrients: Nitrogen, Phosphorus, Potassium.\n\n
+
+        2. Market price?\n\n
+          \t\t- ₹20-₹40 per kg.\n\n
+
+        3. Weather resistance?\n\n
+           \t\t- Suitable for moderate climates.\n\n
+
+        4. Uses in paddy?\n\n
+           \t\t- Used in all paddy types; 20-30 kg/acre.\n\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- মৌলিক পুষ্টি উপাদান প্রদান করে: নাইট্রোজেন, ফসফরাস, পটাসিয়াম।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹২০-₹৪০ প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- মাঝারি আবহাওয়া অবস্থায় উপযুক্ত।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- সকল ধরনের ধানে ব্যবহৃত হয়; ২০-৩০ কেজি/একর।\n\n
+    </string>
+
+    <string name="fertilizer_details_di_ammonium_phosphate">
+        1. Why use? \n\n
+           \t\t- Provides essential phosphorus and nitrogen for healthy plant growth.\n\n
+
+        2. Market price? \n\n
+           \t\t- ₹25-₹50 per kg.\n\n
+
+        3. Weather resistance?\n\n
+           \t\t- Best applied during dry to moderate weather conditions.\n\n
+
+        4. Uses in paddy?\n\n
+           \t\t- Suitable for Boro, Amon, and Aus paddy; 20-30 kg/acre.\n\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- সুস্থ উদ্ভিদের বৃদ্ধি নিশ্চিত করতে প্রয়োজনীয় ফসফরাস এবং নাইট্রোজেন প্রদান করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹২৫-₹৫০ প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- শুকনো থেকে মাঝারি আবহাওয়া পরিস্থিতিতে সবচেয়ে ভালো ব্যবহার করা হয়।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- বোরো, আমন, ও আউস ধানে উপযুক্ত; ২০-৩০ কেজি/একর।\n\n
+    </string>
+
+    <string name="fertilizer_details_green_gold_calcium_ammonium_nitrate">
+        1. Why Use?\n\n
+           \t\t- Used as a nitrogen fertilizer for healthy crop growth and root development.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹30 to ₹45 per kg.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Best used in the rainy season; avoid in humid or hot conditions.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Primarily used in Boro paddy, also in Amon and Aus paddy based on soil needs.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- স্বাস্থ্যকর ফসল বৃদ্ধির জন্য নাইট্রোজেন সার হিসেবে ব্যবহৃত হয় এবং শিকড়ের উন্নয়নকে সহায়তা করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹৩০ থেকে ₹৪৫ প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- বর্ষাকালে সবচেয়ে ভালো ব্যবহার করা হয়; আর্দ্র বা গরম অবস্থায় ব্যবহার থেকে বিরত থাকুন।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- প্রধানত বোরো ধানে ব্যবহৃত হয়, এছাড়াও মাটির প্রয়োজন অনুযায়ী আমন এবং আউস ধানে ব্যবহার করা হয়।\n\n
+    </string>
+    <string name="fertilizer_details_gypsum">
+        1. Why Use?\n\n
+           \t\t- Used to improve soil structure, provide calcium, and reduce soil acidity.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹20 to ₹35 per kg.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Can be applied in both wet and dry conditions; avoid in extremely hot weather.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Mainly used in Boro and Amon paddy farming to enhance soil quality and nutrient availability.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- মাটির গঠন উন্নত করতে, ক্যালসিয়াম প্রদান করতে এবং মাটির অম্লতা কমাতে ব্যবহৃত হয়।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹২০ থেকে ₹৩৫ প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- ভিজে এবং শুস্ক উভয় অবস্থাতেই প্রয়োগ করা যেতে পারে; অত্যন্ত গরম আবহাওয়া থেকে বিরত থাকুন।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- প্রধানত বোরো এবং আমন ধান চাষে মাটির গুণগত মান উন্নত করতে এবং পুষ্টির প্রাপ্যতা বাড়াতে ব্যবহৃত হয়।\n\n
+    </string>
+
+    <string name="fertilizer_details_iron_chelate">
+        1. Why Use?\n\n
+           \t\t- Used to correct iron deficiency in plants, improving chlorophyll production and overall plant health.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹150 to ₹300 per kg, depending on form (liquid or powder).\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Effective in all weather conditions, but best applied in moderate temperatures.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Commonly used in Amon and Boro paddy farming to correct iron deficiencies in soils with high pH.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- গাছের আয়রন অভাব সংশোধন করতে ব্যবহৃত হয়, যা ক্লোরোফিল উৎপাদন এবং সামগ্রিক গাছের স্বাস্থ্য উন্নত করতে সহায়ক।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹১৫০ থেকে ₹৩০০ প্রতি কেজি, ফর্ম (লিকুইড বা পাউডার) অনুযায়ী।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- সমস্ত আবহাওয়া পরিস্থিতিতেই কার্যকর, তবে মাঝারি তাপমাত্রায় প্রয়োগ করা সর্বোত্তম।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- সাধারণত আমন এবং বোরো ধান চাষে ব্যবহৃত হয়, বিশেষ করে এমন মাটিতে যেখানে উচ্চ pH এবং আয়রনের অভাব থাকে।\n\n
+    </string>
+
+    <string name="fertilizer_details_magnesium_sulphate">
+        1. Why Use?\n\n
+           \t\t- Provides magnesium and sulfur, essential for photosynthesis, plant growth, and chlorophyll production.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹30 to ₹50 per kg, depending on the form (granular or solution).\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Best applied during dry weather; excessive rainfall can wash away the nutrients.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Used in **Amon** and Boro paddy farming to correct magnesium and sulfur deficiencies, improving grain yield and plant health.
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- ম্যাগনেসিয়াম এবং সালফার সরবরাহ করে, যা ফটোসিনথেসিস, গাছের বৃদ্ধি এবং ক্লোরোফিল উৎপাদনের জন্য অপরিহার্য।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹৩০ থেকে ₹৫০ প্রতি কেজি, ফর্ম (গ্রানুলার বা সলিউশন) অনুযায়ী।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- শুষ্ক আবহাওয়ায় সেরা প্রয়োগ করা হয়; অতিরিক্ত বৃষ্টিপাত পুষ্টি উপাদানগুলো ধুয়ে ফেলতে পারে।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- আমন এবং বোরো ধান চাষে ব্যবহৃত হয় ম্যাগনেসিয়াম এবং সালফার অভাব দূর করতে, যা শস্য ফলন এবং গাছের স্বাস্থ্য উন্নত করে।\n\n
+    </string>
+
+    <string name="fertilizer_details_manure_organic">
+        1. Why Use?\n\n
+           \t\t- Improves soil structure, provides essential nutrients, and promotes microbial activity in the soil.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹15 to ₹30 per kg, depending on quality and source.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Can be used in all weather conditions; however, its most effective when applied before planting or during the growing season.
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Commonly used in Aus, Amon, and Boro paddy farming to enhance soil fertility and support healthy plant growth.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- মাটির গঠন উন্নত করে, অপরিহার্য পুষ্টি উপাদান সরবরাহ করে এবং মাটিতে মাইক্রোবিয়াল কার্যক্রম উৎসাহিত করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹১৫ থেকে ₹৩০ প্রতি কেজি, গুণমান এবং উৎস অনুযায়ী।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- সব ধরনের আবহাওয়ায় ব্যবহার করা যেতে পারে; তবে এটি সবচেয়ে কার্যকর যখন চাষের আগে বা বৃদ্ধি মৌসুমে প্রয়োগ করা হয়।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- আউস, আমন এবং বোরো ধান চাষে মাটির উর্বরতা বৃদ্ধি এবং স্বাস্থ্যকর গাছের বৃদ্ধির জন্য সাধারণত ব্যবহৃত হয়।\n\n
+    </string>
+
+    <string name="fertilizer_details_mono_ammonium_phosphate">
+        1. Why Use?\n\n
+           \t\t- Provides essential phosphorus and nitrogen for strong root development and overall plant growth.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹30 to ₹60 per kg, depending on the region and market conditions.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Best applied in moderate weather conditions; avoid application during heavy rainfall or extreme heat.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Commonly used in Amon and Boro paddy farming to promote early growth and root establishment.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- শক্তিশালী শিকড়ের উন্নয়ন এবং সামগ্রিক গাছের বৃদ্ধি জন্য অপরিহার্য ফসফরাস এবং নাইট্রোজেন সরবরাহ করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹৩০ থেকে ₹৬০ প্রতি কেজি, অঞ্চল এবং বাজার পরিস্থিতি অনুযায়ী।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- মাঝারি আবহাওয়ার পরিস্থিতিতে এটি সর্বোত্তমভাবে প্রয়োগ করা হয়; ভারী বৃষ্টিপাত বা অতিরিক্ত গরম আবহাওয়ায় প্রয়োগ করা থেকে এড়িয়ে চলুন।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- আমন এবং বোরো ধান চাষে প্রাথমিক বৃদ্ধি এবং শিকড় স্থাপন促াণের জন্য সাধারণত ব্যবহৃত হয়।\n\n
+    </string>
+
+    <string name="fertilizer_details_muriate_of_potash">
+        1. Why Use?\n\n
+           \t\t- Provides potassium, essential for improving disease resistance, root development, and overall plant health.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹25 to ₹45 per kg, depending on location and market conditions.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Best applied during dry conditions. Avoid during heavy rainfall to prevent leaching.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Effective in Boro and Amon paddy farming, aiding in strong stem development and improving drought tolerance.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- পটাসিয়াম সরবরাহ করে, যা রোগ প্রতিরোধ ক্ষমতা, শিকড়ের বিকাশ এবং সামগ্রিক গাছের স্বাস্থ্য উন্নত করতে অপরিহার্য।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹২৫ থেকে ₹৪৫ প্রতি কেজি, অবস্থান এবং বাজার পরিস্থিতি অনুযায়ী।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- শুষ্ক পরিস্থিতিতে এটি সর্বোত্তমভাবে প্রয়োগ করা হয়। ভারী বৃষ্টিপাতের সময় ব্যবহার করা এড়িয়ে চলুন যাতে পুষ্টি উপাদান লিক হতে না পারে।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- বোরো এবং আমন ধান চাষে কার্যকর, যা শক্তিশালী ডাঁটা বিকাশে সাহায্য করে এবং খরা সহিষ্ণুতা উন্নত করে।\n\n
+    </string>
+
+    <string name="fertilizer_details_organic_compost">
+        1. Why Use?\n\n
+           \t\t- Enhances soil fertility, improves soil structure, and provides essential nutrients for plant growth. It promotes sustainable farming by enriching the soil with organic matter.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹500 to ₹1500 per ton, depending on quality and region.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Suitable for all weather conditions, but best applied before rainy seasons to retain moisture and nutrients.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Used in Aus, Boro, and Amon paddy farming to improve soil health, increase water retention, and support healthy root growth.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- মাটির উর্বরতা বৃদ্ধি করে, মাটির গঠন উন্নত করে এবং গাছের বৃদ্ধির জন্য অপরিহার্য পুষ্টি উপাদান সরবরাহ করে। এটি অর্গানিক বস্তু দিয়ে মাটি সমৃদ্ধ করে টেকসই চাষাবাদ প্রচার করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹৫০০ থেকে ₹১৫০০ প্রতি টন, গুণগত মান এবং অঞ্চল অনুযায়ী।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- সব আবহাওয়ার পরিস্থিতির জন্য উপযুক্ত, তবে বর্ষাকালে মাটির আর্দ্রতা এবং পুষ্টি উপাদান ধরে রাখতে এটি আগে প্রয়োগ করা সর্বোত্তম।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- আউস, বোরো এবং আমন ধান চাষে মাটি স্বাস্থ্য উন্নত করতে, পানি ধারণ ক্ষমতা বাড়াতে এবং শিকড়ের সঠিক বিকাশে সহায়তা করতে ব্যবহৃত হয়।\n\n
+    </string>
+
+    <string name="fertilizer_details_potassium_nitrate_kno3">
+        1. Why Use?\n\n
+           \t\t- Potassium Nitrate is a high-quality fertilizer that provides essential potassium and nitrogen, promoting plant growth, improving root development, and enhancing resistance to diseases.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹35 to ₹55 per kg, depending on location and market conditions.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Best applied during the growing season. Avoid application during heavy rainfall or high humidity to prevent leaching and loss of nutrients.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Amon, Boro, and Aus paddy crops benefit from Potassium Nitrate for improved growth, enhanced yield, and better disease resistance, particularly during critical growth stages.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- পটাশিয়াম নাইট্রেট একটি উচ্চমানের সার যা অপরিহার্য পটাশিয়াম এবং নাইট্রোজেন সরবরাহ করে, গাছের বৃদ্ধি, শিকড়ের বিকাশ উন্নত করে এবং রোগ প্রতিরোধ ক্ষমতা বাড়ায়।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹৩৫ থেকে ₹৫৫ প্রতি কেজি, অবস্থান এবং বাজার পরিস্থিতির উপর নির্ভর করে।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- এটি চাষের মৌসুমে সর্বোত্তম প্রয়োগ করা হয়। ভারী বৃষ্টিপাত বা উচ্চ আর্দ্রতার সময় প্রয়োগ করা থেকে বিরত থাকুন যাতে পুষ্টির অপচয় এবং সঞ্চালন প্রতিরোধ করা যায়।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- পটাশিয়াম নাইট্রেট আউস, বোরো এবং আমন ধান চাষে উন্নত বৃদ্ধির জন্য, ফলন বৃদ্ধি এবং রোগ প্রতিরোধ ক্ষমতা উন্নত করতে সহায়ক, বিশেষত গুরুত্বপূর্ণ বৃদ্ধির সময়ে।\n\n
+    </string>
+
+    <string name="fertilizer_details_sansar_agro_NPK">
+        1. Why Use?\n\n
+           \t\t- Sansar Agro NPK is a balanced fertilizer providing essential Nitrogen (N), Phosphorus (P), and Potassium (K) that promotes healthy growth, boosts crop yields, and improves overall plant health.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹25 to ₹40 per kg, depending on location and market conditions.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Suitable for application during most weather conditions, but avoid applying during heavy rains or extremely hot weather to ensure nutrient absorption.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Ideal for all types of paddy farming including Amon, Boro, and Aus for balanced nutrient supply, improving overall crop growth and yield.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- সন্সার এগ্রো এনপিকি একটি সুষম সার যা অপরিহার্য নাইট্রোজেন (N), ফসফরাস (P), এবং পটাশিয়াম (K) সরবরাহ করে, যা স্বাস্থ্যকর বৃদ্ধি প্রচার করে, ফসলের ফলন বাড়ায় এবং গাছের সামগ্রিক স্বাস্থ্য উন্নত করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹২৫ থেকে ₹৪০ প্রতি কেজি, অবস্থান এবং বাজার পরিস্থিতির উপর নির্ভর করে।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- এটি বেশিরভাগ আবহাওয়া পরিস্থিতিতে প্রয়োগের জন্য উপযুক্ত, তবে ভারী বৃষ্টিপাত বা অত্যন্ত গরম আবহাওয়ার সময় প্রয়োগ থেকে বিরত থাকুন যাতে পুষ্টির শোষণ নিশ্চিত হয়।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- এটি সব ধরনের ধান চাষের জন্য আদর্শ, যেমন আমন, বোরো এবং আউস, সুষম পুষ্টি সরবরাহের জন্য, ফসলের সামগ্রিক বৃদ্ধি এবং ফলন উন্নত করতে।\n\n
+    </string>
+
+    <string name="fertilizer_details_single_super_phosphate">
+        1. Why Use?\n\n
+           \t\t- SSP is a phosphorus-rich fertilizer used to promote root development, flowering, and fruiting, enhancing overall plant growth.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹15 to ₹25 per kg, depending on location and market conditions.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Effective in most weather conditions but should be applied before the rainy season to ensure proper absorption.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Ideal for Boro and Amon paddy, providing necessary phosphorus for root growth and better yield. It can also be used in Aus paddy farming depending on soil conditions.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- এসএসপি (সিঙ্গল সুপার ফসফেট) একটি ফসফরাস সমৃদ্ধ সার যা শিকড়ের বিকাশ, ফুল ফোটানো এবং ফলন উন্নত করতে ব্যবহৃত হয়, যা গাছের সামগ্রিক বৃদ্ধি বৃদ্ধি করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹১৫ থেকে ₹২৫ প্রতি কেজি, অবস্থান এবং বাজার পরিস্থিতির উপর নির্ভর করে।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- বেশিরভাগ আবহাওয়া পরিস্থিতিতে কার্যকর, তবে সঠিক শোষণ নিশ্চিত করতে বৃষ্টির মৌসুমের আগে প্রয়োগ করা উচিত।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- বোরো এবং আমন ধানের জন্য আদর্শ, শিকড়ের বৃদ্ধির জন্য প্রয়োজনীয় ফসফরাস সরবরাহ করে এবং ভালো ফলন প্রদান করে। এটি আউস ধান চাষেও মাটির অবস্থার উপর নির্ভর করে ব্যবহার করা যেতে পারে।\n\n
+    </string>
+
+    <string name="fertilizer_details_sulfate_of_potash">
+        1. Why Use?\n\n
+           \t\t- SOP is a potassium fertilizer that promotes strong root development, enhances disease resistance, and improves fruit quality and size.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹50 to ₹70 per kg, depending on location and market conditions.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Suitable for application in all weather conditions, but should be applied during dry weather to avoid moisture loss.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- SOP is beneficial for Boro and Amon paddy as it provides essential potassium, which enhances plant health and grain quality. It can also be used in Aus paddy farming depending on soil nutrient levels.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- এসওপি (পটাশিয়াম ওরথোফসফেট) একটি পটাশিয়াম সার যা শক্তিশালী শিকড়ের বিকাশে সহায়ক, রোগ প্রতিরোধ ক্ষমতা বাড়ায় এবং ফলের গুণমান ও আকার উন্নত করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹৫০ থেকে ₹৭০ প্রতি কেজি, অবস্থান এবং বাজার পরিস্থিতির উপর নির্ভর করে।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- সকল আবহাওয়া পরিস্থিতিতে প্রয়োগের জন্য উপযুক্ত, তবে আর্দ্রতা হ্রাস এড়াতে শুকনো আবহাওয়ায় প্রয়োগ করা উচিত।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- এসওপি বোরো এবং আমন ধানের জন্য উপকারী, কারণ এটি প্রয়োজনীয় পটাশিয়াম সরবরাহ করে, যা গাছের স্বাস্থ্য এবং শস্যের গুণমান উন্নত করে। এটি আউস ধান চাষেও মাটির পুষ্টির স্তরের উপর নির্ভর করে ব্যবহার করা যেতে পারে।\n\n
+    </string>
+
+    <string name="fertilizer_details_super_phosphate">
+        1. Why Use?\n\n
+           \t\t- Promotes root growth and enhances crop yield with phosphorus.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹30 to ₹50 per kg.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Best applied before planting in dry weather.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Used in Boro and Amon paddy for root development and grain quality; also used in Aus depending on soil.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- শিকড়ের বিকাশ প্রচার করে এবং ফসফরাস দিয়ে শস্যের উৎপাদন বৃদ্ধি করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹৩০ থেকে ₹৫০ প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- শুষ্ক আবহাওয়ায় রোপণের আগে প্রয়োগ করা উত্তম।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- বোরো এবং আমন ধানে শিকড়ের বিকাশ এবং শস্যের গুণমান উন্নত করার জন্য ব্যবহৃত হয়; মাটির উপর নির্ভর করে আউস ধানেও ব্যবহার করা যেতে পারে।\n\n
+    </string>
+
+    <string name="fertilizer_details_triple_super_phosphate">
+        1. Why Use?\n\n
+           \t\t- Provides high phosphorus content to improve root development and flower formation.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹35 to ₹55 per kg.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Best applied in dry conditions; avoid during rainy weather.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Primarily used in Boro and Amon paddy for better root and crop growth.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- শিকড়ের বিকাশ এবং ফুলের গঠন উন্নত করার জন্য উচ্চ ফসফরাস কন্টেন্ট প্রদান করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹৩৫ থেকে ₹৫৫ প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- শুষ্ক আবহাওয়ায় প্রয়োগ করা উত্তম; বর্ষাকালে এড়িয়ে চলুন।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- মূলত বোরো এবং আমন ধানে ভালো শিকড় এবং শস্যের বৃদ্ধির জন্য ব্যবহৃত হয়।\n\n
+    </string>
+
+
+    <string name="fertilizer_details_urea">
+        1. Why Use?\n\n
+           \t\t- High nitrogen content, promotes leafy growth and enhances crop yields.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹20 to ₹30 per kg.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Best applied during dry weather; avoid excessive moisture.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Commonly used in all paddy types (Aus, Boro, Amon) for nitrogen supplementation.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- উচ্চ নাইট্রোজেন কন্টেন্ট, পাতা বৃদ্ধির প্রচার করে এবং ফসলের ফলন উন্নত করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹২০ থেকে ₹৩০ প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- শুষ্ক আবহাওয়ায় প্রয়োগ করা উত্তম; অতিরিক্ত আর্দ্রতা এড়িয়ে চলুন।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- সব ধরণের ধান (আউস, বোরো, আমন) নাইট্রোজেন সরবরাহের জন্য সাধারণত ব্যবহৃত হয়।\n\n
+    </string>
+
+    <string name="fertilizer_details_zinc_sulfate">
+        1. Why Use?\n\n
+           \t\t- Provides essential zinc, helps in enzyme activation, promotes healthy plant growth, and prevents zinc deficiency.\n\n
+
+        2. Market Price?\n\n
+           \t\t- ₹30 to ₹60 per kg.\n\n
+
+        3. Weather Resistance?\n\n
+           \t\t- Best applied during dry conditions; avoid heavy rainfall after application.\n\n
+
+        4. Uses in Aus, Boro, Amon Paddy?\n\n
+           \t\t- Useful in all paddy types (Aus, Boro, Amon) to address zinc deficiency in soil, improving crop yields.\n\n
+
+        In Bengali :\n\n
+
+        1. কেন ব্যবহার করবেন?\n\n
+           \t\t- প্রয়োজনীয় জিঙ্ক সরবরাহ করে, এনজাইম অ্যাক্টিভেশন সাহায্য করে, স্বাস্থ্যকর উদ্ভিদ বৃদ্ধিকে উৎসাহিত করে এবং জিঙ্কের অভাব প্রতিরোধ করে।\n\n
+
+        2. বাজার মূল্য?\n\n
+           \t\t- ₹৩০ থেকে ₹৬০ প্রতি কেজি।\n\n
+
+        3. আবহাওয়া প্রতিরোধ?\n\n
+           \t\t- শুষ্ক অবস্থায় প্রয়োগ করা উত্তম; প্রয়োগের পর ভারী বৃষ্টিপাত এড়িয়ে চলুন।\n\n
+
+        4. আউস, বোরো, আমন ধান চাষে ব্যবহার?\n\n
+           \t\t- সব ধরণের ধানে (আউস, বোরো, আমন) মাটির জিঙ্কের অভাব সমাধানে কার্যকর, ফসলের ফলন বৃদ্ধি করে।\n\n
+    </string>
+
+    <!--    CROP_CARE SECTION-->
+    <string name="Tomato_Nursery">
+        <b>    &#8226;Seed Selection:</b> Use healthy, disease-free, and high-yielding seeds. Seeds are typically obtained from certified suppliers.\n\n
+        <b>    &#8226;Seed Treatment:</b> Before sowing, treat seeds with Fungicide like Thiram or Captan (2-3 g per kg of seed) to protect against seed-borne diseases. \n\n
+        <b>    &#8226;Soil Preparation:</b> Prepare a small seedbed or trays with well-drained loamy soil. The soil should be mixed with organic manure and sterilized (either through solarization or chemicals) to eliminate pathogens.\n\n
+        <b>    &#8226;	Time for Nursery Raising:</b> Depending on the variety, nursery seedlings are raised for 4-6 weeks.\n\n
+        <b>    &#8226;	Seed Sowing:</b> Sow seeds in rows at a spacing of 5-7 cm apart. Cover with a thin layer of soil or compost.\n\n
+        <b>    &#8226;	Watering:</b> Use a fine sprinkler to water seedlings regularly, ensuring moisture but avoiding waterlogging.\n\n
+        <b>    &#8226;	Shading:</b> Provide partial shading initially to protect tender seedlings from direct sunlight.\n\n
+        <b>    &#8226;	Weeding:</b> Remove weeds regularly to prevent competition for nutrients.
+    </string>
+
+    <string name="Tomato_NPK_fertilizer_details">
+        <b>    &#8226;Soil Requirements:</b>\n\n
+               &#8226;	Tomatoes prefer well-drained, loamy or sandy-loam soil with a pH of 6.0–7.0.\n\n
+               &#8226;	Soil Testing is recommended before planting to determine nutrient levels.\n\n
+        <b>    &#8226;	NPK Fertilization:</b>\n\n
+        <b>    &#8226;	Basal Dose:</b> Apply NPK fertilizer at the rate of 100:50:50 kg/ha (Nitrogen, Phosphorus, Potassium).\n\n
+        <b>    &#8226;	Top Dressing:</b> Split Nitrogen application into two doses (once at planting and another after flowering).\n\n
+               &#8226;	Incorporate organic matter like compost or farmyard manure (10-15 tons/ha) to improve soil fertility.\n\n
+        <b>    &#8226;	Micronutrients:</b> Supplement with Calcium and Magnesium to avoid deficiencies (like blossom-end rot). Use foliar sprays of Boron and Zinc if needed.
+    </string>
+
+    <string name="Tomato_Growing_Process_details">
+            <b>     &#8226;	Transplanting:</b>\n\n
+                    &#8226;	Transplant seedlings 4-6 weeks after sowing when they reach 10-15 cm height.\n\n
+            <b>     &#8226;	Spacing:</b> Maintain 60 x 45 cm or 75 x 60 cm spacing depending on the variety.\n\n
+            <b>     &#8226;	Irrigation:</b>\n\n
+                    &#8226;	Provide water immediately after transplanting.\n\n
+                    &#8226;	Regular watering is essential during flowering and fruit formation stages.\n\n
+                    &#8226;	Avoid over-irrigation to prevent root rot.\n\n
+            <b>     &#8226;	Staking/Support:</b> Install stakes or trellises for tall tomato varieties to keep fruits off the ground and reduce pest/disease risks.\n\n
+            <b>     &#8226;	Pruning:</b> Prune side shoots (suckers) and old leaves to improve air circulation and fruit quality.\n\n
+            <b>     &#8226;	Mulching:</b> Apply mulch (straw or black plastic) to retain soil moisture, suppress weeds, and control soil temperature.\n\n
+    </string>
+
+    <string name="Tomato_Other_details">
+        <b> &#8226;Weather Considerations</b>\n\n
+            &#8226;	Tomatoes grow best in warm temperatures between 21°C to 27°C.\n\n
+            &#8226;	Avoid frost-prone areas, as tomatoes are sensitive to low temperatures.\n\n
+            &#8226;	Rainfall of 600–800 mm is ideal, but prolonged heavy rainfall can cause diseases and waterlogging.\n\n
+        <b> &#8226; Pest and Disease Management</b>\n\n
+        <b> &#8226;	Pests:</b>\n\n
+            &#8226;	Aphids, Fruit Borers, Whiteflies: Use insecticides like Neem oil or chemical controls (e.g., Imidacloprid).\n\n
+        <b>	&#8226;Cutworms:</b> Apply soil treatments before planting.\n\n
+        <b>	&#8226;Diseases:</b>\n\n
+        <b>	&#8226;Early/Late Blight:</b> Use resistant varieties and fungicides like Mancozeb.\n\n
+        <b>	&#8226;Wilt and Root Rot:</b> Ensure proper drainage and crop rotation.\n\n
+        <b>	&#8226;Leaf Curl Virus:</b> Control whiteflies, which are vectors of the virus.\n\n
+        <b> &#8226;Harvesting</b>\n\n
+            &#8226;Tomatoes are ready for harvesting 70–90 days after transplanting, depending on the variety.\n\n
+            &#8226;Harvest at the mature green or pinkish-red stage, depending on market demand.\n\n
+        <b>•Yield:</b> Average yield is 30–50 tons/ha depending on cultivation practices and variety.\n\n
+        <b> &#8226;Popular Varieties</b>\n\n
+        <b>	&#8226;Determinate (Bush-type):</b> Pusa Ruby, Arka Meghali, Roma\n\n
+        <b>	&#8226;Indeterminate (Vine-type):</b> Arka Vikas, Arka Alok, Marglobe\n\n
+        <b>	&#8226; Hybrid Varieties:</b> Abhinav, Shaktiman, Rakshitha\n\n
+
+    </string>
+
+
+    <!--    Ladyfinger-->
+    <string name="Ladyfinger_Nursery_Details">
+             <b>    •	Seed Selection:</b> Use high-yielding, disease-free seeds from reliable sources. Hybrid seeds are often preferred for better yields.\n\n
+            <b>     •	Seed Treatment:</b> Treat seeds with fungicides like Thiram or Carbendazim (2-3 g/kg of seed) to prevent seed-borne diseases. Treating seeds with Rhizobium culture or Trichoderma helps in better germination and disease resistance.\n\n
+            <b>     •	Soil Preparation:</b> Loosen the soil through plowing and ensure it is free of clods, stones, and weeds. Prepare raised beds if direct sowing is not being practiced.\n\n
+                    •	Unlike tomatoes, okra seeds are often directly sown into the field due to their large size and quick germination. However, in colder areas, nursery raising may be practiced.\n\n
+            <b>•	Seed Sowing:</b>\n\n
+                    &#8226;	Sow seeds in small polythene bags or trays filled with a mixture of soil, sand, and compost.\n\n
+                    &#8226;	Keep the soil moist and provide partial shade until germination occurs (4-7 days).\n\n
+            <b>•	Transplanting:</b>\n\n
+            &#8226;	Seedlings are ready for transplanting within 2-3 weeks when they have 2-3 true leaves.\n\n
+
+    </string>
+
+    <string name="Ladyfinger_NPK_Fertilizer_and_Soil_Management">
+          <b>    •	Soil Requirements:</b>\n
+                     &#8226;	Well-drained, sandy-loam to clay-loam soils are ideal. The pH should be between 6.0–6.8.\n
+                     &#8226;	Conduct soil testing before planting to adjust nutrient levels.\n\n
+          <b>    •	Fertilization:</b>\n
+          <b>        &#8226;	Basal Dose:</b> Apply 10-15 tons of farmyard manure (FYM) along with NPK 60:40:30 kg/ha at land preparation.\n\n
+          <b>        &#8226;	Top Dressing:</b> Apply an additional 30 kg Nitrogen/ha in two split doses (after 3 weeks of sowing and at flowering stage).\n\n
+                     &#8226;	Supplement with micronutrients like Zinc and Boron for healthy growth and pod formation.
+
+    </string>
+
+    <string name="Ladyfinger_Growing_Process">
+
+        <b>     &#8226; Seed Sowing:</b>\n
+                &#8226;Sow seeds directly in the field at a depth of 2-3 cm.\n
+        <b>     &#8226;Spacing:</b> Maintain spacing of 30 x 60 cm (row-to-row and plant-to-plant).\n
+                &#8226;Use 2-3 seeds per hole and thin to the healthiest seedling after germination.\n\n
+
+        <b>     &#8226; Irrigation:</b>\n
+                &#8226;Provide light irrigation after sowing. Avoid waterlogging, as okra is sensitive to excess moisture.\n
+                &#8226;Water every 4-5 days during flowering and fruiting stages.\n\n
+
+        <b>     &#8226; Weeding:</b>\n
+                &#8226;Regular weeding is necessary during the early stages. Use mulching (e.g., straw or plastic) to suppress weeds and retain soil moisture.\n\n
+
+        <b>     &#8226; Earthing Up:</b>\n
+                &#8226;Perform light earthing-up at 30-40 days after sowing to provide root support.
+</string>
+
+    <string name="Ladyfinger_Others">
+
+       <b> • Weather Considerations:</b>\n
+        •	Okra thrives in warm climates with temperatures ranging from 25°C to 30°C.\n
+        •	It is highly sensitive to frost and low temperatures.\n
+        •	Requires moderate rainfall (500-700 mm), but excessive moisture can cause root rot and fungal diseases.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>•	Pests:</b>\n
+         &#8226;	Jassids, Aphids, Whiteflies: Use Neem oil or systemic insecticides like Imidacloprid.\n
+         &#8226;	Fruit Borer: Spray Spinosad or use pheromone traps to monitor infestations.\n
+        <b>•	Diseases:</b>\n
+         <b>&#8226;	Powdery Mildew:</b> Use Sulfur-based fungicides like Wettable Sulfur.\n
+         <b>&#8226;	Yellow Vein Mosaic Virus (YVMV):</b> Control whiteflies (vectors of YVMV) and use virus-resistant varieties.\n
+         <b>&#8226;	Root Rot:</b> Ensure proper soil drainage and crop rotation.\n\n
+         <b>• Harvesting</b>\n
+        •	Okra pods are ready for harvesting 45-60 days after sowing, depending on the variety.\n
+        •	Harvest tender pods (8-10 cm in length) regularly to encourage further production.\n
+        •	Avoid overripe pods as they become fibrous and inedible.\n
+         <b>•	Harvesting Frequency:</b> Pods should be harvested every 2-3 days.\n
+         <b>•	Yield:</b> Average yield is 8-10 tons/ha under good management practices.\n\n
+         <b>• Popular Varieties</b>\n
+        <b>•	Open-Pollinated Varieties:</b>\n
+         &#8226;	Pusa Sawani, Arka Anamika, Parbhani Kranti\n\n
+         <b>•	Hybrid Varieties:</b>\n
+         &#8226;	Mahyco 10, Shakti 108, US 7109, Kashi Kranti\n
+
+    </string>
+
+
+    <!--   Cabbage-->
+    <string name="Cabbage_Nursery">
+        <b>•	Seed Selection:</b> Use high-quality, disease-free, and certified seeds from reliable suppliers. Hybrid seeds ensure better yield and disease resistance.\n\n
+        <b>•	Seed Treatment:</b> Treat seeds with Thiram or Captan (2-3 g per kg of seed) to protect against seed-borne diseases.\n\n
+        <b>•	Soil Preparation:</b> Use well-drained, fine-textured soil enriched with compost or well-decomposed farmyard manure (FYM). Sterilize the soil to eliminate soil-borne pathogens.\n\n
+
+        <b>•	Time for Nursery Raising:</b> Cabbage seedlings take 25-30 days to grow in the nursery before transplanting.\n\n
+        <b>•	Seed Sowing:</b>\n
+         &#8226;	Sow seeds in lines 5-7 cm apart.
+         &#8226;	Cover lightly with fine soil or compost and water immediately.\n\n
+        <b>•	Watering:</b> Keep the soil consistently moist but avoid waterlogging.\n\n
+        <b>•	Shading:</b> Provide partial shade to protect seedlings from excessive sunlight or rain.\n\n
+        <b>•	Thinning:</b> Thin out overcrowded seedlings to avoid competition.\n\n
+        <b>•	Transplant Readiness:</b> Seedlings are ready for transplanting when they reach 4-5 true leaves or a height of 10-15 cm.\n\n
+    </string>
+
+    <string name="Cabbage_NPK_Fertilizer_and_Soil_Management">
+        <b>        •Soil Requirements:</b>\n\n
+         &#8226;	Cabbage thrives in well-drained, loamy or sandy loam soil with a pH of 6.0–6.5.\n
+         &#8226;	Conduct soil testing to determine nutrient requirements.\n\n
+        <b>•	NPK Fertilizer Application:</b>\n\n
+        <b>&#8226;	Basal Dose:</b> Apply 120:80:60 kg/ha of Nitrogen (N), Phosphorus (P), and Potassium (K) at the time of land preparation.\n\n
+        <b> &#8226;	Top Dressing:</b> Split Nitrogen into two doses:\n
+        <b> &#8226;	First dose:</b> 30 days after transplanting.\n
+        <b> &#8226;	Second dose:</b> At the early head formation stage.\n\n
+        <b>•	Organic Matter:</b> Add 15-20 tons/ha of farmyard manure (FYM) or compost before planting to improve soil fertility.\n\n
+        <b>•	Micronutrients:</b> Supplement with Boron and Calcium to prevent deficiencies like tip burn and poor head formation.\n
+
+    </string>
+
+    <string name="Cabbage_Growing_Process">
+
+        <b>        •	Land Preparation:</b>\n
+        &#8226;	Plow the field thoroughly to make the soil fine and friable.\n
+        &#8226;	Incorporate organic manure and level the field.\n\n
+        <b>•	Transplanting:</b>\n
+        &#8226;	Transplant 25-30 day old seedlings into the main field.\n
+        &#8226;<b>	Spacing:</b> Maintain a spacing of 45 x 45 cm or 60 x 60 cm depending on the variety and head size.\n\n
+        <b>•	Irrigation:</b>\n
+        &#8226;	Cabbage requires frequent irrigation, especially during the initial growth and head formation stages.\n
+        &#8226;	Avoid water stagnation as it can cause root rot.\n\n
+        <b>•	Weeding and Hoeing:</b>\n
+        &#8226;	Regular weeding is essential to prevent competition for nutrients.\n
+        &#8226;	Mulching helps control weeds and retain soil moisture.\n\n
+        <b>•	Crop Rotation:</b> Avoid planting cabbage in the same field as other cruciferous crops to reduce pest and disease buildup.
+
+    </string>
+
+    <string name="Cabbage_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>•	Optimal Temperature:</b> Cabbage grows best in cool temperatures between 15°C to 20°C.\n
+        <b>•	Climate:</b> Cabbage is a cool-season crop and thrives in regions with moderate rainfall (500-700 mm).\n
+        <b>•	Frost Sensitivity:</b> Light frost improves the flavor, but heavy frost can damage the heads.\n\n
+        <b>•   Pest and Disease Management:</b>\n\n
+        <b>•	Common Pests:</b>\n
+ &#8226;	Cabbage Worms, Aphids, Cutworms, Diamondback Moth: Use biological control (e.g., Bacillus thuringiensis) or insecticides like Neem oil or Spinosad.\n\n
+        <b>•	Diseases:</b>\n
+        <b>•	Black Rot:</b> Avoid waterlogged conditions and use resistant varieties.\n
+        <b>•	Clubroot:</b> Practice crop rotation and apply lime to adjust soil pH.\n
+        <b>•	Downy Mildew:</b> Control through fungicide sprays like Mancozeb.\n\n
+        <b>• Harvesting</b>\n
+        <b>•	Maturity Period:</b> Cabbage matures in 75-120 days depending on the variety.\n
+        <b>•	Harvesting Stage:</b> Harvest when heads are firm and reach the desired size. Cut the heads with a sharp knife, leaving a few outer leaves for protection.\n
+        <b>•	Yield:</b> Average yield is 30-50 tons/ha under good management.\n\n
+        <b>•    Popular Varieties:</b>\n
+        <b>•	Early Varieties:</b> Golden Acre, Pride of India, Pusa Mukta,\n
+        <b>•	Mid-Season Varieties:</b> Drumhead, Copenhagen Market\n
+        <b>•	Late Varieties:</b> Late Flat Dutch, Amager.\n
+        <b>•	Hybrid Varieties:</b> Green Express, NS-43, Rare Ball.\n
+
+    </string>
+
+    <!-- Cauliflower-->
+    <string name="Cauliflower_Nursery">
+        <b>   •	Seed Selection:</b> Use high-quality, disease-free, and certified seeds with good germination rates. Seeds should be obtained from reliable sources.\n\n
+        <b>   •	Seed Treatment:</b> Treat the seeds with a fungicide like Captan or Thiram (2-3 g per kg of seed) to protect against seed-borne diseases.\n\n
+        <b>   •	Soil Preparation:</b> Use light, well-drained, fertile soil for pre-nursery beds. The soil should be sterilized and enriched with organic manure like Farmyard Manure (FYM).\n\n
+
+        <b>•	Seed Sowing:</b> Sow seeds in raised nursery beds or trays during the cooler part of the day.\n\n
+        <b>•	Spacing:</b> Sow seeds in rows spaced 5-7 cm apart and cover with a thin layer of soil.\n\n
+        <b>•	Watering:</b> Regular light watering is essential to keep the soil moist but not waterlogged. Use a fine sprinkler to avoid seed displacement.\n\n
+        <b>•	Nursery Duration:</b> Seedlings are ready for transplanting in 4-6 weeks when they attain 4-5 true leaves.\n\n
+        <b>•	Shading:</b> Provide partial shade during extreme heat or excessive sunlight.\n\n
+        <b>•	Weeding:</b> Keep the nursery weed-free for healthy growth
+
+    </string>
+
+    <string name="Cauliflower_NPK_Fertilizer_and_Soil_Management">
+    <b>  •	Soil Requirements:</b>\n\n
+            &#8226;	Cauliflower thrives in well-drained, loamy soil rich in organic matter with a pH of 6.0–7.5.\n
+            &#8226;	Conduct soil testing to determine nutrient levels.\n\n
+    <b>       •	NPK Fertilizer Application:</b>\n\n
+            &#8226;	Basal Dose: Apply NPK at 120:60:60 kg/ha (Nitrogen:Phosphorus:Potassium) before transplanting.\n\n
+            &#8226;	Top Dressing: Split Nitrogen application into two or three doses:\n
+            &#8226;	First Dose: 3 weeks after transplanting\n
+            &#8226;	Second Dose: At the early curd formation stage.\n\n
+    <b>        •	Organic Manure:</b> Incorporate 20-25 tons/ha of FYM or compost into the soil during land preparation.\n\n
+    <b>        •	Micronutrients:</b> Supplement with Boron and Molybdenum to prevent disorders like hollow curds and whiptail.
+
+    </string>
+    <string name="Cauliflower_Growing_Process">
+        <b>  •	Land Preparation:</b> Plough the field 3-4 times to achieve a fine tilth. Add organic manure during the last ploughing.\n\n
+        <b>  •	Transplanting:</b>\n
+           &#8226;	Transplant 4-6 week-old seedlings to the main field.\n
+           &#8226;	Spacing: Maintain a spacing of 45 x 45 cm for early varieties and 60 x 60 cm for late varieties.\n\n
+        <b>  •	Irrigation:</b>\n
+         &#8226;	Provide light irrigation immediately after transplanting.\n
+         &#8226;	Maintain consistent moisture, especially during curd development, to avoid poor-quality heads.\n
+         &#8226;	Avoid overwatering to prevent root rot.\n\n
+        <b>  •	Weeding and Intercultural Operations:</b> Regular weeding and hoeing are essential to control weeds and aerate the soil.\n\n
+        <b>  •	Earthing Up:</b> Perform earthing up to provide support to plants and promote curd protection.
+
+    </string>
+    <string name="Cauliflower_others">
+            <b>• Weather Considerations:</b>\n\n
+             &#8226;<b> Temperature:</b> Cauliflower grows best at temperatures between 15°C–20°C. Extreme heat or cold can cause poor curd formation.\n
+             &#8226;<b> Rainfall:</b> A well-distributed rainfall of about 600-900 mm is ideal. Avoid heavy rainfall during the curd formation stage.\n\n
+           <b> •	Growing Seasons:</b>\n
+             &#8226;<b>	Early Varieties:</b> Sown in May-June (for rainy season crop).\n
+             &#8226;<b>	Mid-Season Varieties:</b> Sown in July-August.\n
+             &#8226;<b>	Late Varieties:</b> Sown in September-October (for winter harvest).\n\n
+            <b>• Pest and Disease Management</b>\n
+             &#8226;<b>Pests:</b>	\n
+             &#8226;<b>	Cabbage Worms, Aphids, Cutworms, Diamondback Moth:</b> Use insecticides like Neem Oil, or chemical options like Chlorpyrifos or Imidacloprid.\n\n
+             &#8226;<b>	Diseases:</b>\n
+             &#8226;<b>	Damping Off:</b> Avoid overwatering in the nursery. Treat seeds with fungicides before sowing.\n
+             &#8226;<b>	Black Rot:</b> Use disease-resistant varieties and practice crop rotation.\n
+             &#8226;<b>	Downy Mildew:</b> Apply fungicides like Mancozeb when symptoms appear.\n\n
+            <b>• Harvesting</b>\n
+             &#8226;<b>	Maturity:</b> Cauliflower becomes ready for harvest in 80–120 days after transplanting, depending on the variety.\n\n
+             &#8226;<b>	Harvesting Stage:</b>\n
+             &#8226;	Harvest curds when they are compact, white, and firm before they loosen or discolour.\n\n
+             &#8226;<b>	Yield:</b>\n
+             &#8226;	Average yield varies between 20-30 tons/ha, depending on variety and management practices.\n\n
+            <b>• Popular Varieties</b>\n
+             &#8226;<b>	Early Varieties:</b> Pusa Deepali, Early Kunwari, Pant Gobhi-1\n
+             &#8226;<b>	Mid-Season Varieties:</b> Pusa Shubhra, Pusa Hybrid-2, Improved Japanese\n
+             &#8226;<b>	Late Varieties:</b> Pusa Snowball-1, Pusa Himjyoti, Snowball-16
+
+    </string>
+
+
+    <!--    Kuntal's code end here-->
+
+    <!--Brinjal-->
+
+    <string name="Brinjal_Nursery">
+        <b>• Seed Selection:</b>\n Use high-quality, disease-free seeds from certified sources. Seeds should have good germination potential (>80%).\n\n
+        <b>• Seed Treatment: </b>\n
+        Treat seeds with Trichoderma viride (5-10 g per kg of seed) or fungicide like Captan or Thiram (2 g per kg of seed) to protect against seed-borne diseases.\n\n
+        <b>• Soil Preparation: </b>\n
+        &#8226;	Prepare a seedbed with well-drained, fine-textured loamy soil mixed with organic manure.\n
+        &#8226;	Solarize or sterilize the soil to eliminate pests and pathogens.\n\n
+
+        <b>• Time for Nursery Raising:</b>\n Brinjal seedlings are raised for 4-6 weeks before transplanting.\n\n
+        <b>• Seed Sowing: </b>\n
+        &#8226;	Sow seeds in lines or shallow furrows 5-7 cm apart. Cover lightly with fine soil.\n
+        <b>&#8226;	Seed Rate:</b> Use 200–500 g of seeds per hectare.\n\n
+        <b>• Watering:</b> Use a light sprinkler to maintain adequate moisture. Avoid waterlogging.\n\n
+        <b>• Thinning:</b> Thin overcrowded seedlings to maintain healthy growth.\n\n
+        <b>• Weeding:</b> Regularly remove weeds to prevent competition.\n\n
+        <b>• Hardening:</b> Expose seedlings to sunlight for a few days before transplanting to acclimate them to field conditions.
+
+    </string>
+
+    <string name="Brinjal_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Requirements:</b>\n
+           &#8226;	Brinjal thrives in well-drained, fertile loamy soil with a pH of 6.5–7.5.\n
+           &#8226;	Conduct soil testing to determine nutrient status.\n\n
+        <b>• NPK Fertilization:</b>\n
+        <b>&#8226;	Basal Dose:</b> Apply 25-30 tons/ha of farmyard manure (FYM) or compost. Additionally, incorporate 60:50:50 kg/ha (N:P:K) during land preparation.\n\n
+        <b>&#8226;	Top Dressing:</b> Apply Nitrogen in split doses: \n
+           &#8226;	First dose after 3 weeks of transplanting.\n
+           &#8226;	Second dose at the flowering stage.\n\n
+        <b>• Micronutrients:</b> Supplement with Boron and Zinc through foliar sprays to enhance fruit quality.
+
+    </string>
+
+    <string name="Brinjal_Growing_Process">
+        <b> • Transplanting:\n</b>
+        &#8226;	Transplant seedlings 4-6 weeks after sowing when they reach 10-15 cm height.\n
+        &#8226;	Spacing: Use a spacing of 60 x 60 cm for long-duration varieties and 45 x 45 cm for short-duration varieties.\n\n
+        <b>• Irrigation:\n</b>
+        &#8226;	Provide immediate irrigation after transplanting.\n
+        &#8226;	Regular watering is essential during flowering and fruiting stages.\n
+        &#8226;	Avoid overwatering to prevent fungal diseases.\n\n
+        <b>• Weeding and Mulching:\n</b>
+        &#8226;	Conduct regular weeding to control competition.\n
+        &#8226;	Mulch the base of plants with straw or plastic to conserve soil moisture and suppress weeds.\n\n
+        <b>• Intercultural Operations:\n</b>
+        &#8226;	Perform earthing up (pulling soil around the base) to support plants and prevent lodging.\n\n
+        <b>• Pruning:</b> Remove lower, old leaves and side shoots to improve airflow and fruit quality.
+
+    </string>
+
+    <string name="Brinjal_Others">
+
+        <b>• Weather Considerations</b>\n
+        • Brinjal grows best in warm temperatures between 22°C–30°C.\n
+        • It is sensitive to frost and extremely low temperatures.\n
+        • Excessive rainfall or humidity may lead to fungal diseases.\n\n
+
+        <b>• Pest and Disease Management\n\n</b>
+        <b>• Pests:</b>\n
+        <b>&#8226;	Fruit and Shoot Borer:</b> Use pheromone traps and spray Neem oil or insecticides like Chlorantraniliprole.\n
+        <b>&#8226;	Jassids and Whiteflies:</b> Use sticky traps and insecticides like Imidacloprid.\n\n
+        <b>• Diseases:</b>\n
+        <b>&#8226;	Bacterial Wilt:</b> Use resistant varieties and ensure good drainage.\n
+        <b>&#8226;	Phomopsis Blight:</b> Apply fungicides like Carbendazim.\n
+        <b>&#8226;	Damping Off:</b> Avoid waterlogging and treat soil with Trichoderma.\n\n
+
+        <b> Harvesting:</b>\n
+        <b>• ime to Harvest:</b> Brinjal is ready for harvest 120–140 days after sowing (or 70-90 days after transplanting).\n
+        <b>• Harvesting Stage:</b> Harvest when fruits are tender, shiny, and fully developed but before seeds harden.\n
+        <b>• Yield:</b> Average yield is 30–40 tons/ha depending on variety and management practices.\n\n
+
+        <b>• Popular Varieties</b>\n
+        <b>1. Long Varieties:</b> Pusa Purple Long, Arka Kusumakar, Arka Neelkanth.\n
+        <b>2. Round Varieties:</b> Pusa Purple Round, Arka Navneet, Bhagyamati.\n
+        <b>3. Hybrid Varieties:</b> Mahyco 10, Punjab Barsati, Pusa Hybrid-5.
+
+    </string>
+
+
+    <!-- French Beans-->
+
+    <string name="Beans_Nursery">
+        <b>• Seed Selection:</b> Use high-quality, disease-free seeds from certified suppliers. Select seeds based on the desired variety (bush or pole type).\n\n
+        <b>• Seed Treatment:</b> Treat seeds with a fungicide like Thiram or Captan (2-3 g per kg of seed) to prevent fungal diseases.\n\n
+        <b>• Pre-Soaking:</b> Soak the seeds in water for 6-8 hours to promote uniform germination.\n\n
+
+        <b>• Sowing Method:</b> French beans are generally direct-seeded in the main field and do not require nursery raising. However, for areas with short growing seasons, seedlings can be raised in trays for 10-12 days before transplanting.\n\n
+        <b>• Spacing:</b> \n
+        <b>&#8226;	Bush varieties:</b> 30 cm x 10 cm spacing.\n
+        &#8226;	Pole varieties: 60 cm x 30 cm spacing.\n\n
+        <b>• Soil Preparation:</b> Use light, well-drained soil enriched with compost or farmyard manure.\n
+
+    </string>
+
+    <string name="Beans_NPK_Fertilizer_and_Soil_Management">
+       <b>• Soil Requirements:</b>\n
+        &#8226;	Well-drained, loamy or sandy-loam soil with a pH of 6.0–7.5 is ideal.\n
+        &#8226;	Perform soil testing before planting to determine the exact fertilizer requirement.\n\n
+        <b>• Fertilization:</b>\n
+        <b>&#8226;	Basal Dose:</b> Apply NPK at 30:75:50 kg/ha (Nitrogen, Phosphorus, Potassium).\n\n
+        <b>&#8226;	Organic Manure:</b> Add 10–12 tons/ha of farmyard manure during soil preparation to improve soil fertility.\n\n
+        <b>&#8226;	Top Dressing:</b> Apply 20-30 kg/ha Nitrogen in two splits (first at the flowering stage and second at pod formation).\n\n
+        <b>• Micronutrients:</b> Apply Calcium to prevent flower drop and Boron to ensure proper pod formation
+
+   </string>
+    <string name="Beans_Growing_Process">
+        <b>• Land Preparation:</b>\n
+        &#8226; Plough the field 2–3 times to obtain a fine tilth.\n
+        &#8226; Add organic manure and level the field properly.\n\n
+        <b>• Sowing:</b>\n
+        &#8226; Plant seeds 3–4 cm deep.\n
+        <b>&#8226; Bush Varieties:</b> Rows spaced 30-45 cm apart.\n
+        <b>&#8226; Pole Varieties:</b> Use trellis or stakes for support; space rows 60-75 cm apart.\n\n
+        <b>• Irrigation:</b>\n
+        &#8226; Provide light irrigation after sowing.\n
+        &#8226; Irrigate regularly, especially during flowering and pod development stages. Avoid waterlogging.\n\n
+        <b>• Weeding:</b>\n
+        &#8226; Carry out manual or mechanical weeding 2-3 times during the crop cycle.\n
+        &#8226; Use mulching to suppress weeds and retain soil moisture.\n\n
+        <b>• Support (for Pole Varieties):</b>\n
+        &#8226; Install stakes or trellises to support climbing vines and improve yield.
+    </string>
+
+    <string name="Beans_Others">
+        <b>• Weather Considerations:</b>\n
+        &#8226; French beans thrive in a moderate climate with temperatures between 18°C–25°C.\n
+        &#8226; They are sensitive to frost and extreme heat.\n
+        &#8226; Adequate rainfall of 400–500 mm or proper irrigation is required during the crop period.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>• Pests:</b>\n
+        <b>&#8226; Aphids and Whiteflies:</b> Use Neem oil or insecticides like Imidacloprid.\n
+        <b>&#8226; Pod Borers:</b> Use pheromone traps and biological controls.\n
+        <b>&#8226; Bean Beetles:</b> Apply insecticides like Chlorpyrifos if infestation occurs.\n\n
+        <b>• Diseases:</b>\n
+        <b>&#8226; Anthracnose:</b>  Treat seeds with fungicide before sowing and spray Mancozeb if needed.\n
+        <b>&#8226; Rust:</b>  Use resistant varieties and apply preventive fungicides like Hexaconazole.\n
+        <b>&#8226; Root Rot:</b>  Ensure proper soil drainage and avoid waterlogging.\n\n
+        <b>• Harvesting:</b>\n
+        &#8226; French beans are ready for harvesting 45–60 days after sowing.\n
+        &#8226; Harvest pods when they are tender and green, as overripe pods become fibrous.\n
+        &#8226; Harvesting is done 2–3 times per week to encourage continuous pod formation.\n
+        &#8226; Yield: Average yield ranges from 8–12 tons/ha, depending on the variety and management.\n\n
+        <b>• Popular Varieties:</b>\n
+        <b>• Bush Varieties:</b>\n
+        &#8226; Contender, Arka Komal, Pusa Parvati\n
+        <b>• Pole Varieties:</b>\n
+        &#8226; Kentucky Wonder, Arka Arjun, Blue Lake\n
+        <b>• Hybrid Varieties:</b>\n
+        &#8226; Sonali, Him Palam, Pant Anupama
+    </string>
+
+
+    <!--    Green Chili-->
+
+    <string name="Green_Chili_Nursery">
+        <b>• Seed Selection:</b> Use high-quality, disease-free, and certified seeds from a reliable source to ensure a good crop.\n\n
+        <b>• Seed Treatment:</b> Treat seeds with fungicides like Captan or Thiram (2-3 g/kg of seed) to prevent fungal diseases. Additionally, soak seeds in hot water (50°C for 30 minutes) or use Trichoderma for disease suppression.\n\n
+        <b>• Soil Preparation:</b> Use well-drained sandy-loam soil enriched with compost. The soil should be sterilized to eliminate pathogens, nematodes, and weeds.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare raised nursery beds (1–1.2 m wide and 3–5 m long) for proper drainage. Mix the soil with compost and sterilize it.\n
+        &#8226; Alternatively, use pro-trays or plug trays for better seedling management.\n\n
+        <b>• Sowing:</b>\n
+        &#8226; Sow seeds at a depth of 0.5–1 cm with a spacing of 5-7 cm in rows.\n
+        &#8226; Cover seeds lightly with soil and farmyard manure.\n\n
+        <b>• Watering:</b> Water the seedbeds lightly and frequently using a fine sprinkler to maintain soil moisture. Avoid overwatering.\n\n
+        <b>• Shading:</b> Use a 50% shade net to protect seedlings from harsh sunlight.\n\n
+        <b>• Growth Period:</b> Seedlings are ready for transplanting in 4-6 weeks after sowing when they are 12–15 cm tall with 4–6 true leaves.
+    </string>
+
+    <string name="Green_Chili_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Requirements:</b>\n
+        &#8226; Well-drained, loamy or sandy-loam soil with a pH of 6.0–7.5 is ideal.\n
+        &#8226; Conduct a soil test to assess nutrient levels before applying fertilizers.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Basal Dose:</b> Apply well-rotted FYM/Compost at the rate of 10-15 tons/ha before final land preparation.\n\n
+        <b>&#8226; NPK Fertilization:</b> Apply 120:60:60 kg/ha (Nitrogen, Phosphorus, Potassium).\n
+        &#8226; Split nitrogen into three applications:\n
+        &#8226; 1/3 during transplanting.\n
+        &#8226; 1/3 during the flowering stage.\n
+        &#8226; 1/3 during fruit setting.\n\n
+        <b>• Micronutrients:</b> Apply Calcium and Magnesium to prevent deficiencies. Foliar sprays of Boron and Zinc during flowering can improve yield.
+    </string>
+
+    <string name="Green_Chili_Growing_Process">
+        <b>• Transplanting:</b>\n
+        &#8226; Transplant seedlings in the main field at 45 x 45 cm spacing for proper air circulation and growth.\n
+        &#8226; Water the field lightly before transplanting to reduce transplant shock.\n\n
+        <b>• Irrigation:</b>\n
+        &#8226; Provide water immediately after transplanting.\n
+        &#8226; Maintain consistent soil moisture, especially during flowering and fruit development.\n
+        &#8226; Avoid overwatering, as it may lead to root rot.\n\n
+        <b>• Weed Management:</b>\n
+        &#8226; Perform manual weeding or use mulch (plastic or organic) to suppress weeds.\n
+        &#8226; Use pre-emergence herbicides like Pendimethalin for weed control.\n\n
+        <b>• Support:</b> In areas prone to high winds, staking or trellising may be needed to prevent plant damage.\n\n
+        <b>• Pruning:</b> Remove dried and diseased leaves regularly for better air circulation.
+    </string>
+
+    <string name="Green_Chili_Others">
+        <b>• Weather Considerations:</b>\n
+        &#8226; Green chili thrives in warm and humid climates.\n
+        &#8226; The ideal temperature range is 20–30°C for optimal growth.\n
+        &#8226; Excessive heat above 35°C or frost can severely affect flowering and fruit setting.\n
+        &#8226; Rainfall of 600–800 mm is suitable, but heavy rainfall can cause fungal diseases and waterlogging.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>• Pests:</b>\n
+        <b>&#8226; Aphids, Thrips, Whiteflies, and Fruit Borers:</b> Control using Neem oil, insecticidal soaps, or chemicals like Imidacloprid.\n
+        <b>&#8226; Cutworms and Nematodes:</b> Use soil treatment and crop rotation to control infestations.\n\n
+        <b>• Diseases:</b>\n
+        <b>&#8226; Damping Off (Seedling stage):</b> Avoid overwatering and treat seeds with fungicides.\n
+        <b>&#8226; Powdery Mildew:</b> Use sulfur-based fungicides or resistant varieties.\n
+        <b>&#8226; Leaf Curl Virus:</b> Control whiteflies, which spread the virus. Remove infected plants immediately.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Harvesting Time:</b> Chilis are ready for harvesting 60–80 days after transplanting. Harvest green chilies at the tender stage before they turn red.\n
+        <b>&#8226; Harvesting Method:</b> Pick fruits carefully using handpicking to avoid damage to the plant.\n
+        <b>&#8226; Yield:</b> Average yield ranges between 8–10 tons/ha depending on variety and practices.\n\n
+        <b>• Popular Varieties:</b>\n
+        <b>• Hybrid Varieties:</b>\n
+        &#8226; Pusa Jwala, Arka Meghana, Tejaswini, Pant C-1\n
+        <b>• Open-Pollinated Varieties:</b>\n
+        &#8226; Kashi Anmol, Kashi Surkh, Co-1, Co-2\n
+        <b>• Resistant Varieties:</b>\n
+        &#8226; Pusa Sadabahar (resistant to viruses)
+    </string>
+    <!--    onion-->
+    <string name="Onion_Nursery">
+        <b>• Seed Selection:</b> Use high-quality, disease-free seeds obtained from certified suppliers. Onion seeds should have a germination rate of 70-80%.\n\n
+        <b>• Seed Treatment:</b> Treat seeds with Thiram or Carbendazim at 2-3 g per kg of seed to protect against fungal diseases.\n\n
+        <b>• Soil Preparation for Seedbed:</b>\n
+        &#8226; Prepare a raised seedbed (1-1.5 m wide, 20-25 cm high) for better drainage.\n
+        &#8226; Mix the topsoil with well-decomposed farmyard manure and sterilize the bed using solarization or chemicals to control soil-borne diseases.\n\n
+        <b>• Sowing Time:</b>\n
+        <b>&#8226; Kharif Season:</b> June–July\n
+        <b>&#8226; Rabi Season:</b> October–November\n
+        <b>&#8226; Late Kharif:</b> August–September\n\n
+        <b>• Seed Rate:</b> Use 8-10 kg of seeds per hectare.\n\n
+        <b>• Sowing Method:</b> Broadcast or line-sow the seeds at a depth of 1-2 cm. Maintain spacing of 8-10 cm between rows.\n\n
+        <b>• Watering:</b> Use light irrigation immediately after sowing. Water regularly but avoid waterlogging.\n\n
+        <b>• Shading:</b> Provide light shading to protect seedlings from direct sun in the early growth stages.\n\n
+        <b>• Weeding:</b> Remove weeds regularly to prevent competition for nutrients.\n\n
+        <b>• Nursery Duration:</b> Seedlings are ready for transplanting in 6-8 weeks when they are 12-15 cm tall and pencil-thick.\n
+    </string>
+
+    <string name="Onion_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Requirements:</b>\n
+        &#8226; Onions thrive in well-drained, sandy-loam soil with a pH of 6.0–7.5.\n
+        &#8226; Soil Testing is essential to determine nutrient status before planting.\n\n
+        <b>• Fertilizer Management:</b>\n
+        <b>&#8226; Basal Dose:</b> Apply 20-25 tons/ha of farmyard manure (FYM) before transplanting.\n\n
+        <b>&#8226; NPK Application:</b>\n
+        <b>&#8226; Nitrogen (N):</b> 100-120 kg/ha (split into 3 doses).\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 50-60 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 50-60 kg/ha.\n\n
+        <b>&#8226; Top Dressing:</b> Apply remaining Nitrogen in 2 splits (30 and 45 days after transplanting).\n\n
+        <b>• Micronutrients:</b> Apply Zinc (ZnSO₄) and Boron as foliar sprays to prevent deficiencies that affect bulb development.\n
+    </string>
+
+    <string name="Onion_Growing_Process">
+        <b>• Transplanting:</b>\n
+        &#8226; Transplant seedlings when they are 6-8 weeks old and 12-15 cm tall.\n
+        <b>&#8226; Spacing:</b> 15 x 10 cm (Row x Plant) for bulb onions.\n\n
+        <b>• Irrigation:</b>\n
+        &#8226; Onions require regular irrigation at intervals of 7-10 days.\n
+        &#8226; Avoid overwatering, as it causes bulb rot and fungal diseases.\n
+        &#8226; Critical stages for irrigation: bulb formation and bulb enlargement stages.\n\n
+        <b>• Weeding and Hoeing:</b>\n
+        &#8226; Perform regular weeding to prevent competition for nutrients.\n
+        &#8226; Mulching can be applied to suppress weed growth and maintain soil moisture.\n\n
+        <b>• Intercultural Operations:</b>\n
+        &#8226; Light hoeing helps improve soil aeration and water infiltration.\n
+    </string>
+
+    <string name="Onion_Others">
+        <b>• Weather Considerations:</b>\n
+        &#8226; Onions grow best in a cool climate for vegetative growth and a warm, dry climate for bulb formation.\n
+        <b>&#8226; Optimum temperature:</b> 13°C to 24°C during growth and 30°C to 35°C during bulb maturity.\n
+        &#8226; Avoid heavy rainfall during bulb development, as it can cause rotting.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>• Pests:</b>\n
+        <b>&#8226; Thrips:</b> Spray Neem oil or insecticides like Imidacloprid to control them.\n
+        <b>&#8226; Onion Maggot:</b> Use crop rotation and soil treatments to prevent infestation.\n\n
+        <b>• Diseases:</b>\n
+        <b>&#8226; Purple Blotch:</b> Apply fungicides like Mancozeb or Chlorothalonil.\n
+        <b>&#8226; Downy Mildew:</b> Ensure proper drainage and use fungicides like Metalaxyl.\n
+        <b>&#8226; Stemphylium Blight:</b> Use resistant varieties and spray fungicides like Propineb.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Maturity Period:</b> Onions mature in 100–150 days after transplanting, depending on the variety.\n
+        <b>&#8226; Signs of Maturity:</b> Bulbs are ready when the tops fall over and turn yellow.\n
+        <b>&#8226; Harvesting Method:</b> Lift the bulbs carefully using a hand hoe or small plough. Cure the harvested bulbs in the sun for 7–10 days to improve shelf life.\n
+        <b>&#8226; Yield:</b>\n
+        &#8226; Average yield: 25-40 tons/ha, depending on the variety and management practices.\n\n
+        <b>• Popular Varieties:</b>\n
+        <b>• Red Onion Varieties:</b>\n
+        &#8226; N-53, Arka Niketan, Pusa Red, Bhima Red\n
+        <b>• White Onion Varieties:</b>\n
+        &#8226; Arka White, Bhima Shweta, Pusa White Round\n
+        <b>• Yellow Onion Varieties:</b>\n
+        &#8226; Arka Pitamber, Bhima Super, Granex 55\n
+        <b>• Hybrid Varieties:</b>\n
+        &#8226; Bhima Shakti, Agrifound Dark Red
+    </string>
+
+    <!--    Potato-->
+    <string name="Potato_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use certified, disease-free, and high-yielding seed tubers. Select tubers weighing 30–50 grams with 2–3 active buds (eyes) for better germination.\n\n
+        <b>• Seed Treatment:</b>\n
+        <b>&#8226; Treat seed tubers with Mancozeb (2–3 g/liter of water) or Carbendazim to prevent fungal infections.</b>\n
+        &#8226; For viral protection, use certified seeds to avoid diseases like mosaic and leaf curl virus.\n\n
+        <b>• Sprouting (Chitting):</b>\n
+        &#8226; Allow seed tubers to sprout by placing them in a well-ventilated, light area at a temperature of 15–20°C for 2–3 weeks.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Potatoes do not require a traditional nursery. Seed tubers are planted directly into the main field after pre-sprouting.\n\n
+        <b>• Land Preparation:</b>\n
+        <b>&#8226; Plough the field 2–3 times to make it fine and friable.</b>\n
+        &#8226; Remove weeds, stones, and debris from the field.\n
+        &#8226; Prepare ridges and furrows or raised beds for better water drainage.
+    </string>
+
+    <string name="Potato_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Requirements:</b>\n
+        &#8226; Potatoes prefer well-drained, sandy-loam soil rich in organic matter with a pH range of 5.5–7.5.\n
+        &#8226; Conduct soil testing to determine nutrient status before planting.\n\n
+        <b>• NPK Fertilization:</b>\n
+        &#8226; Apply fertilizers based on the requirement: \n
+        <b>&#8226; Nitrogen (N):</b> 120–150 kg/ha\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 80–100 kg/ha\n
+        <b>&#8226; Potassium (K₂O):</b> 100–120 kg/ha\n
+        &#8226; Apply half nitrogen and full P and K as a basal dose before planting.\n
+        &#8226; Top-dress the remaining nitrogen at the time of earthing up (after 25–30 days of planting).\n\n
+        <b>• Organic Manure:</b>\n
+        &#8226; Incorporate 20–25 tons/ha of farmyard manure or compost during land preparation for improved soil health.
+    </string>
+
+    <string name="Potato_Growing_Process">
+        <b>• Planting:</b>\n
+        &#8226; Plant pre-sprouted seed tubers at a depth of 5–7 cm.\n
+        <b>&#8226; Spacing:</b> Maintain 60 x 20 cm (row-to-row and plant-to-plant spacing).\n
+        <b>&#8226; Time of planting:</b> Depends on the region: \n
+        <b>&#8226; In plains:</b> October–November\n
+        <b>&#8226; In hills:</b> March–May\n\n
+        <b>• Irrigation:</b>\n
+        &#8226; Potatoes require frequent irrigation, especially during tuber formation.\n
+        &#8226; Irrigate at 5–7 day intervals; avoid overwatering to prevent waterlogging.\n\n
+        <b>• Earthing Up:</b>\n
+        &#8226; Perform earthing up after 25–30 days to promote tuber growth and prevent tuber greening.\n\n
+        <b>• Weeding:</b>\n
+        &#8226; Conduct 1–2 hand weeding sessions.\n
+        &#8226; Mulching can help suppress weeds and conserve moisture.
+    </string>
+
+    <string name="Potato_Others">
+        <b>• Weather Considerations:</b>\n
+        &#8226; Potatoes grow best in a cool climate with a temperature range of 18–20°C.\n
+        &#8226; Excessive heat (>30°C) or frost can damage the crop.\n
+        &#8226; Potatoes require moderate rainfall of about 500–700 mm but thrive under controlled irrigation.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>• Pests:</b>\n
+        <b>&#8226; Aphids:</b> Use insecticides like Imidacloprid or Neem-based formulations.\n
+        <b>&#8226; Cutworms and Potato Tuber Moths:</b> Apply soil treatments with appropriate insecticides.\n
+        <b>&#8226; White Grubs:</b> Treat soil with Chlorpyrifos before planting.\n\n
+        <b>• Diseases:</b>\n
+        <b>&#8226; Late Blight:</b> Apply fungicides like Mancozeb or Metalaxyl at the first sign of disease.\n
+        <b>&#8226; Early Blight:</b> Control with Chlorothalonil sprays.\n
+        <b>&#8226; Black Scurf and Fusarium Wilt:</b> Use healthy seeds and practice crop rotation.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Maturity:</b> Potatoes are ready for harvesting 90–120 days after planting.\n
+        <b>&#8226; Signs of Maturity:</b> Yellowing of foliage and drying of vines.\n
+        <b>&#8226; Harvesting:</b> Carefully dig tubers using hand tools or mechanical harvesters to avoid damage.\n
+        <b>&#8226; Yield:</b>\n
+        &#8226; Average yields range from 25–40 tons/ha, depending on the variety and management.\n\n
+        <b>• Popular Varieties:</b>\n
+        <b>• Early Maturing:</b>\n
+        &#8226; Kufri Ashoka, Kufri Pukhraj, Kufri Chandramukhi\n
+        <b>• Medium Maturing:</b>\n
+        &#8226; Kufri Jyoti, Kufri Lauvkar, Kufri Bahar\n
+        <b>• Late Maturing:</b>\n
+        &#8226; Kufri Sindhuri, Kufri Badshah\n
+        <b>• Processing Varieties:</b>\n
+        &#8226; Kufri Chipsona-1, Kufri Chipsona-2 (for chips and fries)
+    </string>
+
+
+    <!--    Pumpkin-->
+
+    <string name="Pumpkin_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Choose high-quality, disease-resistant pumpkin seeds. Look for varieties that suit the local climate and growth conditions.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Treat pumpkin seeds with a fungicide (e.g., Thiram or Captan) to protect against seed-borne diseases. Soak seeds in warm water (20-25°C) for 6-8 hours before sowing to improve germination.\n\n
+        <b>• Soil Preparation:</b>\n
+        &#8226; Prepare a well-drained, fertile seedbed. The soil should be light, loamy, and rich in organic matter. Add compost or well-decomposed farmyard manure to improve soil structure and fertility.\n\n
+        <b>• Time for Nursery Raising:</b>\n
+        &#8226; Pumpkins are typically grown from seeds directly sown in the field, but seedlings can be raised in nursery beds for 2-4 weeks before transplanting.\n\n
+        <b>• Seed Sowing:</b>\n
+        &#8226; In nursery beds, sow seeds in shallow rows with 5-7 cm spacing. Cover with a light layer of soil or compost.\n\n
+        <b>• Watering:</b>\n
+        &#8226; Water seedlings regularly, but avoid waterlogging. Use a fine spray to avoid disturbing the soil.\n\n
+        <b>• Thinning:</b>\n
+        &#8226; Thin out weaker seedlings, leaving the strong ones for transplanting.
+    </string>
+
+    <string name="Pumpkin_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Requirements:</b>\n
+        &#8226; Pumpkins prefer well-drained, sandy loam or loamy soil with a pH of 6.0-7.5.\n
+        <b>&#8226; Soil Testing:</b> Conduct a soil test before planting to determine nutrient levels and amend accordingly.\n\n
+        <b>• NPK Fertilization:</b>\n
+        <b>&#8226; Basal Dose:</b> Apply 40-60 kg NPK/ha (Nitrogen, Phosphorus, Potassium) at planting time.\n
+        <b>&#8226; Top Dressing:</b> Use additional Nitrogen at 2-3 weeks after sowing to promote vigorous vine growth.\n
+        <b>&#8226; Micronutrients:</b> Incorporate Zinc and Boron to prevent deficiencies. Foliar spray with Zinc and Magnesium can help improve fruit set and quality.\n\n
+        <b>• Organic Matter:</b>\n
+        &#8226; Use compost (10-15 tons/ha) or farmyard manure to enrich soil, improve texture, and retain moisture.
+    </string>
+
+    <string name="Pumpkin_Growing_Process">
+        <b>• Direct Sowing:</b>\n
+        &#8226; Pumpkins are often directly sown in the field in mounds or hills to provide good drainage.\n
+        <b>&#8226; Spacing:</b> Sow seeds in hills or raised beds, with 1.5-2 meters between plants. Maintain at least 3 meters between rows.\n\n
+        <b>• Irrigation:</b>\n
+        &#8226; Water regularly during dry spells, especially during fruit setting and growing. Ensure soil moisture is even, but avoid overwatering.\n
+        &#8226; Drip irrigation is recommended to provide a consistent water supply without wetting foliage.\n\n
+        <b>• Vine Management:</b>\n
+        &#8226; Pumpkins are vining plants and may spread widely. Train the vines to grow in a particular direction or provide them with trellises if growing vertically.\n
+        <b>&#8226; Pruning:</b> Regularly prune to remove excess vines and side shoots, promoting better air circulation and fruit production.\n\n
+        <b>• Mulching:</b>\n
+        &#8226; Apply mulch (straw, grass clippings, or plastic) around the plants to maintain soil moisture, suppress weeds, and regulate soil temperature.
+    </string>
+
+    <string name="Pumpkin_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>&#8226; Temperature:</b> Pumpkins thrive in warm temperatures, ideally between 20°C and 30°C.\n
+        <b>&#8226; Frost Sensitivity:</b> Pumpkins are highly sensitive to frost; avoid planting too early in cooler climates.\n
+        <b>&#8226; Rainfall:</b> Pumpkins require adequate rainfall (600-800 mm per year), but excessive rain can lead to fungal diseases.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>• Pests:</b>\n
+        <b>&#8226; Aphids:</b> Can be controlled using Neem oil or insecticidal soap.\n
+        <b>&#8226; Cucumber beetles:</b> Use insecticides or hand-pick the beetles.\n
+        <b>&#8226; Squash bugs:</b> Control by removing eggs and nymphs manually.\n
+        <b>&#8226; Whiteflies:</b> Use yellow sticky traps or insecticides.\n\n
+        <b>• Diseases:</b>\n
+        <b>&#8226; Powdery Mildew:</b> Use fungicides like Sulfur or Potassium bicarbonate.\n
+        <b>&#8226; Downy Mildew:</b> Prevent by using resistant varieties and avoiding overhead irrigation.\n
+        <b>&#8226; Wilt Diseases (e.g., Fusarium wilt):</b> Rotate crops to reduce soil-borne pathogen build-up.\n
+        <b>&#8226; Fruit Rot:</b> Ensure proper drainage and avoid overhead watering.\n\n
+        <b>• Harvesting:</b>\n
+        <b>• Time to Maturity:</b> Pumpkins take around 90-120 days to reach maturity, depending on the variety and climate.\n
+        <b>• Signs of Maturity:</b>\n
+        &#8226; The fruit will turn its mature color (orange, yellow, or green depending on variety).\n
+        &#8226; The stem becomes woody and dried.\n
+        &#8226; The skin will be hard when pressed.\n
+        <b>• Harvesting Method:</b> Use a sharp knife to cut the fruit, leaving about 2-3 inches of stem attached to prevent decay.\n\n
+        <b>• Popular Varieties:</b>\n
+        <b>• Cucurbita pepo:</b>\n
+        <b>&#8226; Early Prolific:</b> A small, round pumpkin ideal for pies and decorations.\n
+        <b>&#8226; Jack-o-Lantern:</b> The traditional variety for carving pumpkins.\n
+        <b>&#8226; Sugar Pumpkin:</b> A sweet variety used in pies and cooking.\n
+        <b>• Cucurbita maxima:</b>\n
+        <b>&#8226; Atlantic Giant:</b> Known for producing large pumpkins, often used in competitions.\n
+        <b>&#8226; Buttercup:</b> A smaller, flavorful pumpkin used for cooking and baking.\n
+        <b>• Cucurbita moschata:</b>\n
+        <b>&#8226; Butternut:</b> A smooth-textured variety with a sweet taste, used in soups and roasting.
+    </string>
+    <!--    Papaya-->
+
+    <string name="Papaya_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use healthy, disease-free seeds from high-yielding varieties. Papaya seeds can be sourced from well-established seed suppliers or mature papayas.\n
+        &#8226; Ensure seeds are from hybrid varieties for better disease resistance and higher yield.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Treat seeds with fungicides (e.g., Carbendazim) to prevent fungal infections before sowing.\n
+        &#8226; Some farmers opt for hot water treatment to reduce seed-borne diseases.\n\n
+        <b>• Soil Preparation:</b>\n
+        &#8226; Prepare a clean seedbed or containers with well-drained sandy loam or loamy soil.\n
+        &#8226; Mix in organic manure or compost to improve soil fertility.\n\n
+        <b>• Time for Nursery Raising:</b>\n
+        &#8226; Raise seedlings in nursery beds for 6–8 weeks before transplanting.\n\n
+        <b>• Seed Sowing:</b>\n
+        &#8226; Sow seeds at a depth of 1–2 cm in rows.\n
+        &#8226; Space seeds 5–7 cm apart.\n\n
+        <b>• Watering:</b>\n
+        &#8226; Water the seedlings regularly to keep the soil moist but not waterlogged. Use a fine sprinkler or gentle watering can.\n\n
+        <b>• Shading:</b>\n
+        &#8226; Provide partial shade, especially in hot climates, to protect the tender seedlings from strong sunlight.\n\n
+        <b>• Weeding:</b>\n
+        &#8226; Regularly remove weeds that compete with papaya seedlings for nutrients and water.
+    </string>
+
+    <string name="Papaya_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Requirements:</b>\n
+        &#8226; Papayas grow best in well-drained, sandy loam or loamy soil with a slightly acidic pH (5.5–6.5).\n
+        &#8226; The soil should be rich in organic matter, and a high water-holding capacity is necessary to maintain moisture in dry conditions.\n\n
+        <b>• Fertilization:</b>\n
+        <b>&#8226; Basal Dose:</b> Apply a balanced fertilizer mix like NPK 10:20:10 or 12:24:12 at planting time.\n
+        <b>&#8226; Top Dressing:</b>After 3 months, apply NPK 20:20:20 or 25:25:25 every 4–6 weeks for optimal growth. Split nitrogen applications into three stages: initial growth, flowering, and fruit development.\n
+        <b>&#8226; Organic Fertilizers:</b> Use compost or well-rotted farmyard manure to enrich the soil and improve microbial activity. Manure can be applied at the rate of 10–20 tons/ha.\n\n
+        <b>• Micronutrients:</b>\n
+        &#8226; Supplement with Calcium and Magnesium to improve fruit quality and prevent blossom end rot.\n
+        &#8226; Use zinc sulfate or boron sprays if deficiencies are noticed.
+    </string>
+
+    <string name="Papaya_Growing_Process">
+        <b>• Transplanting:</b>\n
+        &#8226; Transplant seedlings when they are about 30 cm tall (around 6–8 weeks old) to the main field.\n
+        &#8226; Spacing: Space plants 2–3 meters apart in rows and 3–4 meters between rows for optimal growth.\n\n
+        <b>• Irrigation:</b>\n
+        &#8226; Papayas require consistent moisture, especially during flowering and fruit development.\n
+        &#8226; Drip irrigation or furrow irrigation is ideal for papayas. Avoid overwatering as it can cause root rot.\n\n
+        <b>• Weeding and Mulching:</b>\n
+        &#8226; Remove weeds regularly and apply mulch (straw or grass) around the base of the plants to retain moisture and reduce weed growth.\n
+        &#8226; Ensure that the soil around the plant remains well-aerated and free of pests.\n\n
+        <b>• Pruning and Thinning:</b>\n
+        &#8226; Prune excess shoots and any dead or diseased branches.\n
+        &#8226; Thin the plants to allow space for proper air circulation and light penetration.
+    </string>
+
+    <string name="Papaya_Others">
+        <b>Weather Considerations:</b>\n
+        &#8226; <b>Temperature:</b> Papayas require warm tropical or subtropical climates with temperatures ranging from 25°C to 35°C.\n
+        &#8226; <b>Rainfall:</b> Papayas need consistent rainfall, approximately 1,200 to 1,800 mm/year, or they must be irrigated regularly.\n
+        &#8226; <b>Frost Sensitivity:</b> Papayas are highly sensitive to frost and should not be planted in areas where the temperature drops below 0°C.\n\n
+        <b>Pest and Disease Management:</b>\n
+        <b>Pests:</b>\n
+        &#8226; <b>Whiteflies, Aphids, Mealybugs:</b> Use neem oil or insecticides like Imidacloprid to control pests.\n
+        &#8226; <b>Papaya Fruit Fly:</b> Set up fruit fly traps and use insecticides like Spinosad.\n
+        &#8226; <b>Root Knot Nematodes:</b> Solarize the soil or apply nematicides before planting.\n\n
+        <b>Diseases:</b>\n
+        &#8226; <b>Powdery Mildew:</b> Use fungicides like Mancozeb or Trifloxystrobin to prevent the spread of mildew.\n
+        &#8226; <b>Papaya Ringspot Virus (PRSV):</b> This is one of the most destructive diseases. Use resistant varieties and remove infected plants immediately.\n
+        &#8226; <b>Phytophthora Root Rot:</b> Avoid over-irrigation and use drainage systems to prevent this fungal infection.\n\n
+        <b>Harvesting:</b>\n
+        &#8226; <b>Time to Harvest:</b>\n
+        &#8226; Papayas take about 6–12 months from transplanting to harvest, depending on the variety and environmental conditions.\n
+        &#8226; Harvest when the fruit is yellow with a slight orange tinge on the skin, indicating ripeness. The fruit should still be firm but slightly soft to the touch.\n\n
+        &#8226; <b>Yield:</b>\n
+        &#8226; On average, papaya plants can yield around 30–40 fruits per plant annually. Yield per hectare can range from 30–60 tons depending on the variety and cultivation practices.\n\n
+        <b>Popular Varieties:</b>\n
+        &#8226; <b>Red Lady:</b> A hybrid variety known for high yield and sweet, firm flesh.\n
+        &#8226; <b>Sunrise Solo:</b> A popular variety for small-scale commercial production.\n
+        &#8226; <b>Tainung No. 1:</b> Known for its resistance to disease and high yield.\n
+        &#8226; <b>Taiwan Papaya:</b> Grown primarily in tropical climates, offering a sweet taste and good disease resistance.
+    </string>
+
+    <!--    Cucumber-->
+
+    <string name="Cucumber_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Choose healthy, high-yielding, disease-resistant cucumber seeds. Hybrid varieties like Arka Ananya or Pusa Uday are preferred for better yields and resistance.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Soak seeds in a fungicide solution like Thiram or Carbendazim for 15–20 minutes before sowing to prevent fungal infections.\n\n
+        <b>• Soil Preparation:</b>\n
+        &#8226; Prepare the seedbed with well-drained, fertile loamy soil enriched with organic compost to enhance seedling growth.\n\n
+        <b>• Time for Nursery Raising:</b>\n
+        &#8226; Cucumbers are typically grown in nursery beds for about 3–4 weeks before transplanting.\n\n
+        <b>• Seed Sowing:</b>\n
+        &#8226; Sow seeds in shallow trays or beds, with a spacing of 2–3 cm between seeds.\n
+        &#8226; Cover the seeds lightly with soil or compost to maintain moisture.\n
+        &#8226; Water gently to avoid disturbing the seeds.\n\n
+        <b>• Shading:</b>\n
+        &#8226; Provide light shade during the early stages of growth to protect the seedlings from intense sunlight.\n\n
+        <b>• Weeding:</b>\n
+        &#8226; Remove weeds manually or use a weed suppressant to minimize competition for nutrients.
+    </string>
+
+    <string name="Cucumber_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Requirements:</b>\n
+        &#8226; Cucumbers prefer well-drained, loamy or sandy-loam soils with a pH range of 6.0 to 6.8.\n
+        &#8226; Ensure good organic content and moisture retention capacity in the soil for optimal growth.\n\n
+        <b>• NPK Fertilization:</b>\n
+        &#8226; <b>Basal Fertilization:</b> Before planting, apply 30–40 kg/ha of NPK (20:20:20) or equivalent well-balanced fertilizer.\n
+        &#8226; <b>Top Dressing:</b> Apply nitrogen (30–40 kg/ha) after 1 month of transplanting to encourage vegetative growth.\n
+        &#8226; Potassium and Phosphorus can be applied in split doses to promote flowering and fruiting.\n\n
+        <b>• Organic Matter:</b>\n
+        &#8226; Incorporate well-rotted manure (5–10 tons/ha) into the soil before planting to improve soil fertility.\n\n
+        <b>• Micronutrient Management:</b>\n
+        &#8226; Ensure adequate Zinc and Boron for healthy growth, especially to avoid blossom-end rot.
+    </string>
+
+    <string name="Cucumber_Growing_Process">
+        <b>• Transplanting:</b>\n
+        &#8226; Transplant seedlings when they are about 3–4 weeks old and have developed at least two true leaves.\n
+        &#8226; Maintain a spacing of 30–45 cm between plants, and 90–100 cm between rows for proper air circulation.\n\n
+        <b>• Irrigation:</b>\n
+        &#8226; Cucumbers need consistent moisture, particularly during flowering and fruit set.\n
+        &#8226; Use drip irrigation to ensure uniform moisture supply and reduce water wastage.\n
+        &#8226; Avoid wetting the foliage to reduce the risk of fungal diseases.\n\n
+        <b>• Training and Support:</b>\n
+        &#8226; Cucumbers are vining plants, so use trellises or stakes to support the plants and prevent them from sprawling on the ground.\n
+        &#8226; Prune any side shoots or excessive foliage to direct energy into fruit production.\n\n
+        <b>• Mulching:</b>\n
+        &#8226; Apply straw, plastic, or organic mulch to conserve moisture, suppress weeds, and maintain a uniform soil temperature.
+    </string>
+
+    <string name="Cucumber_Others">
+        <b>• Weather Considerations:</b>\n
+        &#8226; <b>Temperature:</b> Cucumbers thrive in warm weather, ideally between 22°C to 30°C.\n
+        &#8226; <b>Humidity:</b> High humidity levels are beneficial for cucumber growth, but excessive moisture can lead to diseases.\n
+        &#8226; <b>Rainfall:</b> Cucumbers require moderate rainfall of 500–800 mm annually, but regular irrigation may be needed during dry periods.\n
+        &#8226; <b>Frost Sensitivity:</b> Cucumbers are frost-sensitive; avoid planting in regions with early or late frosts.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>• Pests:</b>\n
+        &#8226; <b>Aphids, Whiteflies, Thrips:</b> Use insecticidal soaps or Neem oil to control pests.\n
+        &#8226; <b>Cucumber Beetles:</b> These pests can spread bacterial wilt; use row covers to protect young plants and apply insecticides if necessary.\n
+        &#8226; <b>Fruit Flies:</b> Apply pesticides like Spinosad or use traps to control them.\n\n
+        <b>• Diseases:</b>\n
+        &#8226; <b>Powdery Mildew:</b> Use fungicides such as Sulfur or Potassium bicarbonate for control.\n
+        &#8226; <b>Downy Mildew:</b> Use resistant varieties and fungicides like Mancozeb.\n
+        &#8226; <b>Bacterial Wilt:</b> Practice crop rotation and remove infected plants to limit spread.\n
+        &#8226; <b>Root Rot:</b> Ensure good drainage and avoid over-irrigation.\n\n
+        <b>• Harvesting:</b>\n
+        &#8226; Cucumbers are typically ready for harvest 50–70 days after planting, depending on the variety.\n
+        &#8226; <b>Harvesting Time:</b>\n
+        &#8226; For fresh consumption, harvest cucumbers when they are firm, green, and 15–20 cm long.\n
+        &#8226; For pickling varieties, allow the fruits to mature fully on the vine.\n
+        &#8226; <b>Yield:</b> Average yield is 15–30 tons/ha, depending on variety and cultivation practices.\n
+        &#8226; <b>Post-harvest Handling:</b> Cucumbers should be handled gently to prevent bruising and stored in a cool place (8°C to 10°C) to extend shelf life.\n\n
+        <b>• Popular Varieties:</b>\n
+        <b>• Indian Varieties:</b>\n
+        &#8226; <b>Pusa Sanyog:</b> A hybrid variety known for high yield and disease resistance.\n
+        &#8226; <b>Arka Ruchi:</b> A popular variety for both fresh consumption and pickling.\n
+        <b>• Hybrid Varieties:</b>\n
+        &#8226; <b>Pusa Uday:</b> Known for early maturity and high yield.\n
+        &#8226; <b>Arka Ananya:</b> A high-yielding hybrid that is resistant to diseases like powdery mildew and downy mildew.
+    </string>
+
+    <!--    BEET-->
+
+    <string name="Beet_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use high-yielding and disease-resistant varieties like Detroit Dark Red, Crimson Globe, or Ruby Queen.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Soak seeds in water for 12–24 hours to soften the seed coat and enhance germination.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare a well-drained, fine-textured seedbed rich in organic matter.\n
+        &#8226; Add compost or well-rotted manure to improve soil fertility.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare a pre-nursery seedbed of about 0.01–0.02 hectares for 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; The nursery bed should be plowed and leveled thoroughly, ensuring it is free of weeds and debris.\n
+        &#8226; Raised beds are preferred in areas prone to waterlogging.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 6–8 kg of seeds per hectare.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Maintain uniform soil moisture to promote seed germination and early growth.\n
+        &#8226; Avoid waterlogging during germination.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 2–3 tons of well-decomposed organic manure per hectare to enhance seedling growth.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for 4–6 weeks.
+    </string>
+
+    <string name="Beet_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers sandy loam to loamy soils with good drainage and a high organic matter content.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 6.0–7.5. Apply lime in acidic soils to adjust the pH.\n\n
+        <b>• Fertilizer Application:</b>\n
+        &#8226; <b>Organic Manure:</b> Apply 5–7 tons/ha during land preparation.\n
+        &#8226; <b>Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b>  40–50 kg/ha in split doses.\n
+        <b>&#8226; Phosphorus (P₂O₅):</b>  20–30 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b>  40–50 kg/ha.
+    </string>
+
+    <string name="Beet_Growing_Process">
+        <b>• Sowing Method:</b>\n
+        &#8226; Direct sowing is recommended for beet seeds. Thinly broadcast seeds or sow in rows at 2–3 cm depth.\n\n
+        <b>• Spacing:</b>\n
+        <b>&#8226; Row spacing:</b> 25–30 cm.\n
+        <b>&#8226; Plant spacing:</b> 8–10 cm within rows.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Provide irrigation immediately after sowing and maintain consistent moisture throughout the growing period.\n
+        &#8226; Avoid overwatering to prevent root diseases.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Germination.\n
+        &#8226; Root development and bulb formation stages.
+    </string>
+
+    <string name="Beet_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>&#8226; Season:</b> Best grown in cool seasons (October to March in tropical regions).\n
+        <b>&#8226; Temperature Requirements:</b>\n
+        <b>&#8226; Germination:</b> 15–25°C.\n
+        <b>&#8226; Growth:</b> 15–20°C.\n
+        <b>&#8226; Sunlight:</b> Requires full sunlight for optimal growth and development.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>• Weeds:</b>\n
+        &#8226; Use pre-emergence herbicides like Pendimethalin or manual weeding at 15–20 days after sowing.\n\n
+        <b>• Pests:</b>\n
+        &#8226; Control aphids and leaf miners using insecticides like Imidacloprid or Neem-based products.\n\n
+        <b>• Diseases:</b>\n
+        &#8226; Manage Cercospora leaf spot with fungicides like Mancozeb or Chlorothalonil.\n\n
+        <b>• Harvesting:</b>\n
+        &#8226; Timing: Harvest beets when roots are 5–7 cm in diameter (usually 60–90 days after sowing).\n
+        <b>&#8226; Post-Harvest Practices:</b>\n
+        &#8226; Clean the roots by gently removing soil and foliage.\n
+        &#8226; Store in a cool, moist environment (0–2°C) with 90–95% relative humidity.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Detroit Dark Red, Crimson Globe, Ruby Queen, Cylindra, Pablo, and Boltardy.
+    </string>
+
+
+    <!--    CARROT-->
+
+    <string name="Carrot_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use high-yielding and disease-resistant varieties like Nantes, Kuroda, Pusa Rudhira, or Pusa Meghali.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Soak seeds in water for 12–24 hours to improve germination.\n
+        &#8226; Treat seeds with Thiram (2 g/kg of seed) to prevent fungal infections.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare a fine-textured, raised seedbed to ensure proper drainage.\n
+        &#8226; Mix well-rotted manure or compost into the topsoil to enhance fertility.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare a pre-nursery seedbed of about 0.01–0.02 hectares for 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Nursery beds should be well-plowed, leveled, and free of weeds. Raised beds are preferred to avoid water stagnation.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 4–6 kg of seeds per hectare.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Maintain uniform soil moisture for seed germination. Avoid waterlogging.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 2–3 tons of well-decomposed compost or organic manure per hectare to promote healthy seedling growth.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for 4–6 weeks.
+    </string>
+
+    <string name="Carrot_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers loose, sandy loam soils rich in organic matter with good drainage. Avoid heavy clay soils.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 6.0–7.0. Apply lime in acidic soils to adjust pH.\n\n
+        <b>• Fertilizer Application:</b>\n
+        &#8226; <b>Organic Manure:</b> Apply 10–15 tons/ha during land preparation.\n
+        &#8226; <b>Chemical Fertilizers:</b>\n
+        &#8226; <b>Nitrogen (Urea):</b> 40–50 kg/ha in split doses.\n
+        &#8226; <b>Phosphorus (P₂O₅):</b> 30–40 kg/ha.\n
+        &#8226; <b>Potassium (K₂O):</b> 30–40 kg/ha.
+    </string>
+
+    <string name="Carrot_Growing_Process">
+        <b>• Sowing Method:</b>\n
+        &#8226; Direct sowing is recommended for carrot seeds. Sow thinly in rows at 1–2 cm depth.\n\n
+        <b>• Spacing:</b>\n
+        <b>&#8226; Row spacing:</b> 20–30 cm.\n
+        <b>&#8226; Plant spacing:</b> 5–8 cm within rows. Thin seedlings after germination if needed.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Irrigate immediately after sowing and maintain consistent soil moisture throughout the growing period.\n
+        &#8226; Avoid overwatering to prevent root splitting.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Germination.\n
+        &#8226; Root development and enlargement stages.
+    </string>
+
+
+    <string name="Carrot_Others">
+        <b>• Weather Considerations:</b>\n
+        &#8226; <b>Season:</b> Best grown in cool seasons (October to March in tropical regions).\n\n
+        &#8226; <b>Temperature Requirements:</b>\n
+        &#8226; Germination: 15–25°C.\n
+        &#8226; Growth: 18–25°C.\n\n
+        &#8226; <b>Sunlight:</b> Requires full sunlight for optimal root development.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        &#8226; <b>Weeds:</b>\n
+        &#8226; Apply pre-emergence herbicides like Pendimethalin or manually weed at 20–25 days after sowing.\n\n
+        &#8226; <b>Pests:</b>\n
+        &#8226; Control aphids, carrot flies, and cutworms using insecticides like Imidacloprid or Neem-based products.\n\n
+        &#8226; <b>Diseases:</b>\n
+        &#8226; Manage Alternaria leaf blight with fungicides like Mancozeb or Chlorothalonil.\n\n
+        <b>• Harvesting:</b>\n
+        &#8226; <b>Timing:</b> Harvest carrots when roots are fully developed, typically 75–100 days after sowing.\n\n
+        &#8226; <b>Post-Harvest Practices:</b>\n
+        &#8226; Gently remove soil and foliage after harvest.\n
+        &#8226; Store in a cool, moist environment (0–5°C) with 90–95% relative humidity.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Nantes, Kuroda, Pusa Rudhira, Pusa Meghali, Chantenay, and Early Nantes.
+    </string>
+
+
+    <!--    LEMON/LIME-->
+
+    <string name="Lemon_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use seeds or saplings of high-yielding, disease-resistant varieties such as Kagzi Lime, Eureka, Pramalini, or Vikram.\n
+        &#8226; Grafted or budded plants are preferred for uniformity and early fruiting.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Treat seeds with Carbendazim (2 g/kg of seed) to prevent fungal diseases.\n
+        &#8226; Soak seeds in clean water for 12–24 hours to improve germination.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Use a well-drained, sandy loam nursery bed enriched with organic manure.\n
+        &#8226; Ensure the seedbed receives partial sunlight to protect seedlings from harsh conditions.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare a nursery bed of about 0.02–0.03 hectares for 1 hectare of the main orchard.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Nursery beds should be well-plowed, leveled, and raised (10–15 cm) to ensure proper drainage.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; For seed propagation, use 2–3 kg of seeds per hectare.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Irrigate lightly and regularly to maintain consistent moisture. Avoid waterlogging.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 1–2 tons/ha of well-rotted farmyard manure (FYM) to enhance seedling growth.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for 8–12 months, depending on the variety and growing conditions.
+    </string>
+
+    <string name="Lemon_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers well-drained sandy loam to clayey loam soils rich in organic matter.\n
+        &#8226; Avoid waterlogged or saline soils.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 5.5–7.5. Apply lime or gypsum to adjust pH as needed.\n\n
+        <b>• Fertilizer Application:</b>\n
+        &#8226; <b>Organic Manure:</b> Apply 10–20 tons/ha of FYM during land preparation.\n
+        &#8226; <b>Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 300–500 g/tree/year in split doses.\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 150–250 g/tree/year.\n
+        <b>&#8226; Potassium (K₂O):</b> 200–400 g/tree/year.\n
+        &#8226; Apply micronutrients like Zinc (ZnSO₄) and Boron to address deficiencies.\n
+    </string>
+
+    <string name="Lemon_Growing_Process">
+        <b>• Planting Method:</b>\n
+        &#8226; Plant healthy saplings or grafted plants in pits (60 × 60 × 60 cm) filled with a mixture of topsoil, organic manure, and fertilizers.\n\n
+        <b>• Spacing:</b>\n
+        &#8226; Spacing: 4 × 4 m or 5 × 5 m (200–250 plants per hectare).\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Irrigate immediately after planting and maintain soil moisture during dry periods.\n
+        &#8226; Drip irrigation is ideal to save water and promote uniform growth.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Flowering.\n
+        &#8226; Fruit setting and development stages.\n
+    </string>
+
+    <string name="Lemon_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>&#8226; Season:</b> Best planting time is during monsoon or early winter (July to December).\n
+        <b>&#8226; Temperature Requirements:</b>\n
+        <b>&#8226; Optimal growth:</b> 25–35°C.\n
+        &#8226; Sensitive to frost and extreme heat.\n
+        <b>&#8226; Rainfall:</b> Requires 750–1200 mm annually but should not tolerate water stagnation.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b>\n
+        &#8226; Regular manual weeding or use of mulching to suppress weed growth.\n
+        <b>&#8226; Pests:</b>\n
+        <b>&#8226; Citrus Psylla:</b> Spray Imidacloprid or Neem oil.\n
+        <b>&#8226; Fruit Fly:</b> Use pheromone traps or spray Malathion.\n\n
+        <b>&#8226; Diseases:</b>\n
+        <b>&#8226; Canker:</b> Treat with Bordeaux mixture (1%).\n
+        <b>&#8226; Greening Disease:</b> Use disease-free planting material and manage vector pests like leafhoppers.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Timing:</b> Fruits are ready for harvest 6–8 months after flowering.\n
+        <b>&#8226; Post-Harvest Practices:</b>\n
+        &#8226; Hand-pick fruits to avoid damage.\n
+        &#8226; Store fruits in cool conditions (8–10°C) to extend shelf life.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Kagzi Lime, Eureka, Pramalini, Vikram, Rasraj, and Pusa Udit.\n
+    </string>
+
+
+    <!--    CORIANDER-->
+
+    <string name="Coriander_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use high-yielding and disease-resistant varieties like Pant Haritama, Gujarat Coriander-2, RCr 435, or Sadhana.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Treat seeds with Thiram or Carbendazim (2 g/kg of seed) to prevent fungal diseases.\n
+        &#8226; Slightly crush the seeds to break the seed coat for better germination.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare a fine-textured, well-drained seedbed enriched with organic manure or compost.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare a pre-nursery seedbed of about 0.01 hectares for 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Nursery beds should be well-plowed, leveled, and free of weeds. Raised beds are ideal for better drainage.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 10–15 kg of seeds per hectare.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Irrigate lightly after sowing and maintain consistent moisture. Avoid overwatering to prevent rotting.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 1–2 tons/ha of well-decomposed farmyard manure to the nursery beds.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for 3–4 weeks, after which seedlings can be transplanted if necessary.\n
+    </string>
+
+    <string name="Coriander_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers loamy to sandy loam soils with good drainage and high organic content.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 6.0–7.0. Apply lime if the soil is too acidic.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Organic Manure:</b> Apply 8–10 tons/ha during land preparation.\n
+        <b>&#8226; Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 30–40 kg/ha in split doses.\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 20–30 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 20–30 kg/ha.\n
+    </string>
+
+    <string name="Coriander_Growing_Process">
+        <b>• Sowing Method:</b>\n
+        &#8226; Direct sowing is recommended. Sow seeds at a depth of 1.5–2 cm.\n\n
+        <b>• Spacing:</b>\n
+        &#8226; Row spacing: 20–30 cm.\n
+        &#8226; Thin seedlings to maintain 5–8 cm spacing within rows.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Provide irrigation immediately after sowing and maintain consistent soil moisture throughout the growing period.\n
+        &#8226; Irrigate at critical stages, such as branching and flowering.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Germination.\n
+        &#8226; Flowering and seed formation stages.\n
+    </string>
+
+    <string name="Coriander_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>&#8226; Season:</b> Best grown during the cooler months (October to February).\n
+        <b>&#8226; Temperature Requirements:</b>\n
+        <b>&#8226; Germination:</b> 20–25°C.\n
+        <b>&#8226; Growth:</b> 18–30°C.\n
+        <b>&#8226; Rainfall:</b> Requires 500–600 mm of rainfall but thrives under irrigation in dry regions.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b> Manual weeding or apply pre-emergence herbicides like Pendimethalin.\n
+        <b>&#8226; Pests:</b> Aphids - Spray Neem oil or systemic insecticides like Imidacloprid.\n
+        <b>&#8226; Diseases:</b>\n
+        <b>&#8226; Powdery Mildew:</b> Treat with Sulfur or Carbendazim.\n
+        <b>&#8226; Blight:</b> Spray Mancozeb or Chlorothalonil.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Timing:</b>\n
+        <b>&#8226; For leaves:</b> Harvest 30–45 days after sowing.\n
+        <b>&#8226; For seeds:</b> Harvest when the plants turn yellow and seeds are mature (90–120 days after sowing).\n\n
+        <b>&#8226; Post-Harvest Practices:</b>\n
+        &#8226; Dry seeds under shade to reduce moisture content to 8–10% for storage.\n
+        &#8226; Store in airtight containers in a cool, dry place.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Pant Haritama, Gujarat Coriander-2, RCr 435, Sadhana, and Simpo S-33.\n
+    </string>
+
+
+    <!--    GINGER-->
+
+    <string name="Ginger_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use high-yielding, disease-resistant varieties like Rio de Janeiro, Nadia, Mahima, Suprabha, or Maran.\n
+        &#8226; Select healthy rhizomes weighing 20–25 g with 2–3 well-developed buds.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Treat rhizomes with Mancozeb (0.3%) or Copper Oxychloride solution for 30 minutes to prevent fungal infections.\n
+        &#8226; Dry treated rhizomes in shade for a few hours before planting.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare raised beds with well-drained soil enriched with organic manure or compost.\n
+        &#8226; Ensure proper aeration and light exposure for sprouting rhizomes.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare seedbeds of about 0.02 hectares for planting in 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Nursery beds should be well-plowed, leveled, and raised (15–20 cm) for better drainage.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 1,500–2,000 kg of seed rhizomes per hectare.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Maintain moderate soil moisture in the nursery. Avoid overwatering to prevent rhizome rot.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 2–3 tons/ha of well-rotted farmyard manure or compost in the nursery.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts 25–30 days for proper sprouting of rhizomes.\n
+    </string>
+
+    <string name="Ginger_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers sandy loam or clay loam soils rich in organic matter with good drainage.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 5.5–6.5. Apply lime for acidic soils to adjust pH.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Organic Manure:</b> Apply 20–25 tons/ha during land preparation.\n
+        <b>&#8226; Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 75–100 kg/ha in split doses.\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 50 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 50–75 kg/ha.\n
+        <b>&#8226; Zinc (ZnSO₄):</b> 10–15 kg/ha to improve growth.\n
+    </string>
+
+    <string name="Ginger_Growing_Process">
+        <b>• Planting Method:</b>\n
+        &#8226; Plant rhizomes in shallow pits (4–5 cm deep) with the buds facing upward.\n\n
+        <b>• Spacing:</b>\n
+        <b>&#8226; Row spacing:</b> 25–30 cm.\n
+        <b>&#8226; Plant spacing:</b> 20–25 cm within rows.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Irrigate immediately after planting and regularly to maintain moisture.\n
+        &#8226; Avoid water stagnation to prevent rhizome rot.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Germination.\n
+        &#8226; Rhizome formation and enlargement stages.\n
+    </string>
+
+    <string name="Ginger_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>&#8226; Season:</b> Best planted at the onset of monsoon (April to May).\n
+        <b>&#8226; Temperature Requirements:</b>\n
+        <b>&#8226; Growth:</b> 25–30°C.\n
+        <b>&#8226; Rainfall:</b> Requires 1,500–2,500 mm annually, evenly distributed.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b> Regular weeding or use of mulching to suppress weeds and conserve soil moisture.\n
+        <b>&#8226; Shoot Borer:</b> Spray Neem oil or use Chlorpyrifos.\n
+        <b>&#8226; Diseases: Rhizome Rot:</b> Treat with Copper Oxychloride or Trichoderma viride.\n
+        <b>&#8226; Leaf Spot:</b> Spray Mancozeb or Carbendazim.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Timing:</b> Harvest 8–10 months after planting when leaves turn yellow and dry.\n
+        <b>&#8226; Post-Harvest Practices:</b>\n
+        &#8226; Wash rhizomes to remove soil.\n
+        &#8226; Dry rhizomes in partial shade before storing.\n
+        &#8226; Store in well-ventilated conditions to prevent fungal growth.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Nadia, Rio de Janeiro, Mahima, Suprabha, Maran, and Varada.\n
+    </string>
+
+
+    <!--    TUMERIC-->
+
+    <string name="Turmeric_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use healthy, disease-free rhizomes of high-yielding varieties such as Suvarna, Suguna, Sudarshana, IISR Pragati, IISR Prathibha, and Alleppey Finger Turmeric.\n
+        &#8226; Select mother rhizomes or primary fingers weighing 20–30 g with 2–3 prominent buds.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Treat rhizomes with Mancozeb (0.3%) or Carbendazim (0.2%) solution for 30 minutes to protect against fungal diseases.\n
+        &#8226; Shade-dry the treated rhizomes for 2–3 hours before planting.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare well-drained raised beds enriched with farmyard manure or compost.\n
+        &#8226; Mulch beds with dry leaves to maintain moisture and prevent weed growth.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare seedbeds of about 0.02–0.03 hectares for planting in 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Plow and level the soil thoroughly. Prepare raised beds (15–20 cm high) for better drainage.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 2,000–2,500 kg of rhizomes per hectare for planting.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Irrigate immediately after planting and maintain consistent soil moisture. Avoid waterlogging to prevent rhizome rot.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 2–3 tons/ha of well-decomposed farmyard manure in the nursery beds.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts 30–45 days for sprouting of rhizomes.\n
+    </string>
+
+
+    <string name="Turmeric_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers well-drained sandy loam or clay loam soils rich in organic matter.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 5.0–7.0. Use lime for acidic soils to balance pH.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Organic Manure:</b> Apply 20–25 tons/ha of farmyard manure during land preparation.\n
+        <b>&#8226; Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 75–100 kg/ha in split doses.\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 50 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 100–120 kg/ha.\n
+        &#8226; Micronutrients (Zinc and Boron) can be applied to improve yield.\n
+    </string>
+
+    <string name="Turmeric_Growing_Process">
+        <b>• Planting Method:</b>\n
+        &#8226; Plant rhizomes horizontally in shallow furrows (4–6 cm deep). Cover with a thin layer of soil and mulch.\n\n
+        <b>• Spacing:</b>\n
+        &#8226; Row spacing: 30–45 cm.\n
+        &#8226; Plant spacing: 20–25 cm within rows.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Irrigate immediately after planting and as needed to maintain consistent moisture.\n
+        &#8226; Use drip irrigation to conserve water and improve growth.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Germination.\n
+        &#8226; Rhizome formation and development stages.\n
+    </string>
+
+    <string name="Turmeric_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>&#8226; Season:</b> Best planted in April–May at the onset of monsoon.\n
+        <b>&#8226; Temperature Requirements:</b>\n
+        <b>&#8226; Optimal growth:</b> 20–30°C.\n
+        <b>&#8226; Rainfall:</b> Requires 1,200–2,000 mm annually, evenly distributed.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b>\n
+        &#8226; Manual weeding or mulching with dry leaves to suppress weed growth.\n
+        <b>&#8226; Pests:</b>\n
+        <b>&#8226; Shoot Borer:</b> Spray Neem oil or Chlorpyrifos.\n
+        <b>&#8226; Diseases:</b>\n
+        <b>&#8226; Rhizome Rot:</b> Treat with Copper Oxychloride or Trichoderma viride.\n
+        <b>&#8226; Leaf Blotch:</b> Spray Mancozeb or Carbendazim.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Timing:</b> Harvest 7–9 months after planting when the leaves turn yellow and dry.\n
+        <b>&#8226; Post-Harvest Practices:</b>\n
+        &#8226;Rhizomes are boiled or steamed for 45–60 minutes to enhance color and flavor.\n
+        &#8226;Dry rhizomes in the sun for 10–15 days before polishing and storing.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Suvarna, Suguna, Sudarshana, IISR Pragati, IISR Prathibha, Alleppey Finger, and Salem.\n
+    </string>
+
+
+    <!--    GARLIC-->
+
+    <string name="Garlic_Nursery">
+        <b>• Land Preparation:</b>\n
+        &#8226; Plow and level the field to ensure a fine tilth. Garlic is best grown on loose, well-drained soil.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 500–600 kg of garlic bulbs per hectare for planting.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Maintain moderate moisture in the nursery. Avoid waterlogging to prevent bulb rot.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 5–6 tons/ha of well-rotted farmyard manure or compost during land preparation.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for 30–45 days, depending on the variety and growing conditions.\n
+    </string>
+
+    <string name="Garlic_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers well-drained, sandy loam or loamy soils with a slightly acidic pH.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 6.0–7.0. Apply lime if the soil is too acidic.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Organic Manure:</b> Apply 5–6 tons/ha of farmyard manure during land preparation.\n
+        <b>&#8226; Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 40–50 kg/ha.\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 40–50 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 60–70 kg/ha.\n
+        &#8226; Apply Zinc (ZnSO₄) if deficiency symptoms are visible.\n
+    </string>
+
+    <string name="Garlic_Growing_Process">
+        <b>• Planting Method:</b>\n
+        &#8226; Separate the garlic bulbs into individual cloves before planting.\n
+        &#8226; Plant cloves upright with the pointed end facing upward, at a depth of 3–4 cm.\n\n
+        <b>• Spacing:</b>\n
+        <b>&#8226; Row spacing:</b> 15–20 cm.\n
+        <b>&#8226; Clove spacing within rows:</b> 10–15 cm.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Irrigate lightly after planting and continue to maintain moderate soil moisture throughout the growing season.\n
+        &#8226; Reduce irrigation in the final stages of growth to prevent rotting and improve bulb formation.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Early growth stages.\n
+        &#8226; Bulb formation and maturation stages.\n
+    </string>
+
+    <string name="Garlic_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>&#8226; Season:</b> Garlic is typically grown from October to February in most regions.\n
+        <b>&#8226; Temperature Requirements:</b>\n
+        <b>&#8226; Optimal growth:</b> 15–25°C.\n
+        <b>&#8226; Rainfall:</b> Requires 400–600 mm of well-distributed rainfall.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b>\n
+        &#8226; Manual weeding or the application of pre-emergence herbicides like Pendimethalin.\n
+        <b>&#8226; Pests:</b>\n
+        <b>&#8226; Onion Thrips:</b> Spray with insecticides like Imidacloprid or Spinosad.\n
+        <b>&#8226; Diseases:</b>\n
+        <b>&#8226; White Rot:</b> Treat soil with Trichoderma viride or other biological control agents.\n
+        <b>&#8226; Downy Mildew:</b> Use Copper Oxychloride or Mancozeb to control fungal infections.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Timing:</b> Garlic is ready for harvest when the leaves turn yellow and start drying, approximately 6–7 months after planting.\n
+        <b>&#8226; Post-Harvest Practices:</b>\n
+        &#8226; Dry garlic bulbs in the shade for 10–15 days.\n
+        &#8226; After drying, trim roots and remove excess soil before storage.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; LG-1, G-282, G-323, White Garlic, and Garlic of Allium sativum variety.\n
+    </string>
+
+
+    <!--    BITTER GOURD-->
+
+    <string name="Bitter_Gourd_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use high-quality, disease-free seeds of popular varieties such as Pusa Do Mausami, Long Green, and Karela Pusa.\n
+        &#8226; Select seeds from healthy fruits for better germination and disease resistance.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Soak seeds in warm water (30–40°C) for 2–3 hours to promote faster germination.\n
+        &#8226; Treat seeds with fungicides like Captan or Thiram (2–3 g/kg) to protect against fungal diseases.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare well-drained, fertile soil enriched with organic compost.\n
+        &#8226; Ensure proper aeration and good sunlight exposure for better germination.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare a pre-nursery seedbed of about 0.01–0.02 hectares for 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Plow and level the soil to create a smooth seedbed. Bitter gourd requires well-drained soil for healthy growth.\n
+        &#8226; Incorporate well-decomposed farmyard manure (FYM) or compost to improve soil fertility.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 800–1,000 grams of seed per hectare for planting in the main field.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Maintain moderate moisture in the nursery bed. Avoid waterlogging to prevent seed rot.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 2–3 tons of well-decomposed compost or FYM to the nursery bed before planting.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for 15–20 days until the seedlings are ready for transplanting.\n
+    </string>
+
+    <string name="Bitter_Gourd_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers well-drained, sandy loam or loamy soils with good organic matter content.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 6.0–7.5. Apply lime if the soil is too acidic.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Organic Manure:</b> Apply 15–20 tons/ha of FYM or compost during land preparation.\n
+        <b>&#8226; Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 40–50 kg/ha.\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 40–50 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 40–50 kg/ha.\n
+        &#8226; Zinc (ZnSO₄): 10 kg/ha if deficiency is noticed.\n
+    </string>
+
+    <string name="Bitter_Gourd_Growing_Process">
+        <b>• Planting Method:</b>\n
+        &#8226; Transplant seedlings when they have 3–4 leaves, spaced at a depth of 2–3 cm.\n
+        &#8226; If direct seeding, plant 2–3 seeds per hole and thin out weaker plants after germination.\n\n
+        <b>• Spacing:</b>\n
+        <b>&#8226; Row spacing:</b> 2–2.5 meters.\n
+        <b>&#8226; Plant spacing within rows:</b> 50–60 cm.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Water regularly, especially during the flowering and fruiting stages, to maintain moisture.\n
+        &#8226; Ensure good drainage to prevent waterlogging and root rot.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Flowering and fruiting stages.\n
+        &#8226; Early fruit setting and maturation.\n
+    </string>
+
+    <string name="Bitter_Gourd_Others">
+        <b>• Weather Considerations:</b>\n
+        &#8226; <b>Season:</b> Best planted in the summer season (March to May), as it requires warm temperatures.\n
+        &#8226; <b>Temperature Requirements:</b>\n
+        &#8226; Optimal growth: 25–30°C.\n
+        &#8226; Ideal for warm, tropical and subtropical climates.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b>\n
+        &#8226; Regular weeding or use of mulching to suppress weeds.\n
+        &#8226; Use herbicides like Pendimethalin before planting if necessary.\n
+        <b>&#8226; Pests:</b>\n
+        &#8226; Aphids: Use insecticidal soap or Imidacloprid to control.\n
+        &#8226; Fruit Fly: Apply Malathion to reduce fruit fly damage.\n
+        <b>&#8226; Diseases:</b>\n
+        &#8226; Powdery Mildew: Spray Sulphur or Difenoconazole to manage the disease.\n
+        &#8226; Downy Mildew: Use Mancozeb or Copper-based fungicides for control.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Timing:</b> Harvest fruits when they are young and tender, typically 60–70 days after sowing, depending on variety.\n
+        <b>&#8226; Post-Harvest Practices:</b>\n
+        &#8226; Harvest in the early morning when the fruits are fresh and not wilted.\n
+        &#8226; Clean and pack the fruits carefully to prevent bruising.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Pusa Do Mausami, Long Green, Karela Pusa, and Karela Local.\n
+    </string>
+
+
+    <!--    RADISH-->
+
+    <string name="Radish_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use high-quality, disease-free seeds of popular varieties such as Pusa Chetki, Pusa Suvernarekha, and White Icicle.\n
+        &#8226; Choose varieties suitable for local climate conditions (early or late-season varieties).\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Soak seeds in water for 4–6 hours before sowing to improve germination.\n
+        &#8226; Treat seeds with fungicides like Thiram (2 g/kg) to protect against soil-borne diseases.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare a fine, loose seedbed with well-drained, fertile soil.\n
+        &#8226; Incorporate organic matter such as compost or farmyard manure to improve soil fertility.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare a pre-nursery seedbed of about 0.01 hectares for 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Plow and level the field to create a fine tilth. Radish requires well-drained, loose soil for good root development.\n
+        &#8226; Incorporate well-decomposed organic matter into the soil to improve fertility.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 6–8 kg of seed per hectare for sowing in the main field.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Maintain adequate moisture in the nursery bed. Avoid waterlogging, as it can cause seed rot and poor germination.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 2–3 tons/ha of compost or well-decomposed farmyard manure to the nursery bed to enhance soil fertility.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for 10–15 days until the seedlings are ready for transplanting or direct sowing in the main field.\n
+    </string>
+
+    <string name="Radish_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers well-drained, sandy loam or loamy soils that are rich in organic matter.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 6.0–7.5. Radish grows well in slightly acidic to neutral soils.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Organic Manure:</b> Apply 10–15 tons/ha of farmyard manure or compost before sowing.\n
+        <b>&#8226; Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 20–30 kg/ha.\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 25–30 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 30–40 kg/ha.\n
+        &#8226; Apply micronutrients like Zinc (ZnSO₄) if required.\n
+    </string>
+
+    <string name="Radish_Growing_Process">
+        <b>• Planting Method:</b>\n
+        &#8226; Radish can be grown either by direct sowing in the field or by transplanting seedlings.\n
+        &#8226; For direct sowing, place seeds at a depth of 1–2 cm.\n\n
+        <b>• Spacing:</b>\n
+        <b>&#8226; Row spacing:</b> 20–30 cm.\n
+        <b>&#8226; Plant spacing within rows:</b> 5–10 cm.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Radishes require consistent moisture for proper growth, particularly during the early growth stages.\n
+        &#8226; Avoid waterlogging; irrigate as needed, but ensure good drainage.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Germination and early seedling growth.\n
+        &#8226; Root expansion and development.\n
+    </string>
+
+    <string name="Radish_Others">
+        <b>• Weather Considerations:</b>\n
+        &#8226; <b>Season:</b> Radish is a cool-season crop, typically grown in the winter months (October to February).\n
+        &#8226; <b>Temperature Requirements:</b>\n
+        &#8226; <b>Optimal growth:</b> 15–20°C.\n
+        &#8226; Radishes can tolerate mild frost but perform best in cooler weather.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b>\n
+        &#8226; Regular weeding or use of pre-emergence herbicides like Pendimethalin to control weeds.\n
+        &#8226; Mulching can also help suppress weeds.\n
+        <b>&#8226; Pests:</b>\n
+        <b>&#8226; Aphids:</b> Control aphid infestations by using insecticides such as Imidacloprid.\n
+        <b>&#8226; Root Maggot:</b> Apply insecticides like Malathion to manage root maggot infestations.\n
+        <b>&#8226; Diseases:</b>\n
+        <b>&#8226; Downy Mildew:</b> Prevent with copper-based fungicides or Mancozeb.\n
+        <b>&#8226; Fusarium Wilt:</b> Avoid over-watering, and apply crop rotation practices to prevent this soil-borne disease.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Timing:</b> Radishes are typically ready for harvest 25–40 days after sowing, depending on the variety. Harvest when roots reach the desired size.\n
+        <b>&#8226; Post-Harvest Practices:</b>\n
+        &#8226; Wash the roots thoroughly and trim the leaves before storage.\n
+        &#8226; Radishes can be stored in cool, dry conditions for up to 1–2 weeks.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Pusa Chetki, Pusa Suvernarekha, White Icicle, Chinese White, and Red Globe.\n
+    </string>
+
+
+    <!--    BOTTLE GOURD-->
+
+    <string name="Bottle_Gourd_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use healthy, disease-free seeds from high-yielding and popular varieties such as Pusa Summer, Long Green, and White Bottle Gourd.\n
+        &#8226; Choose seeds that are free from damage and have good germination potential.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Soak the seeds in warm water (30°C) for 12–24 hours to enhance germination.\n
+        &#8226; Treat seeds with fungicides such as Thiram or Captan (2–3 g/kg) to prevent fungal diseases.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare a well-drained seedbed with loose, fertile soil.\n
+        &#8226; Enrich the soil with organic matter like farmyard manure (FYM) or compost for better growth.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare a pre-nursery seedbed of about 0.01 hectares for 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Plow and level the soil to create a smooth and fine tilth.\n
+        &#8226; Incorporate well-rotted farmyard manure or compost to enhance soil fertility.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 250–300 grams of seeds per hectare for direct sowing in the main field.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Maintain adequate moisture in the nursery bed for proper seedling growth. Avoid waterlogging to prevent diseases.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 2–3 tons/ha of compost or farmyard manure to improve soil fertility in the nursery bed.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for 15–20 days until the seedlings are ready for transplanting or direct sowing.\n
+    </string>
+
+    <string name="Bottle_Gourd_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers well-drained, sandy loam or loamy soils that are rich in organic matter.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 6.0–7.5. Bottle gourd grows well in slightly acidic to neutral soils.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Organic Manure:</b> Apply 15–20 tons/ha of farmyard manure or compost before planting.\n
+        <b>&#8226; Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 40–50 kg/ha.\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 30–40 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 50–60 kg/ha.\n
+    </string>
+
+    <string name="Bottle_Gourd_Growing_Process">
+        <b>• Planting Method:</b>\n
+        &#8226; Directly sow seeds or transplant seedlings in rows, maintaining a depth of 3–4 cm.\n
+        &#8226; For direct sowing, plant 2–3 seeds per hole and thin the weaker plants after germination.\n\n
+        <b>• Spacing:</b>\n
+        <b>&#8226; Row spacing:</b> 2.5–3 meters.\n
+        <b>&#8226; Plant spacing within rows:</b> 50–60 cm.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Bottle gourd requires consistent moisture, particularly during flowering and fruiting stages.\n
+        &#8226; Avoid waterlogging, as it can lead to root rot and poor fruit formation.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Flowering and fruit development stages.\n
+        &#8226; Early vegetative growth and fruit expansion.\n
+    </string>
+
+    <string name="Bottle_Gourd_Others">
+        <b>• Weather Considerations:</b>\n
+        &#8226; Season: Bottle gourd is a warm-season crop, typically planted in spring or summer (March to June).\n
+        <b>&#8226; Temperature Requirements:</b>\n
+        &#8226; Optimal growth: 25–30°C.\n
+        &#8226; Bottle gourd is sensitive to frost, so it is best grown in frost-free areas.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b>\n
+        &#8226; Regular weeding or mulching to control weed growth.\n
+        &#8226; Pre-emergence herbicides like Pendimethalin can be used for weed control.\n
+        <b>&#8226; Pests:</b>\n
+        <b>&#8226; Aphids:</b> Use insecticides like Imidacloprid or organic neem oil to control aphids.\n
+        <b>&#8226; Fruit Fly:</b> Apply Malathion or Spinosad to control fruit fly infestations.\n
+        <b>&#8226; Diseases:</b>\n
+        <b>&#8226; Powdery Mildew:</b> Use Sulfur-based fungicides to control powdery mildew.\n
+        <b>&#8226; Downy Mildew:</b> Control with Copper-based fungicides or Mancozeb.\n
+        <b>&#8226; Root Rot:</b> Ensure good drainage and avoid over-watering.\n\n
+        <b>• Harvesting:</b>\n
+        &#8226; Timing: Bottle gourds are ready for harvest 60–80 days after sowing, depending on the variety and growing conditions. Harvest when the fruits are firm, tender, and have reached full size.\n
+        <b>&#8226; Post-Harvest Practices:</b>\n
+        &#8226; Handle with care to avoid bruising the fruits.\n
+        &#8226; Store in a cool, dry place, preferably at temperatures between 10–15°C for better shelf life.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Pusa Summer, Long Green, White Bottle Gourd, and Local varieties.\n
+    </string>
+
+
+    <!--    SWEET POTATO-->
+
+    <string name="Sweet_Potato_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Use disease-free, high-quality tuber stock from reliable sources.\n
+        &#8226; Popular varieties include Pusa Himagiri, Pusa Sankar, and Beauregard.\n
+        &#8226; Choose medium-sized, healthy tubers with no signs of damage or disease.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Cut tubers into 20–25 cm long pieces, ensuring each piece has at least one or two buds.\n
+        &#8226; Soak the tuber pieces in water for 2–3 hours to promote sprouting.\n
+        &#8226; Treat tuber pieces with fungicides like Carbendazim (2–3 g/kg) to prevent fungal diseases.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare a loose, well-drained bed in a sunny location.\n
+        &#8226; Enrich the soil with organic matter like farmyard manure (FYM) to improve soil fertility and drainage.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare a pre-nursery seedbed of about 0.01 hectares for 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Plow and level the land to ensure good drainage and loose soil for tuber growth.\n
+        &#8226; Incorporate farmyard manure or compost at 10–15 tons/ha to improve soil texture.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 2,500–3,000 plants per hectare for a good yield of sweet potatoes.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Ensure regular irrigation to maintain soil moisture, especially during dry spells.\n
+        &#8226; Avoid waterlogging, as this can lead to root rot.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 2–3 tons/ha of compost or farmyard manure to the nursery bed.\n
+        &#8226; Use 50 kg/ha of nitrogen (Urea), 30 kg/ha of phosphorus (Single Super Phosphate), and 40–50 kg/ha of potassium (Muriate of Potash) during land preparation.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for about 25–30 days until the slips are ready for planting in the main field.\n
+    </string>
+
+    <string name="Sweet_Potato_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers loose, well-drained, sandy loam or loamy soils.\n
+        &#8226; Soil should be rich in organic matter and have good water-holding capacity.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 5.5–6.5. Sweet potatoes grow best in slightly acidic soils.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Organic Manure:</b> Apply 15–20 tons/ha of compost or farmyard manure before planting.\n
+        <b>&#8226; Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 40–50 kg/ha (apply in split doses).\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 30–40 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 40–50 kg/ha.\n
+    </string>
+
+    <string name="Sweet_Potato_Growing_Process">
+        <b>• Planting Method:</b>\n
+        &#8226; Sweet potatoes are grown from slips (young shoots from tubers).\n
+        &#8226; Plant the slips 15–20 cm deep and ensure that at least two nodes are buried in the soil.\n\n
+        <b>• Spacing:</b>\n
+        <b>&#8226; Row spacing:</b> 75–90 cm.\n
+        &#8226; Plant spacing within rows: 20–30 cm.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Maintain consistent moisture during the growing season.\n
+        &#8226; Avoid excessive watering during the later stages of growth to prevent rotting.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Early root establishment and during tuber enlargement.\n
+    </string>
+
+    <string name="Sweet_Potato_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>&#8226; Season:</b> Best grown in the warm season, typically from March to June.\n
+        <b>&#8226; Temperature Requirements:</b>\n
+        <b>&#8226; Optimal growth:</b> 25–30°C.\n
+        &#8226; Sweet potatoes require warm soil for good root development.\n\n
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b>\n
+        &#8226; Control weeds through regular hand weeding or using mulch to suppress weed growth.\n
+        &#8226; Pre-emergence herbicides like Alachlor can also be used.\n
+        <b>&#8226; Pests:</b>\n
+        <b>&#8226; Sweet Potato Weevil:</b> Use systemic insecticides like Carbofuran or neem oil to control.\n
+        <b>&#8226; Aphids:</b> Manage aphid infestations with insecticidal soap or Imidacloprid.\n\n
+        <b>&#8226; Diseases:</b>\n
+        <b>&#8226; Fusarium Wilt:</b> Use resistant varieties and avoid waterlogging.\n
+        <b>&#8226; Root Rot:</b> Ensure proper drainage and avoid over-watering to reduce the risk of fungal infections.\n\n
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Timing:</b> Sweet potatoes are typically ready for harvest 90–150 days after planting, depending on the variety. Harvest when the vines start to yellow and the leaves begin to die off.\n\n
+        <b>• Post-Harvest Practices:</b>\n
+        &#8226; Cure the harvested sweet potatoes by storing them in a warm, humid place (25–30°C) for 10–14 days.\n
+        &#8226; Store in a cool, dry place to prevent rotting.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Pusa Himagiri, Pusa Sankar, Beauregard, and Local varieties.\n
+    </string>
+
+
+    <!--    RIDGE GOURD-->
+
+    <string name="Ridge_gourd_Nursery">
+        <b>• Seed Selection:</b>\n
+        &#8226; Choose high-quality, disease-free seeds from reliable sources.\n
+        &#8226; Popular varieties include Pusa Nasdar, Pusa Sankar, and local varieties.\n\n
+        <b>• Seed Treatment:</b>\n
+        &#8226; Soak seeds in water for 12–24 hours to promote sprouting.\n
+        &#8226; Treat seeds with fungicides such as Thiram or Captan (2–3 g/kg) to protect against fungal diseases.\n\n
+        <b>• Seedbed Preparation:</b>\n
+        &#8226; Prepare a seedbed with well-drained, fertile soil.\n
+        &#8226; Add organic matter like farmyard manure (FYM) or compost to improve soil fertility and drainage.\n\n
+        <b>• Area Requirement:</b>\n
+        &#8226; Prepare a pre-nursery seedbed of about 0.01 hectares for 1 hectare of the main field.\n\n
+        <b>• Land Preparation:</b>\n
+        &#8226; Plow and level the field to ensure proper drainage and soil structure.\n
+        &#8226; Incorporate farmyard manure or compost (10–15 tons/ha) to improve fertility.\n\n
+        <b>• Seed Rate:</b>\n
+        &#8226; Use 400–500 grams of seeds per hectare for good plant establishment.\n\n
+        <b>• Water Management:</b>\n
+        &#8226; Keep the nursery bed moist to encourage seed germination. Avoid waterlogging to prevent seed rot.\n\n
+        <b>• Nutrient Management:</b>\n
+        &#8226; Apply 2–3 tons/ha of compost or farmyard manure to the nursery bed.\n\n
+        <b>• Time Frame:</b>\n
+        &#8226; The nursery stage lasts for about 20–25 days until the seedlings are ready for transplanting.\n
+    </string>
+
+    <string name="Ridge_gourd_NPK_Fertilizer_and_Soil_Management">
+        <b>• Soil Type:</b>\n
+        &#8226; Prefers well-drained, fertile sandy loam or loamy soils.\n
+        &#8226; Ridge gourd requires a soil rich in organic matter and good water-holding capacity.\n\n
+        <b>• Soil pH:</b>\n
+        &#8226; Optimal pH range is 6.0–7.5. Ridge gourd grows best in neutral to slightly acidic soils.\n\n
+        <b>• Fertilizer Application:</b>\n
+        <b>&#8226; Organic Manure:</b> Apply 10–15 tons/ha of farmyard manure or compost before planting.\n
+        <b>&#8226; Chemical Fertilizers:</b>\n
+        <b>&#8226; Nitrogen (Urea):</b> 40–50 kg/ha (apply in split doses).\n
+        <b>&#8226; Phosphorus (P₂O₅):</b> 30–40 kg/ha.\n
+        <b>&#8226; Potassium (K₂O):</b> 40–50 kg/ha.\n
+        &#8226; Micronutrients like Zinc (ZnSO₄) can be applied if required.\n
+    </string>
+
+    <string name="Ridge_gourd_Growing_Process">
+        <b>• Planting Method:</b>\n
+        &#8226; Ridge gourd can be grown by direct sowing in the main field or by transplanting seedlings.\n
+        &#8226; For transplanting, plant seedlings 15–20 cm deep with at least two true leaves.\n\n
+        <b>• Spacing:</b>\n
+        &#8226; Row spacing: 2.5–3 meters.\n
+        &#8226; Plant spacing within rows: 50–75 cm.\n\n
+        <b>• Irrigation Management:</b>\n
+        &#8226; Ridge gourd requires consistent moisture, especially during flowering and fruit development stages.\n
+        &#8226; Avoid waterlogging, which can damage the roots and cause disease.\n\n
+        <b>• Critical Water Stages:</b>\n
+        &#8226; Flowering, fruit development, and early vegetative growth stages.\n
+    </string>
+
+    <string name="Ridge_gourd_Others">
+        <b>• Weather Considerations:</b>\n
+        <b>&#8226; Season:</b> Ridge gourd is a warm-season crop and grows best during summer (March to June).\n
+        <b>&#8226; Temperature Requirements:</b>\n
+        <b>&#8226; Optimal growth:</b> 25–30°C.\n
+        &#8226; Ridge gourd is sensitive to frost, so it is best grown in frost-free regions.\n\n
+
+        <b>• Pest and Disease Management:</b>\n
+        <b>&#8226; Weeds:</b>\n
+        &#8226; Regular weeding or mulching helps control weeds.\n
+        &#8226; Pre-emergence herbicides such as Pendimethalin can also be used.\n
+        <b>&#8226; Pests:</b>\n
+        <b>&#8226; Aphids:</b> Control with insecticidal soap or neem oil.\n
+        <b>&#8226; Fruit Fly:</b> Apply Malathion or Spinosad for effective fruit fly control.\n\n
+
+        <b>&#8226; Diseases:</b>\n
+        <b>&#8226; Powdery Mildew:</b> Prevent with sulfur-based fungicides.\n
+        <b>&#8226; Downy Mildew:</b> Use copper-based fungicides or Mancozeb for control.\n
+        <b>&#8226; Root Rot:</b> Ensure good drainage and avoid overwatering.\n\n
+
+        <b>• Harvesting:</b>\n
+        <b>&#8226; Timing:</b> Ridge gourds are typically ready for harvest 60–75 days after planting, depending on the variety.\n
+        &#8226; Harvest when fruits are tender, medium-sized, and still immature, as over-mature fruits can become tough.\n\n
+        <b>• Post-Harvest Practices:</b>\n
+        &#8226; Handle gently to avoid bruising.\n
+        &#8226; Store in a cool, dry place, and consume within 1–2 weeks for best quality.\n\n
+        <b>• Popular Varieties:</b>\n
+        &#8226; Pusa Nasdar, Pusa Sankar, Local Ridge Gourd.\n
+    </string>
+
+
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cropcare.cropcarePage">
+
+    <LinearLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:background="@drawable/cropcareborder"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <ImageView
+            android:id="@+id/crop_Image"
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/tomato"
+            app:srcCompat="@drawable/crop_shape" />
+
+        <TextView
+            android:id="@+id/crop_Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tomato"
+            android:layout_marginTop="32dp"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/adlam_display"
+            android:textColor="@color/black"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/cropcaretab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CAF0BC"
+        android:layout_marginTop="5dp"
+        app:layout_constraintTop_toBottomOf="@id/topLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:tabIndicatorColor="@color/purple_700"
+        app:tabSelectedTextColor="@color/Green"
+        app:tabTextColor="@color/black"
+        app:tabMode="fixed" />
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/cropcareviewpager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toBottomOf="@id/cropcaretab"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

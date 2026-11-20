@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".amonFragment.amonPage">
+
+
+
+    <!-- Existing LinearLayout -->
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="414dp"
+        android:layout_height="71dp"
+        android:layout_marginStart="1dp"
+        android:background="#C9EDC1"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Amon Paddy"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="34dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-smallcaps"
+            android:background="@drawable/amon" />
+    </LinearLayout>
+
+    <!-- Existing TextView -->
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_conrner_view"
+        android:padding="20px"
+        android:layout_margin="20dp"
+        android:lineSpacingExtra="3dp"
+        android:text="Amon paddy farming is a traditional rice cultivation method in South Asia, primarily relying on the monsoon season's rainfall. It supports local economies and sustains cultural practices related to agriculture."
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.41"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.135" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/amontab"
+        android:layout_width="match_parent"
+        android:background="#CAF0BC"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        app:tabIndicatorColor="@color/purple_700"
+        app:tabSelectedTextColor="@color/Green"
+        app:tabTextColor="@color/black"
+        app:tabMode="fixed"
+        />
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/amonviewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</LinearLayout>

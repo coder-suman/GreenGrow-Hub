@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="black">#FF000000</color>
+<color name="white">#FFFFFFFF</color>
+<color name="Green">#56C12E</color>
+<color name="Grey">#8B75E9</color>
+
+<style name="ToolbarTitleStyle">
+    <item name="android:textStyle">bold</item>  <!-- Make the title text bold -->
+    <item name="android:textSize">45sp</item>   <!-- Optional: set a custom text size -->
+</style>
+        <color name="purple_200">#74FF76</color>
+        <color name="purple_500">#74FF76</color>
+        <color name="purple_700">#35A605</color>
+        <color name="teal_200">#FF03DAC5</color>
+        <color name="teal_700">#FF018786</color>
+</resources>

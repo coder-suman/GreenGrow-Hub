@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/mainPageAbout"
+        android:layout_width="356dp"
+        android:layout_height="102dp"
+        android:background="@drawable/rounded_conrner_view"
+        android:gravity="center"
+        android:text="Paddy is cultivated at least twice a year in most parts of India, the two seasons being known as Rabi and Kharif respectively."
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:padding="25px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.134" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutanim"
+        android:layout_width="415dp"
+        android:layout_height="78dp"
+        android:background="#B5E7B7"
+        android:backgroundTint="#ADD7AE"
+        android:backgroundTintMode="screen"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+
+        <ImageView
+            android:id="@+id/imageViewanim1"
+            android:layout_width="97dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/mainactivitylogo" />
+
+        <ImageView
+            android:id="@+id/imageViewanim2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/mainactivitytext" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="140dp"
+        android:layout_height="35dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Paddy Farming"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.059"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.28">
+
+    </TextView>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/ausPaddy"
+        android:layout_width="91dp"
+        android:layout_height="96dp"
+        android:background="@drawable/aus"
+        android:onClick="aus_page"
+        app:shapeAppearanceOverlay="@style/Rectangular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.109"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.39"/>
+
+    <TextView
+        android:layout_width="86dp"
+        android:layout_height="34dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Aus"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.123"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.479">
+
+    </TextView>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/amonPaddy"
+        android:layout_width="91dp"
+        android:layout_height="96dp"
+        android:background="@drawable/amon"
+        android:onClick="amon_page"
+        app:shapeAppearanceOverlay="@style/Rectangular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.39"/>
+
+
+    <TextView
+        android:layout_width="86dp"
+        android:layout_height="34dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Amon"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.48"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.479">
+
+    </TextView>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/boroPaddy"
+        android:layout_width="91dp"
+        android:layout_height="96dp"
+        android:background="@drawable/boro"
+        android:onClick="boro_page"
+        app:shapeAppearanceOverlay="@style/Rectangular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.84"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.39"/>
+
+    <TextView
+        android:layout_width="86dp"
+        android:layout_height="34dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Boro"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.827"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.479">
+
+    </TextView>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/lawsPaddy"
+        android:layout_width="91dp"
+        android:layout_height="96dp"
+        android:background="#E6DFDF"
+        android:src="@drawable/laws"
+        android:onClick="lawsection_page"
+        app:shapeAppearanceOverlay="@style/Rectangular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.125"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.6"/>
+
+
+    <TextView
+        android:layout_width="86dp"
+        android:layout_height="34dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Laws"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.123"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.672">
+
+    </TextView>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/SeedsPaddy"
+        android:layout_width="91dp"
+        android:layout_height="96dp"
+        android:background="#E6DFDF"
+        android:src="@drawable/seeds"
+        android:onClick="seedSection_page"
+        app:shapeAppearanceOverlay="@style/Rectangular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.6"/>
+
+
+    <TextView
+        android:layout_width="86dp"
+        android:layout_height="34dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Seeds"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.48"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.672">
+
+    </TextView>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/fertilizerPaddy"
+        android:layout_width="91dp"
+        android:layout_height="96dp"
+        android:background="#E6DFDF"
+        android:src="@drawable/fertilizer"
+        android:onClick="fartilizer_page"
+        app:shapeAppearanceOverlay="@style/Rectangular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.84"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.6"/>
+
+
+    <TextView
+        android:layout_width="86dp"
+        android:layout_height="34dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Fertilizer"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.827"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.672">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="79dp"
+        android:layout_height="37dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Tools"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.749">
+
+    </TextView>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/weather"
+        android:layout_width="66dp"
+        android:layout_height="56dp"
+        android:background="#71FF77"
+        android:src="@drawable/weather"
+        android:onClick="weather_page"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.173"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.865"
+        app:shapeAppearanceOverlay="@style/Rectangular" />
+
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Weather Forecast"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.17"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.922">
+
+    </TextView>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:layout_width="66dp"
+        android:layout_height="56dp"
+        android:src="@drawable/protection"
+        android:background="#71FF77"
+        android:onClick="cropProtection_page"
+        app:shapeAppearanceOverlay="@style/Rectangular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.865"/>
+
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Crop Protection"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.922">
+
+    </TextView>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:layout_width="66dp"
+        android:layout_height="56dp"
+        android:src="@drawable/cropcare"
+        android:background="#71FF77"
+        android:onClick="cropcare_page"
+        app:shapeAppearanceOverlay="@style/Rectangular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.805"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.865"/>
+
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Crop Care"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.792"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.922">
+
+    </TextView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/add_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="164dp"
+        android:clickable="true"
+        android:onClick="click_addButton"
+        android:focusable="true"
+        android:backgroundTint="#06AD72"
+        android:tint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.952"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/add_icon" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/feedback_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:clickable="true"
+        android:onClick="Feedback_page"
+        android:focusable="true"
+        android:tint="@color/white"
+        android:visibility="invisible"
+        android:backgroundTint="@color/purple_500"
+        app:layout_constraintBottom_toTopOf="@+id/add_Button"
+        app:layout_constraintEnd_toEndOf="@+id/add_Button"
+        app:srcCompat="@drawable/feedback_icon" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

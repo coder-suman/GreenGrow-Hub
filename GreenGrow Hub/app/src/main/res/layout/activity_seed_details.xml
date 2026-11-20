@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/seed"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".seedsection.seedDetailsActivity"
+    android:background="@color/white">
+
+    <!-- Header -->
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00FF00"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/backFrmSeedsCart"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="Back Button"
+            android:src="@drawable/baseline_arrow_back_24"
+            android:onClick="backFrmSeedsCart"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="20dp"
+            android:text="Paddy Seeds Cart"
+            android:textColor="#000000"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-smallcaps"/>
+
+        <ImageView
+            android:id="@+id/seed_cart_icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="25dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/baseline_shopping_cart_24"
+            android:contentDescription="Cart"/>
+    </LinearLayout>
+
+    <!-- Grid View -->
+    <GridView
+        android:id="@+id/seedGridView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:horizontalSpacing="4dp"
+        android:verticalSpacing="4dp"
+        android:numColumns="2"
+        android:padding="8dp"
+        android:scrollbars="none"
+        android:smoothScrollbar="true"
+        android:stretchMode="columnWidth"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/header"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

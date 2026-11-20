@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KrishiCulture"
+        tools:targetApi="31">
+        <activity
+            android:name=".feedback.feedbackpageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CropProtection.waterPumpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CropProtection.fertilizerRecommendationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CropProtection.cropRecommendationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CropProtection.cropProtectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".seedsection.seedDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fertilizerStore.fartilizerDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fertilizerStore.cartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".userlogin.registrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".userlogin.loginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".userlogin.userdetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lawsectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cropcare.couliflowerPage"
+            android:exported="false" />
+        <activity
+            android:name=".cropcare.ladisfingerPage"
+            android:exported="false" />
+        <activity
+            android:name=".cropcare.cabbagePage"
+            android:exported="false" />
+        <activity
+            android:name=".cropcare.cropcarePage"
+            android:exported="false" />
+        <activity
+            android:name=".splashscreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".weatherForecust.weatherActivity"
+            android:exported="false" />
+        <activity
+            android:name=".weatherForecust.fourDaysforcastActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cropcareActivity"
+            android:exported="false" />
+        <activity
+            android:name=".boroFragment.boroPage"
+            android:exported="false" />
+        <activity
+            android:name=".amonFragment.amonPage"
+            android:exported="false" />
+        <activity
+            android:name=".ausFragment.AusPage"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fertilizerStore.CartListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fertilizerStore.OrderDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fertilizerStore.MyOrdersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".seedsection.SeedCartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".seedsection.MySeedOrdersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".seedsection.SeedOrderDetailsActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name=".MyFirebaseMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

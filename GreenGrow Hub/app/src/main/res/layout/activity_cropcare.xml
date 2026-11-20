@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cropcarepage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".cropcareActivity">
+
+    <!-- Top Header Bar -->
+    <LinearLayout
+        android:id="@+id/headerLayout"
+        android:layout_width="0dp"
+        android:layout_height="?actionBarSize"
+        android:background="@color/purple_200"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <ImageView
+            android:id="@+id/CropLogo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:layout_marginStart="@dimen/spacing_medium"
+            android:onClick="backFrmCropDisplay"
+            android:padding="@dimen/spacing_small"
+            android:background="@drawable/crop_shape"
+            android:src="@drawable/cropcare"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.8"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:text="@string/crop_care_title"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!-- Scrollable Content -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintTop_toBottomOf="@id/headerLayout"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp">
+
+            <!-- Row 1: Tomato, Lady's Finger, Cabbage -->
+            <LinearLayout
+                android:id="@+id/row1"
+                style="@style/CropRowStyle"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/tomato"
+                        android:onClick="tomato_page"
+                        android:src="@drawable/tomato" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/ladysfinger"
+                        android:onClick="ladisfinger_page"
+                        android:src="@drawable/ledisfinger" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/cabage"
+                        android:onClick="cabbage_page"
+                        android:src="@drawable/cabage" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Row 2: Cauliflower, Brinjal, Beans -->
+            <LinearLayout
+                android:id="@+id/row2"
+                style="@style/CropRowStyle"
+                app:layout_constraintTop_toBottomOf="@id/row1">
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/cauliflower"
+                        android:onClick="coliflower_page"
+                        android:src="@drawable/cauliflower" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/brinjal"
+                        android:onClick="brinjal_page"
+                        android:src="@drawable/brinjal" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/beans"
+                        android:onClick="beans_page"
+                        android:src="@drawable/beans" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Row 3: Chili, Onion, Potato -->
+            <LinearLayout
+                android:id="@+id/row3"
+                style="@style/CropRowStyle"
+                app:layout_constraintTop_toBottomOf="@id/row2">
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/chili"
+                        android:onClick="chili_page"
+                        android:src="@drawable/chili" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/onion"
+                        android:onClick="onion_page"
+                        android:src="@drawable/onion" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/potato"
+                        android:onClick="potato_page"
+                        android:src="@drawable/potato" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Row 4: Pumpkin, Papaya, Cucumber -->
+            <LinearLayout
+                android:id="@+id/row4"
+                style="@style/CropRowStyle"
+                app:layout_constraintTop_toBottomOf="@id/row3">
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/pumkin"
+                        android:onClick="pumkin_page"
+                        android:src="@drawable/pumkin" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/papaya"
+                        android:onClick="papaya_page"
+                        android:src="@drawable/papaya" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/cucumber"
+                        android:onClick="cucumber_page"
+                        android:src="@drawable/cucumber" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Row 5: Beet, Carrot, Lemon -->
+            <LinearLayout
+                android:id="@+id/row5"
+                style="@style/CropRowStyle"
+                app:layout_constraintTop_toBottomOf="@id/row4">
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/beet"
+                        android:onClick="beet_page"
+                        android:src="@drawable/beet" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/carrot"
+                        android:onClick="Carrot_page"
+                        android:src="@drawable/carrot" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/lemon"
+                        android:onClick="Lemon_page"
+                        android:src="@drawable/lemon" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Row 6: Coriander, Ginger, Turmeric -->
+            <LinearLayout
+                android:id="@+id/row6"
+                style="@style/CropRowStyle"
+                app:layout_constraintTop_toBottomOf="@id/row5">
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/dhania"
+                        android:onClick="Coriander_page"
+                        android:src="@drawable/dhania" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/ginger"
+                        android:onClick="Ginger_page"
+                        android:src="@drawable/ginger" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/haldi"
+                        android:onClick="Tumeric_page"
+                        android:src="@drawable/haldi" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Row 7: Garlic, Bitter Gourd, Radish -->
+            <LinearLayout
+                android:id="@+id/row7"
+                style="@style/CropRowStyle"
+                app:layout_constraintTop_toBottomOf="@id/row6">
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/rasun"
+                        android:onClick="Garlic_page"
+                        android:src="@drawable/rasun" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/karola"
+                        android:onClick="BitterGourd_page"
+                        android:src="@drawable/karola" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/mula"
+                        android:onClick="Radish_page"
+                        android:src="@drawable/mula" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Row 8: Bottle Gourd, Sweet Potato, Ridge Gourd -->
+            <LinearLayout
+                android:id="@+id/row8"
+                style="@style/CropRowStyle"
+                app:layout_constraintTop_toBottomOf="@id/row7">
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/potol"
+                        android:onClick="BottleGourd_page"
+                        android:src="@drawable/potol" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/sweetpotato"
+                        android:onClick="SweetPotato_page"
+                        android:src="@drawable/sweetpotato" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/CropItemStyle">
+                    <ImageView
+                        style="@style/CropImageStyle"
+                        android:id="@+id/jhinga"
+                        android:onClick="RidgeGourd_page"
+                        android:src="@drawable/jhinga" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

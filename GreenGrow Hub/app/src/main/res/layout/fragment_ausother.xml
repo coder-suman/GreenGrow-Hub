@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ausFragment.ausotherFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="16dp">
+            <!-- Add your TextViews here inside the LinearLayout -->
+            <WebView
+                android:id="@+id/ausothervideo"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"/>
+
+            <TextView
+                android:id="@+id/ausotherdetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/paddy_details_bg"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:lineSpacingExtra="10sp"
+                android:padding="16dp"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

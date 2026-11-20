@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".boroFragment.boroPage">
+
+
+
+  <!-- Existing LinearLayout -->
+  <LinearLayout
+      android:id="@+id/linearLayout2"
+      android:layout_width="414dp"
+      android:layout_height="71dp"
+      android:layout_marginStart="1dp"
+      android:background="#C9EDC1"
+      android:orientation="vertical"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="1.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.0">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Boro Paddy"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="34dp"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-smallcaps"
+        android:background="@drawable/boro" />
+  </LinearLayout>
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="20dp"
+      android:background="@drawable/rounded_conrner_view"
+      android:lineSpacingExtra="3dp"
+      android:padding="20px"
+      android:text="Boro paddy farming is a major rice cultivation method in Bangladesh, primarily grown during the dry season using irrigation. It provides a significant portion of the country’s rice supply and supports farmers' livelihoods."
+      android:textColor="@color/black"
+      android:textSize="14dp"
+      android:textStyle="bold"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.41"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.135" />
+
+  <com.google.android.material.tabs.TabLayout
+      android:id="@+id/borotab"
+      android:layout_width="match_parent"
+      android:background="#CAF0BC"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="5dp"
+      app:tabIndicatorColor="@color/purple_700"
+      app:tabSelectedTextColor="@color/Green"
+      app:tabTextColor="@color/black"
+      app:tabMode="fixed"
+      />
+  <androidx.viewpager.widget.ViewPager
+      android:id="@+id/boroviewpager"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"/>
+
+
+
+</LinearLayout>

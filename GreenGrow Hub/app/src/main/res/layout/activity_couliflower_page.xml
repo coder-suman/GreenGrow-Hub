@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cropcare.couliflowerPage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:background="@drawable/cropcareborder">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/cauliflower"
+            app:srcCompat="@drawable/crop_shape" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cauliflower"
+            android:layout_marginTop="32dp"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/adlam_display"
+            android:textColor="@color/black"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/tomatosection"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="127dp"
+        android:fillViewport="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/linearLayout2">
+
+        <!-- LinearLayout to hold the tabs horizontally -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="110dp"
+            android:orientation="horizontal">
+
+            <!-- Pre Nursery Tab -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/rounded_tab_shape"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="Pre Nursery"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <!-- Nursery Tab -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/rounded_tab_shape"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="Nursery"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <!-- NPK Fertilizer Tab -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/rounded_tab_shape"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="NPK Fertilizer"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <!-- Growing Paddy Tab -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/rounded_tab_shape"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="Growing Paddy"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <!-- Other Tab -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/rounded_tab_shape"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="Other"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Working in Progress..."
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.537" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

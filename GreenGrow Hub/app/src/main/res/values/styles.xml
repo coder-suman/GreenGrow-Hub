@@ -1,0 +1,29 @@
+<resources>
+    <!-- Style for crop item container -->
+    <style name="CropItemStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:background">@drawable/crop_shape</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Style for crop image -->
+    <style name="CropImageStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <!-- Style for crop row -->
+    <style name="CropRowStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:weightSum">3</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+</resources> 
