@@ -9,8 +9,8 @@ import javax.mail.internet.MimeMessage;
 
 public class JavaMailAPI extends AsyncTask<Void, Void, Boolean> {
 
-    private final String emailSender = "manishgiri8101@gmail.com"; // Admin Email
-    private final String emailPassword = "ojfn qfyi kkns stif"; // Use App Password
+    private final String emailSender = "admin123@gmail.com"; // Admin Email
+    private final String emailPassword = " use password"; // Use App Password
     private final String emailReceiver;
     private final String subject;
     private final String messageBody;
