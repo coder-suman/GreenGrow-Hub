@@ -13,7 +13,7 @@ public class feedbackpageActivity extends AppCompatActivity {
 
     EditText etName, etEmail, etMessage;
     Button btnSend;
-    String adminEmail = "manishgiri8101@gmail.com"; // Replace with your admin email
+    String adminEmail = "admin123@gmail.com"; // Replace with your admin email
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
